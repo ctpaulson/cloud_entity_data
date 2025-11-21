@@ -4,42 +4,42 @@
             "id": "aws/resourcetype/AccessAnalyzerAnalyzer",
             "cfnIdentifier": "AWS::AccessAnalyzer::Analyzer",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IAM",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ACMPCACertificate",
             "cfnIdentifier": "AWS::ACMPCA::Certificate",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CertificateManager",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ACMPCACertificateAuthority",
             "cfnIdentifier": "AWS::ACMPCA::CertificateAuthority",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CertificateManager",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ACMPCACertificateAuthorityActivation",
             "cfnIdentifier": "AWS::ACMPCA::CertificateAuthorityActivation",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CertificateManager",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ACMPCAPermission",
             "cfnIdentifier": "AWS::ACMPCA::Permission",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CertificateManager",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AIOpsInvestigationGroup",
             "cfnIdentifier": "AWS::AIOps::InvestigationGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/DevOpsGuru",
             "isMapped": false
         },
         {
@@ -53,301 +53,301 @@
             "id": "aws/resourcetype/AmazonMQBroker",
             "cfnIdentifier": "AWS::AmazonMQ::Broker",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/MQ",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmazonMQConfiguration",
             "cfnIdentifier": "AWS::AmazonMQ::Configuration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/MQ",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmazonMQConfigurationAssociation",
             "cfnIdentifier": "AWS::AmazonMQ::ConfigurationAssociation",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/MQ",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmplifyApp",
             "cfnIdentifier": "AWS::Amplify::App",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Amplify",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmplifyBranch",
             "cfnIdentifier": "AWS::Amplify::Branch",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Amplify",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmplifyDomain",
             "cfnIdentifier": "AWS::Amplify::Domain",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Amplify",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmplifyUIBuilderComponent",
             "cfnIdentifier": "AWS::AmplifyUIBuilder::Component",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Amplify",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmplifyUIBuilderForm",
             "cfnIdentifier": "AWS::AmplifyUIBuilder::Form",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Amplify",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AmplifyUIBuilderTheme",
             "cfnIdentifier": "AWS::AmplifyUIBuilder::Theme",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Amplify",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayAccount",
             "cfnIdentifier": "AWS::ApiGateway::Account",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayApiKey",
             "cfnIdentifier": "AWS::ApiGateway::ApiKey",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayAuthorizer",
             "cfnIdentifier": "AWS::ApiGateway::Authorizer",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayBasePathMapping",
             "cfnIdentifier": "AWS::ApiGateway::BasePathMapping",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayBasePathMappingV2",
             "cfnIdentifier": "AWS::ApiGateway::BasePathMappingV2",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayClientCertificate",
             "cfnIdentifier": "AWS::ApiGateway::ClientCertificate",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayDeployment",
             "cfnIdentifier": "AWS::ApiGateway::Deployment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayDocumentationPart",
             "cfnIdentifier": "AWS::ApiGateway::DocumentationPart",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayDocumentationVersion",
             "cfnIdentifier": "AWS::ApiGateway::DocumentationVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayDomainName",
             "cfnIdentifier": "AWS::ApiGateway::DomainName",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayDomainNameAccessAssociation",
             "cfnIdentifier": "AWS::ApiGateway::DomainNameAccessAssociation",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayDomainNameV2",
             "cfnIdentifier": "AWS::ApiGateway::DomainNameV2",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayGatewayResponse",
             "cfnIdentifier": "AWS::ApiGateway::GatewayResponse",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayMethod",
             "cfnIdentifier": "AWS::ApiGateway::Method",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayModel",
             "cfnIdentifier": "AWS::ApiGateway::Model",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayRequestValidator",
             "cfnIdentifier": "AWS::ApiGateway::RequestValidator",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayResource",
             "cfnIdentifier": "AWS::ApiGateway::Resource",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayStage",
             "cfnIdentifier": "AWS::ApiGateway::Stage",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayUsagePlan",
             "cfnIdentifier": "AWS::ApiGateway::UsagePlan",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayUsagePlanKey",
             "cfnIdentifier": "AWS::ApiGateway::UsagePlanKey",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayVpcLink",
             "cfnIdentifier": "AWS::ApiGateway::VpcLink",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2ApiGatewayManagedOverrides",
             "cfnIdentifier": "AWS::ApiGatewayV2::ApiGatewayManagedOverrides",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2ApiMapping",
             "cfnIdentifier": "AWS::ApiGatewayV2::ApiMapping",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2Authorizer",
             "cfnIdentifier": "AWS::ApiGatewayV2::Authorizer",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2Deployment",
             "cfnIdentifier": "AWS::ApiGatewayV2::Deployment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2DomainName",
             "cfnIdentifier": "AWS::ApiGatewayV2::DomainName",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2Integration",
             "cfnIdentifier": "AWS::ApiGatewayV2::Integration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2IntegrationResponse",
             "cfnIdentifier": "AWS::ApiGatewayV2::IntegrationResponse",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2Model",
             "cfnIdentifier": "AWS::ApiGatewayV2::Model",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2Route",
             "cfnIdentifier": "AWS::ApiGatewayV2::Route",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2RouteResponse",
             "cfnIdentifier": "AWS::ApiGatewayV2::RouteResponse",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2RoutingRule",
             "cfnIdentifier": "AWS::ApiGatewayV2::RoutingRule",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2Stage",
             "cfnIdentifier": "AWS::ApiGatewayV2::Stage",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ApiGatewayV2VpcLink",
             "cfnIdentifier": "AWS::ApiGatewayV2::VpcLink",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/APIGateway",
             "isMapped": false
         },
         {

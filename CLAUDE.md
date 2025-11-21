@@ -13,12 +13,19 @@ The repository is organized into three cloud provider directories:
 ```
 aws/
 ├── category.json                              # Category definitions
-├── resourcetype-mapped.json                   # CloudFormation resource type mappings
-├── canonical-resource-types-Angel-spike.csv   # Full CFN identifier reference
-└── service/                                   # Service definitions by category
+├── resourcetype-mapped.json                   # CloudFormation resource type mappings (59 mapped)
+├── resourcetype-unmapped.json                 # Unmapped resource types (1,418 unmapped)
+├── canonical-resource-types-Angel-spike.csv   # Full CFN identifier reference (1,477 total)
+├── canonical-resource-types-unmapped.csv      # Filtered unmapped resources only
+├── AWS-Icons_07312025/                        # Official AWS service icons by category (391 services)
+│   ├── Analytics/
+│   ├── Compute/
+│   ├── Security-Identity-Compliance/
+│   └── [24 more categories...]
+└── service/                                   # Service definitions by category (234 services)
     ├── Analytics.json
     ├── Compute.json
-    └── [other categories...]
+    └── [21 more categories...]
 
 azure/
 ├── category.json                              # Category definitions
@@ -78,7 +85,24 @@ AWS resource types map CloudFormation identifiers to internal type systems:
 - `cfnIdentifier`: CloudFormation resource type (format: `AWS::[Service]::[Resource]`)
 - `typeIdentifier`: Internal type enumeration (format: `AwsResourceTypes.[Type]`)
 - `serviceId`: Reference to parent service
-- `isMapped`: Boolean indicating mapping status
+- `isMapped`: Boolean indicating mapped vs. unmapped status
+
+**Mapped vs. Unmapped Resource Types**
+Resource types may be either "mapped" or "unmapped". This is a designation of the level of support each resource type has within our product, NOT the level of mapping of metadata in this repository.
+
+*Mapped resource: A cloud resource that we can automatically place in a meaningful, hierarchically correct location on the canvas.*
+- A resource is considered "mapped" when Lucid has high confidence in its precise location within a user's cloud environment's structure (e.g., inside a specific VPC and Subnet, rather than just at the Account level).
+- Lucid's ability to place a mapped resource correctly can depend on the structure settings configured for the current view.
+- Even if a more precise location could theoretically exist, a resource is still considered mapped as long as Lucid can place it in a location that is more specific than the top-level environment (Account, Subscription, or Project).
+
+*Unmapped resource: A cloud resource that was discovered during the import process but cannot be automatically placed on the canvas by Lucid.*
+- Unmapped resources appear in the resource explorer but must be placed on the canvas by a user.
+- A resource may be unmapped for several reasons:
+  - Insufficient Metadata: The cloud provider's APIs may not provide the necessary data to determine its location.
+  - Lack of Lucid Support: Lucid has not yet developed automatic placement support for this specific resource type.
+  - Configuration-Only Resource: The resource is primarily a configuration setting for another resource and doesn't have its own logical place in a diagram.
+  - Incomplete Import: The necessary metadata was not imported due to credential permissions, user settings during the import, or an error during the import process.
+- Manual placement: Users can place an unmapped resource by dragging it from the Resources Panel and placing it inside a container shape (like a Subnet). Once they do this, Lucid "trusts" their placement and treats the resource as a managed shape in that location across all relevant views in the document.
 
 **Important: Service Mapping Philosophy**
 
@@ -92,8 +116,16 @@ This repository uses **colloquial service names** that reflect common usage and 
 **Mapping Guidelines:**
 - Use **judgment based on training data** and common AWS terminology, not pattern matching on CloudFormation identifiers
 - Consider how AWS markets and documents the service
+- **Cross-reference with AWS icon set** (`AWS-Icons_07312025/`) - the official icons represent AWS's marketing perspective on services
 - If a resource belongs to a service not yet in the repository, **VERIFY WITH THE USER** before creating a new service definition
 - Do not automatically create services based on CloudFormation namespace patterns (e.g., `AWS::NewService::*` doesn't automatically mean create `/aws/service/NewService`)
+
+**Icon Directory Reference:**
+- AWS provides official service icons in `aws/AWS-Icons_07312025/` organized by 27 categories
+- Icon names use hyphenated format (e.g., `AWS-Amplify`, `Amazon-EC2`)
+- Service definitions use camelCase format (e.g., `Amplify`, `EC2`)
+- The icon set contains 391 services - some services in definitions may not have icons, and some icons may not have service definitions yet
+- When in doubt about a service's existence or categorization, check if it has an official AWS icon
 
 ## Working with the Data
 
