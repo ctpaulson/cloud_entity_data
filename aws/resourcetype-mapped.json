@@ -67,7 +67,7 @@
             "id": "aws/resourcetype/EC2CustomerGateway",
             "cfnIdentifier": "AWS::EC2::CustomerGateway",
             "typeIdentifier": "AwsResourceTypes.CustomerGateways",
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": true
         },
         {
@@ -172,7 +172,7 @@
             "id": "aws/resourcetype/EC2NetworkInterface",
             "cfnIdentifier": "AWS::EC2::NetworkInterface",
             "typeIdentifier": "AwsResourceTypes.ElasticNetworkInterfaces",
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": true
         },
         {
@@ -214,7 +214,7 @@
             "id": "aws/resourcetype/EC2InternetGateway",
             "cfnIdentifier": "AWS::EC2::InternetGateway",
             "typeIdentifier": "AwsResourceTypes.InternetGateways",
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": true
         },
         {
@@ -263,14 +263,14 @@
             "id": "aws/resourcetype/EC2NATGateway",
             "cfnIdentifier": "AWS::EC2::NatGateway",
             "typeIdentifier": "AwsResourceTypes.NATGateways",
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": true
         },
         {
             "id": "aws/resourcetype/EC2NetworkAcl",
             "cfnIdentifier": "AWS::EC2::NetworkAcl",
             "typeIdentifier": "AwsResourceTypes.NetworkACLs",
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": true
         },
         {
@@ -312,7 +312,7 @@
             "id": "aws/resourcetype/EC2RouteTable",
             "cfnIdentifier": "AWS::EC2::RouteTable",
             "typeIdentifier": "AwsResourceTypes.RouteTables",
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": true
         },
         {
