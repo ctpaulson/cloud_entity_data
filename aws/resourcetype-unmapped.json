@@ -3847,700 +3847,700 @@
             "id": "aws/resourcetype/EventsArchive",
             "cfnIdentifier": "AWS::Events::Archive",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventsConnection",
             "cfnIdentifier": "AWS::Events::Connection",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventsEndpoint",
             "cfnIdentifier": "AWS::Events::Endpoint",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventsEventBusPolicy",
             "cfnIdentifier": "AWS::Events::EventBusPolicy",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventSchemasDiscoverer",
             "cfnIdentifier": "AWS::EventSchemas::Discoverer",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventSchemasRegistry",
             "cfnIdentifier": "AWS::EventSchemas::Registry",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventSchemasRegistryPolicy",
             "cfnIdentifier": "AWS::EventSchemas::RegistryPolicy",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventSchemasSchema",
             "cfnIdentifier": "AWS::EventSchemas::Schema",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EvidentlyExperiment",
             "cfnIdentifier": "AWS::Evidently::Experiment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CloudWatch",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EvidentlyFeature",
             "cfnIdentifier": "AWS::Evidently::Feature",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CloudWatch",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EvidentlyLaunch",
             "cfnIdentifier": "AWS::Evidently::Launch",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CloudWatch",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EvidentlyProject",
             "cfnIdentifier": "AWS::Evidently::Project",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CloudWatch",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EvidentlySegment",
             "cfnIdentifier": "AWS::Evidently::Segment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/CloudWatch",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EVSEnvironment",
             "cfnIdentifier": "AWS::EVS::Environment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IVS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FinSpaceEnvironment",
             "cfnIdentifier": "AWS::FinSpace::Environment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FinSpace",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FISExperimentTemplate",
             "cfnIdentifier": "AWS::FIS::ExperimentTemplate",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FaultInjectionService",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FISTargetAccountConfiguration",
             "cfnIdentifier": "AWS::FIS::TargetAccountConfiguration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FaultInjectionService",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FMSNotificationChannel",
             "cfnIdentifier": "AWS::FMS::NotificationChannel",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FirewallManager",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FMSPolicy",
             "cfnIdentifier": "AWS::FMS::Policy",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FirewallManager",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FMSResourceSet",
             "cfnIdentifier": "AWS::FMS::ResourceSet",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FirewallManager",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ForecastDataset",
             "cfnIdentifier": "AWS::Forecast::Dataset",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Forecast",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ForecastDatasetGroup",
             "cfnIdentifier": "AWS::Forecast::DatasetGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Forecast",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FraudDetectorDetector",
             "cfnIdentifier": "AWS::FraudDetector::Detector",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FraudDetector",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FraudDetectorEntityType",
             "cfnIdentifier": "AWS::FraudDetector::EntityType",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FraudDetector",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FraudDetectorEventType",
             "cfnIdentifier": "AWS::FraudDetector::EventType",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FraudDetector",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FraudDetectorLabel",
             "cfnIdentifier": "AWS::FraudDetector::Label",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FraudDetector",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FraudDetectorList",
             "cfnIdentifier": "AWS::FraudDetector::List",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FraudDetector",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FraudDetectorOutcome",
             "cfnIdentifier": "AWS::FraudDetector::Outcome",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FraudDetector",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FraudDetectorVariable",
             "cfnIdentifier": "AWS::FraudDetector::Variable",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FraudDetector",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FSxDataRepositoryAssociation",
             "cfnIdentifier": "AWS::FSx::DataRepositoryAssociation",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FSxForLustre",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FSxFileSystem",
             "cfnIdentifier": "AWS::FSx::FileSystem",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FSxForWindowsFileServer",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FSxS3AccessPointAttachment",
             "cfnIdentifier": "AWS::FSx::S3AccessPointAttachment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FSxForNetAppONTAP",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FSxSnapshot",
             "cfnIdentifier": "AWS::FSx::Snapshot",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FSxForWindowsFileServer",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FSxStorageVirtualMachine",
             "cfnIdentifier": "AWS::FSx::StorageVirtualMachine",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FSxForNetAppONTAP",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/FSxVolume",
             "cfnIdentifier": "AWS::FSx::Volume",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/FSxForWindowsFileServer",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftAlias",
             "cfnIdentifier": "AWS::GameLift::Alias",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftBuild",
             "cfnIdentifier": "AWS::GameLift::Build",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftContainerFleet",
             "cfnIdentifier": "AWS::GameLift::ContainerFleet",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftContainerGroupDefinition",
             "cfnIdentifier": "AWS::GameLift::ContainerGroupDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftFleet",
             "cfnIdentifier": "AWS::GameLift::Fleet",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftGameServerGroup",
             "cfnIdentifier": "AWS::GameLift::GameServerGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftGameSessionQueue",
             "cfnIdentifier": "AWS::GameLift::GameSessionQueue",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftLocation",
             "cfnIdentifier": "AWS::GameLift::Location",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftMatchmakingConfiguration",
             "cfnIdentifier": "AWS::GameLift::MatchmakingConfiguration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftMatchmakingRuleSet",
             "cfnIdentifier": "AWS::GameLift::MatchmakingRuleSet",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GameLiftScript",
             "cfnIdentifier": "AWS::GameLift::Script",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GameLiftServers",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlobalAcceleratorAccelerator",
             "cfnIdentifier": "AWS::GlobalAccelerator::Accelerator",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GlobalAccelerator",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlobalAcceleratorCrossAccountAttachment",
             "cfnIdentifier": "AWS::GlobalAccelerator::CrossAccountAttachment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GlobalAccelerator",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlobalAcceleratorEndpointGroup",
             "cfnIdentifier": "AWS::GlobalAccelerator::EndpointGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GlobalAccelerator",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlobalAcceleratorListener",
             "cfnIdentifier": "AWS::GlobalAccelerator::Listener",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GlobalAccelerator",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueClassifier",
             "cfnIdentifier": "AWS::Glue::Classifier",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueConnection",
             "cfnIdentifier": "AWS::Glue::Connection",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueCrawler",
             "cfnIdentifier": "AWS::Glue::Crawler",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueCustomEntityType",
             "cfnIdentifier": "AWS::Glue::CustomEntityType",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueDatabase",
             "cfnIdentifier": "AWS::Glue::Database",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueDataCatalogEncryptionSettings",
             "cfnIdentifier": "AWS::Glue::DataCatalogEncryptionSettings",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueDataQualityRuleset",
             "cfnIdentifier": "AWS::Glue::DataQualityRuleset",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueDevEndpoint",
             "cfnIdentifier": "AWS::Glue::DevEndpoint",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueJob",
             "cfnIdentifier": "AWS::Glue::Job",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueMLTransform",
             "cfnIdentifier": "AWS::Glue::MLTransform",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GluePartition",
             "cfnIdentifier": "AWS::Glue::Partition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueRegistry",
             "cfnIdentifier": "AWS::Glue::Registry",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueSchema",
             "cfnIdentifier": "AWS::Glue::Schema",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueSchemaVersion",
             "cfnIdentifier": "AWS::Glue::SchemaVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueSchemaVersionMetadata",
             "cfnIdentifier": "AWS::Glue::SchemaVersionMetadata",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueSecurityConfiguration",
             "cfnIdentifier": "AWS::Glue::SecurityConfiguration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueTable",
             "cfnIdentifier": "AWS::Glue::Table",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueTableOptimizer",
             "cfnIdentifier": "AWS::Glue::TableOptimizer",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueTrigger",
             "cfnIdentifier": "AWS::Glue::Trigger",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueUsageProfile",
             "cfnIdentifier": "AWS::Glue::UsageProfile",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GlueWorkflow",
             "cfnIdentifier": "AWS::Glue::Workflow",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/Glue",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GrafanaWorkspace",
             "cfnIdentifier": "AWS::Grafana::Workspace",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ManagedGrafana",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassConnectorDefinition",
             "cfnIdentifier": "AWS::Greengrass::ConnectorDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassConnectorDefinitionVersion",
             "cfnIdentifier": "AWS::Greengrass::ConnectorDefinitionVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassCoreDefinition",
             "cfnIdentifier": "AWS::Greengrass::CoreDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassCoreDefinitionVersion",
             "cfnIdentifier": "AWS::Greengrass::CoreDefinitionVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassDeviceDefinition",
             "cfnIdentifier": "AWS::Greengrass::DeviceDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassDeviceDefinitionVersion",
             "cfnIdentifier": "AWS::Greengrass::DeviceDefinitionVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassFunctionDefinition",
             "cfnIdentifier": "AWS::Greengrass::FunctionDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassFunctionDefinitionVersion",
             "cfnIdentifier": "AWS::Greengrass::FunctionDefinitionVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassGroup",
             "cfnIdentifier": "AWS::Greengrass::Group",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassGroupVersion",
             "cfnIdentifier": "AWS::Greengrass::GroupVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassLoggerDefinition",
             "cfnIdentifier": "AWS::Greengrass::LoggerDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassLoggerDefinitionVersion",
             "cfnIdentifier": "AWS::Greengrass::LoggerDefinitionVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassResourceDefinition",
             "cfnIdentifier": "AWS::Greengrass::ResourceDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassResourceDefinitionVersion",
             "cfnIdentifier": "AWS::Greengrass::ResourceDefinitionVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassSubscriptionDefinition",
             "cfnIdentifier": "AWS::Greengrass::SubscriptionDefinition",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassSubscriptionDefinitionVersion",
             "cfnIdentifier": "AWS::Greengrass::SubscriptionDefinitionVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassV2ComponentVersion",
             "cfnIdentifier": "AWS::GreengrassV2::ComponentVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GreengrassV2Deployment",
             "cfnIdentifier": "AWS::GreengrassV2::Deployment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTGreengrass",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GroundStationConfig",
             "cfnIdentifier": "AWS::GroundStation::Config",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GroundStation",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GroundStationDataflowEndpointGroup",
             "cfnIdentifier": "AWS::GroundStation::DataflowEndpointGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GroundStation",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GroundStationMissionProfile",
             "cfnIdentifier": "AWS::GroundStation::MissionProfile",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GroundStation",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GuardDutyDetector",
             "cfnIdentifier": "AWS::GuardDuty::Detector",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GuardDuty",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GuardDutyFilter",
             "cfnIdentifier": "AWS::GuardDuty::Filter",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GuardDuty",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GuardDutyIPSet",
             "cfnIdentifier": "AWS::GuardDuty::IPSet",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GuardDuty",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GuardDutyMalwareProtectionPlan",
             "cfnIdentifier": "AWS::GuardDuty::MalwareProtectionPlan",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GuardDuty",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GuardDutyMaster",
             "cfnIdentifier": "AWS::GuardDuty::Master",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GuardDuty",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GuardDutyMember",
             "cfnIdentifier": "AWS::GuardDuty::Member",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GuardDuty",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/GuardDutyPublishingDestination",
             "cfnIdentifier": "AWS::GuardDuty::PublishingDestination",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/GuardDuty",
             "isMapped": false
         },
         {
