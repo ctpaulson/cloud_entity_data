@@ -4,6 +4,7 @@
       "id": "/aws/service/AutoScaling",
       "fullName": "AWS Auto Scaling",
       "shortName": "Auto Scaling",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Auto-Scaling/Service_AWS-Auto-Scaling.svg",
       "description": "AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. Using AWS Auto Scaling, it’s easy to setup application scaling for multiple resources across multiple services in minutes. The service provides a simple, powerful user interface that lets you build scaling plans for resources including Amazon EC2 instances and Spot Fleets, Amazon ECS tasks, Amazon DynamoDB tables and indexes, and Amazon Aurora Replicas. AWS Auto Scaling makes scaling simple with recommendations that allow you to optimize performance, costs, or balance between them. If you’re already using Amazon EC2 Auto Scaling to dynamically scale your Amazon EC2 instances, you can now combine it with AWS Auto Scaling to scale additional resources for other AWS services. With AWS Auto Scaling, your applications always have the right resources at the right time.",
       "categoryId": "/aws/category/Management"
     },
@@ -11,6 +12,7 @@
       "id": "/aws/service/CloudFormation",
       "fullName": "AWS CloudFormation",
       "shortName": "CloudFormation",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-CloudFormation/Service_AWS-CloudFormation.svg",
       "description": "AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion. You can use the AWS CloudFormation sample templates or create your own templates to describe your AWS resources, and any associated dependencies or runtime parameters, required to run your application. You don’t need to figure out the order for provisioning AWS services or the subtleties of making those dependencies work. CloudFormation takes care of this for you. After the AWS resources are deployed, you can modify and update them in a controlled and predictable way, in effect applying version control to your AWS infrastructure the same way you do with your software. You can also visualize your templates as diagrams and edit them using a drag-and-drop interface with AWS Infrastructure Composer.",
       "categoryId": "/aws/category/Management"
     },
@@ -18,6 +20,7 @@
       "id": "/aws/service/CloudTrail",
       "fullName": "AWS CloudTrail",
       "shortName": "CloudTrail",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-CloudTrail/Service_AWS-CloudTrail.svg",
       "description": "AWS CloudTrail is a web service that records AWS API calls for your account and delivers log files to you. The recorded information includes the identity of the API caller, the time of the API call, the source IP address of the API caller, the request parameters, and the response elements returned by the AWS service.\nWith CloudTrail, you can get a history of AWS API calls for your account, including API calls made using the AWS Management Console, AWS SDKs, command line tools, and higher-level AWS services (such as AWS CloudFormation). The AWS API call history produced by CloudTrail enables security analysis, resource change tracking, and compliance auditing.",
       "categoryId": "/aws/category/Management"
     },
@@ -25,6 +28,7 @@
       "id": "/aws/service/CloudWatch",
       "fullName": "Amazon CloudWatch",
       "shortName": "CloudWatch",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/Amazon-CloudWatch/Service_Amazon-CloudWatch.svg",
       "description": "Amazon CloudWatch is a monitoring and management service built for developers, system operators, site reliability engineers (SRE), and IT managers. CloudWatch provides you with data and actionable insights to monitor your applications, understand and respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health. CloudWatch collects monitoring and operational data in the form of logs, metrics, and events, providing you with a unified view of AWS resources, applications and services that run on AWS, and on-premises servers. You can use CloudWatch to set high resolution alarms, visualize logs and metrics side by side, take automated actions, troubleshoot issues, and discover insights to optimize your applications, and ensure they are running smoothly.",
       "categoryId": "/aws/category/Management"
     },
@@ -32,6 +36,7 @@
       "id": "/aws/service/ComputeOptimizer",
       "fullName": "AWS Compute Optimizer",
       "shortName": "Compute Optimizer",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Compute-Optimizer/Service_AWS-Compute-Optimizer.svg",
       "description": "AWS Compute Optimizer recommends optimal AWS resources for your workloads to reduce costs and improve performance by using machine learning to analyze historical utilization metrics. Over-provisioning resources can lead to unnecessary infrastructure cost, and under-provisioning resources can lead to poor application performance. Compute Optimizer helps you choose optimal configurations for three types of AWS resources: Amazon EC2 instances, Amazon EBS volumes, and AWS Lambda functions, based on your utilization data.\nBy applying the knowledge drawn from Amazon’s own experience running diverse workloads in the cloud, Compute Optimizer identifies workload patterns and recommends optimal AWS resources. Compute Optimizer analyzes the configuration and resource utilization of your workload to identify dozens of defining characteristics, for example, if a workload is CPU-intensive, if it exhibits a daily pattern, or if a workload accesses local storage frequently. The service processes these characteristics and identifies the hardware resource required by the workload. Compute Optimizer infers how the workload would have performed on various hardware platforms (such as Amazon EC2 instances types) or using different configurations (such as Amazon EBS volume IOPS settings, and AWS Lambda function memory sizes) to offer recommendations.\nCompute Optimizer is available to you at no additional charge. To get started, you can opt in to the service in the AWS Compute Optimizer Console.",
       "categoryId": "/aws/category/Management"
     },
@@ -39,6 +44,7 @@
       "id": "/aws/service/ConsoleMobileApplication",
       "fullName": "AWS Console Mobile Application",
       "shortName": "Console Mobile Application",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Console-Mobile-Application/Service_AWS-Console-Mobile-Application.svg",
       "description": "The AWS Console Mobile Application lets customers view and manage a select set of resources to support incident response while on-the-go.\nThe AWS Console Mobile Application allows AWS customers to monitor resources through a dedicated dashboard and view configuration details, metrics, and alarms for select AWS services. The Dashboard provides permitted users with a single view a resource's status, with real-time data on Amazon CloudWatch, AWS Health Dashboard, and AWS Billing and Cost Management. Customers can view ongoing issues and follow through to the relevant CloudWatch alarm screen for a detailed view with graphs and configuration options. In addition, customers can check on the status of specific AWS services, view detailed resource screens, and perform select actions.",
       "categoryId": "/aws/category/Management"
     },
@@ -46,6 +52,7 @@
       "id": "/aws/service/ControlTower",
       "fullName": "AWS Control Tower",
       "shortName": "Control Tower",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Control-Tower/Service_AWS-Control-Tower.svg",
       "description": "AWS Control Tower automates the set-up of a baseline environment, or landing zone, that is a secure, well-architected multi-account AWS environment. The configuration of the landing zone is based on best practices that have been established by working with thousands of enterprise customers to create a secure environment that makes it easier to govern AWS workloads with rules for security, operations, and compliance.\nAs enterprises migrate to AWS, they typically have a large number of applications and distributed teams. They often want to create multiple accounts to allow their teams to work independently, while still maintaining a consistent level of security and compliance. In addition, they use AWS management and security services, such as AWS Organizations, Service Catalog and AWS Config, that provide very granular controls over their workloads. They want to maintain this control, but they also want a way to centrally govern and enforce the best use of AWS services across all the accounts in their environment.\nAWS Control Tower automates the set-up of their landing zone and configures AWS management and security services based on established best practices in a secure, compliant, multi-account environment. Distributed teams are able to provision new AWS accounts quickly, while central teams have the peace of mind knowing that new accounts are aligned with centrally established, company-wide compliance policies. This gives you control over your environment, without sacrificing the speed and agility AWS provides your development teams.",
       "categoryId": "/aws/category/Management"
     },
@@ -53,6 +60,7 @@
       "id": "/aws/service/Config",
       "fullName": "AWS Config",
       "shortName": "Config",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Config/Service_AWS-Config.svg",
       "description": "AWS Config is a fully managed service that provides you with an AWS resource inventory, configuration history, and configuration change notifications to enable security and governance. The AWS Config Rules feature enables you to create rules that automatically check the configuration of AWS resources recorded by AWS Config.\nWith AWS Config, you can discover existing and deleted AWS resources, determine your overall compliance against rules, and dive into configuration details of a resource at any point in time. These capabilities enable compliance auditing, security analysis, resource change tracking, and troubleshooting.",
       "categoryId": "/aws/category/Management"
     },
@@ -60,6 +68,7 @@
       "id": "/aws/service/Health",
       "fullName": "AWS Health",
       "shortName": "Health",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Health-Dashboard/Service_AWS-Health-Dashboard.svg",
       "description": "AWS Health provides alerts and remediation guidance when AWS is experiencing events that might affect you. While the Service Health Dashboard displays the general status of AWS services, AWS Health Dashboard gives you a personalized view into the performance and availability of the AWS services underlying your AWS resources. The dashboard displays relevant and timely information to help you manage events in progress, and provides proactive notification to help you plan for scheduled activities. With AWS Health, alerts are automatically initiated by changes in the health of AWS resources, giving you event visibility and guidance to help quickly diagnose and resolve issues.",
       "categoryId": "/aws/category/Management"
     },
@@ -67,6 +76,7 @@
       "id": "/aws/service/LaunchWizard",
       "fullName": "AWS Launch Wizard",
       "shortName": "Launch Wizard",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Launch-Wizard/Service_AWS-Launch-Wizard.svg",
       "description": "AWS Launch Wizard offers a guided way of sizing, configuring, and deploying AWS resources for third party applications, such as Microsoft SQL Server Always On and HANA based SAP systems, without the need to manually identify and provision individual AWS resources. To start, you input your application requirements, including performance, number of nodes, and connectivity on the service console. Launch Wizard then identifies the right AWS resources, such as EC2 instances and EBS volumes, to deploy and run your application. Launch Wizard provides an estimated cost of deployment, and lets you modify your resources to instantly view an updated cost assessment. Once you approve the AWS resources, Launch Wizard automatically provisions and configures the selected resources to create a fully functioning, production-ready application.",
       "categoryId": "/aws/category/Management"
     },
@@ -74,6 +84,7 @@
       "id": "/aws/service/LicenseManager",
       "fullName": "AWS License Manager",
       "shortName": "License Manager",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-License-Manager/Service_AWS-License-Manager.svg",
       "description": "AWS License Manager makes it easier to manage licenses in AWS and on-premises servers from software vendors such as Microsoft, SAP, Oracle, and IBM. AWS License Manager lets administrators create customized licensing rules that emulate the terms of their licensing agreements, and then enforces these rules when an instance of Amazon EC2 gets launched. Administrators can use these rules to limit licensing violations, such as using more licenses than an agreement stipulates or reassigning licenses to different servers on a short-term basis. The rules in AWS License Manager enable you to limit a licensing breach by physically stopping the instance from launching or by notifying administrators about the infringement. Administrators gain control and visibility of all their licenses with the AWS License Manager dashboard and reduce the risk of non-compliance, misreporting, and additional costs due to licensing overages.\nAWS License Manager integrates with AWS services to simplify the management of licenses across multiple AWS accounts, IT catalogs, and on-premises, through a single AWS account. License administrators can add rules in Service Catalog, which allows them to create and manage catalogs of IT services that are approved for use on all their AWS accounts. Through seamless integration with AWS Systems Manager and AWS Organizations, administrators can manage licenses across all the AWS accounts in an organization and on-premises environments. AWS Marketplace buyers can also use AWS License Manager to track bring your own license (BYOL) software obtained from the Marketplace and keep a consolidated view of all their licenses.",
       "categoryId": "/aws/category/Management"
     },
@@ -81,6 +92,7 @@
       "id": "/aws/service/ManagedGrafana",
       "fullName": "Amazon Managed Grafana",
       "shortName": "Managed Grafana",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/Amazon-Managed-Grafana/Service_Amazon-Managed-Grafana.svg",
       "description": "Amazon Managed Grafana is a fully managed and secure data visualization service that you can use to instantly query, correlate, and visualize operational metrics, logs, and traces from multiple sources. Amazon Managed Grafana makes it easy to deploy, operate, and scale Grafana, a widely deployed open-source data visualization tool that is popular for its extensible data support.\nAmazon Managed Grafana provides built-in security features for compliance with corporate governance requirements, including single sign-on, data access control, and audit reporting. Amazon Managed Grafana integrates with AWS data sources, such as Amazon CloudWatch, Amazon OpenSearch Service, AWS X-Ray, AWS IoT SiteWise, Amazon Timestream, and Amazon Managed Service for Prometheus. Amazon Managed Grafana also supports many popular open-source, third party, and other cloud data sources.",
       "categoryId": "/aws/category/Management"
     },
@@ -88,6 +100,7 @@
       "id": "/aws/service/ManagedServiceForPrometheus",
       "fullName": "Amazon Managed Service for Prometheus",
       "shortName": "Managed Service for Prometheus",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/Amazon-Managed-Service-for-Prometheus/Service_Amazon-Managed-Service-for-Prometheus.svg",
       "description": "Amazon Managed Service for Prometheus is a serverless, Prometheus-compatible monitoring service for container metrics that makes it easier to securely monitor container environments at scale. With Amazon Managed Service for Prometheus, you can use the same open-source Prometheus data model and query language that you use today to monitor the performance of your containerized workloads, and also enjoy improved scalability, availability, and security without having to manage the underlying infrastructure.\nAmazon Managed Service for Prometheus automatically scales the ingestion, storage, and querying of operational metrics as workloads scale up and down. It integrates with AWS security services to enable fast and secure access to data. Designed to be highly available, data ingested into a workspace is replicated across three Availability Zones in the same AWS Region.",
       "categoryId": "/aws/category/Management"
     },
@@ -95,6 +108,7 @@
       "id": "/aws/service/Organizations",
       "fullName": "AWS Organizations",
       "shortName": "Organizations",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Organizations/Service_AWS-Organizations.svg",
       "description": "AWS Organizations helps you centrally manage and govern your environment as you grow and scale your AWS resources. Using AWS Organizations, you can programmatically create new AWS accounts and allocate resources, group accounts to organize your workflows, apply policies to accounts or groups for governance, and simplify billing by using a single payment method for all of your accounts.\nIn addition, AWS Organizations is integrated with other AWS services so you can define central configurations, security mechanisms, audit requirements, and resource sharing across accounts in your organization. AWS Organizations is available to all AWS customers at no additional charge.",
       "categoryId": "/aws/category/Management"
     },
@@ -109,6 +123,7 @@
       "id": "/aws/service/Proton",
       "fullName": "AWS Proton",
       "shortName": "Proton",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Proton/Service_AWS-Proton.svg",
       "description": "AWS Proton is the first fully managed delivery service for container and serverless applications. Platform engineering teams can use AWS Proton to connect and coordinate all the different tools needed for infrastructure provisioning, code deployments, monitoring, and updates.\nMaintaining hundreds – or sometimes thousands – of microservices with constantly changing infrastructure resources and continuous integration/continuous delivery (CI/CD) configurations is a nearly impossible task for even the most capable platform teams. AWS Proton solves this by giving platform teams the tools they need to manage this complexity and enforce consistent standards, while making it easy for developers to deploy their code using containers and serverless technologies.",
       "categoryId": "/aws/category/Management"
     },
@@ -116,6 +131,7 @@
       "id": "/aws/service/QDeveloperInChatApplications",
       "fullName": "Amazon Q Developer in chat applications (formerly AWS Chatbot)",
       "shortName": "Q Developer in chat applications",
+      "iconPath": "AWS-Icons_07312025/Artificial-Intelligence/Amazon-Q/Service_Amazon-Q.svg",
       "description": "Amazon Q Developer in chat applications is an interactive agent that makes it easy to monitor and interact with your AWS resources in your Slack, Microsoft Teams, and Amazon Chime chat rooms. With Amazon Q Developer in chat applications, you can receive alerts, run commands to return diagnostic information, invoke AWS Lambda functions, and create AWS support cases.\nAmazon Q Developer in chat applications manages the integration between AWS services and your Slack channels, Microsoft Teams, and Amazon Chime chat rooms helping you to get started with ChatOps fast. With just a few clicks, you can start receiving notifications and issuing commands in your chosen channels or chat rooms, so your team doesn’t have to switch contexts to collaborate. Amazon Q Developer in chat applications makes it easier for your team to stay updated, collaborate, and respond faster to operational events, security findings, CI/CD workflows, budget, and other alerts for applications running in your AWS accounts.",
       "categoryId": "/aws/category/Management"
     },
@@ -123,6 +139,7 @@
       "id": "/aws/service/ServiceCatalog",
       "fullName": "AWS Service Catalog",
       "shortName": "Service Catalog",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Service-Catalog/Service_AWS-Service-Catalog.svg",
       "description": "AWS Service Catalog allows organizations to create and manage catalogs of IT services that are approved for use on AWS. These IT services can include everything from virtual machine images, servers, software, and databases to complete multi-tier application architectures. Service Catalog allows you to centrally manage commonly deployed IT services and helps you achieve consistent governance and meet your compliance requirements, while enabling users to quickly deploy only the approved IT services they need.",
       "categoryId": "/aws/category/Management"
     },
@@ -130,6 +147,7 @@
       "id": "/aws/service/SystemsManager",
       "fullName": "AWS Systems Manager",
       "shortName": "Systems Manager",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Systems-Manager/Service_AWS-Systems-Manager.svg",
       "description": "AWS Systems Manager gives you visibility and control of your infrastructure on AWS. Systems Manager provides a unified user interface so you can view operational data from multiple AWS services and allows you to automate operational tasks across your AWS resources. With Systems Manager, you can group resources, such as Amazon EC2 instances, Amazon S3 buckets, or Amazon RDS instances, by application, view operational data for monitoring and troubleshooting, and take action on your groups of resources. Systems Manager simplifies resource and application management, shortens the time to detect and resolve operational problems, and makes it easy to operate and manage your infrastructure securely at scale.\nAWS Systems Manager contains the following tools:\n• Resource groups — Lets you create a logical group of resources associated with a particular workload such as different layers of an application stack, or production versus development environments. For example, you can group different layers of an application, such as the frontend web layer and the backend data layer. Resource groups can be created, updated, or removed programmatically through the API.\n• Insights dashboard — Displays operational data that the AWS Systems Manager automatically aggregates for each resource group. Systems Manager eliminates the need for you to navigate across multiple AWS consoles to view your operational data. With Systems Manager you can view API call logs from AWS CloudTrail, resource configuration changes from AWS Config, software inventory, and patch compliance status by resource group. You can also easily integrate your Amazon CloudWatch dashboards, AWS Trusted Advisor notifications, and AWS Health Dashboard performance and availability alerts into your Systems Manager dashboard. Systems Manager centralizes all relevant operational data, so you can have a clear view of your infrastructure compliance and performance.\n• Run command — Provides a simple way of automating common administrative tasks such as remotely running shell scripts or PowerShell commands, installing software updates, or making changes to the configuration of OS, software, EC2 and instances and servers in your on-premises data center.\n• State Manager — Helps you define and maintain consistent OS configurations such as firewall settings and anti-malware definitions to comply with your policies. You can monitor the configuration of a large set of instances, specify a configuration policy for the instances, and automatically apply updates or configuration changes.\n• Inventory — Helps you collect and query configuration and inventory information about your instances and the software installed on them. You can gather details about your instances such as installed applications, DHCP settings, agent detail, and custom items. You can run queries to track and audit your system configurations.\n• Maintenance Window — Lets you define a recurring window of time to run administrative and maintenance tasks across your instances. This ensures that installing patches and updates, or making other configuration changes does not disrupt business-critical operations. This helps improve your application availability.\n• Patch Manager — Helps you select and deploy operating system and software patches automatically across large groups of instances. You can define a maintenance window so that patches are applied only during set times that fit your needs. These capabilities help ensure that your software is always up to date and meets your compliance policies.\n• Automation — Simplifies common maintenance and deployment tasks, such as updating Amazon Machine Images (AMIs). Use the Automation feature to apply patches, update drivers and agents, or bake applications into your AMI using a streamlined, repeatable, and auditable process.\n• Parameter Store — Provides an encrypted location to store important administrative information such as passwords and database strings. The Parameter Store integrates with AWS Key Management Service (AWS KMS) to make it easy to encrypt the information you keep in the Parameter Store.\n• Distributor — Helps you securely distribute and install software packages, such as software agents. Systems Manager Distributor allows you to centrally store and systematically distribute software packages while you maintain control over versioning. You can use Distributor to create and distribute software packages and then install them using Systems Manager Run Command and State Manager. Distributor can also use AWS Identity and Access Management (IAM) policies to control who can create or update packages in your account. You can use the existing IAM policy support for Systems Manager Run Command and State Manager to define who can install packages on your hosts.\n• Session Manager — Provides a browser-based interactive shell and CLI for managing Windows and Linux EC2 instances, without the need to open inbound ports, manage SSH keys, or use bastion hosts. Administrators can grant and revoke access to instances through a central location by using AWS Identity and Access Management (IAM) policies. This allows you to control which users can access each instance, including the option to provide non-root access to specified users. Once access is provided, you can audit which user accessed an instance and log each command to Amazon S3 or Amazon CloudWatch Logs using AWS CloudTrail.",
       "categoryId": "/aws/category/Management"
     },
@@ -137,6 +155,7 @@
       "id": "/aws/service/TrustedAdvisor",
       "fullName": "AWS Trusted Advisor",
       "shortName": "Trusted Advisor",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Trusted-Advisor/Service_AWS-Trusted-Advisor.svg",
       "description": "AWS Trusted Advisor is an online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment. Trusted Advisor provides real-time guidance to help you provision your resources following AWS best practices.",
       "categoryId": "/aws/category/Management"
     },
@@ -144,6 +163,7 @@
       "id": "/aws/service/UserNotifications",
       "fullName": "AWS User Notifications",
       "shortName": "User Notifications",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-User-Notifications/Service_AWS-User-Notifications.svg",
       "description": "AWS User Notifications provides a central location for managing your AWS notifications. You can receive notifications from AWS services, such as AWS Health events, Amazon CloudWatch alarms, or EC2 instance state changes, in a consistent, human-friendly format. These notifications can be delivered in multiple ways including the Console Notification Center (default), email, Amazon Q Developer in chat applications, AWS Console Mobile Application push notifications, or through the User Notifications API.",
       "categoryId": "/aws/category/Management"
     },
@@ -151,6 +171,7 @@
       "id": "/aws/service/Well-ArchitectedTool",
       "fullName": "AWS Well-Architected Tool",
       "shortName": "Well-Architected Tool",
+      "iconPath": "AWS-Icons_07312025/Management-Governance/AWS-Well-Architected-Tool/Service_AWS-Well-Architected-Tool.svg",
       "description": "The AWS Well-Architected Tool (AWS WA Tool) helps you review the state of your workloads and compares them to the latest AWS architectural best practices. A workload is defined as any set of components that deliver business value, which could be an application or website. The tool is based on the AWS Well-Architected Framework, developed to help cloud architects build secure, high-performing, resilient, efficient, and sustainable application infrastructure.\nThe Framework provides a consistent approach for customers and partners to evaluate architectures. It has been used in tens of thousands of workload reviews conducted by the AWS Solutions Architecture team and by customers, and provides guidance to help implement designs that scale with application needs over time.\nTo use the AWS WA Tool, available in the AWS Management Console at no charge, just define your workload and answer a set of questions regarding operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability. The AWS WA Tool then provides a plan on how to architect for the cloud using established best practices.",
       "categoryId": "/aws/category/Management"
     }

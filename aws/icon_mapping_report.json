@@ -1,0 +1,260 @@
+{
+  "summary": {
+    "total_services": 234,
+    "matched_exact": 191,
+    "matched_fuzzy": 19,
+    "not_matched_count": 24,
+    "unused_icons_count": 101,
+    "files_updated_count": 23
+  },
+  "not_matched_services": [
+    {
+      "id": "/aws/service/OpenSearchServerless",
+      "shortName": "OpenSearch Serverless",
+      "fullName": "Amazon OpenSearch Serverless"
+    },
+    {
+      "id": "/aws/service/DataPipeline",
+      "shortName": "Data Pipeline",
+      "fullName": "AWS Data Pipeline"
+    },
+    {
+      "id": "/aws/service/SES",
+      "shortName": "SES (Simple Email Service)",
+      "fullName": "Amazon SES"
+    },
+    {
+      "id": "/aws/service/AmazonLinux2023",
+      "shortName": "Amazon Linux 2023",
+      "fullName": "Amazon Linux 2023"
+    },
+    {
+      "id": "/aws/service/VMwareCloudOnAWS",
+      "shortName": "VMware Cloud on AWS",
+      "fullName": "VMware Cloud on AWS"
+    },
+    {
+      "id": "/aws/service/App2Container",
+      "shortName": "App2Container",
+      "fullName": "AWS App2Container"
+    },
+    {
+      "id": "/aws/service/RDS",
+      "shortName": "RDS (Relational Database Service)",
+      "fullName": "Amazon Relational Database Service"
+    },
+    {
+      "id": "/aws/service/RIReporting",
+      "shortName": "RI reporting",
+      "fullName": "Reserved Instance (RI) reporting"
+    },
+    {
+      "id": "/aws/service/SWF",
+      "shortName": "SWF (Simple Workflow Service)",
+      "fullName": "Amazon Simple Workflow Service"
+    },
+    {
+      "id": "/aws/service/PartnerDeviceCatalog",
+      "shortName": "Partner Device Catalog",
+      "fullName": "AWS Partner Device Catalog"
+    },
+    {
+      "id": "/aws/service/AugmentedAI",
+      "shortName": "Augmented AI",
+      "fullName": "Amazon Augmented Al"
+    },
+    {
+      "id": "/aws/service/PartyRock",
+      "shortName": "PartyRock",
+      "fullName": "Amazon PartyRock"
+    },
+    {
+      "id": "/aws/service/Health",
+      "shortName": "Health",
+      "fullName": "AWS Health"
+    },
+    {
+      "id": "/aws/service/OpsWorks",
+      "shortName": "OpsWorks",
+      "fullName": "OpsWorks"
+    },
+    {
+      "id": "/aws/service/NimbleStudio",
+      "shortName": "Nimble Studio",
+      "fullName": "Amazon Nimble Studio"
+    },
+    {
+      "id": "/aws/service/ElementalAppliancesAndSoftware",
+      "shortName": "Elemental Appliances and Software",
+      "fullName": "AWS Elemental Appliances and Software"
+    },
+    {
+      "id": "/aws/service/SnowFamily",
+      "shortName": "Snow Family",
+      "fullName": "AWS Snow Family"
+    },
+    {
+      "id": "/aws/service/IntegratedPrivateWirelessOnAWS",
+      "shortName": "Integrated Private Wireless on AWS",
+      "fullName": "Integrated Private Wireless on AWS"
+    },
+    {
+      "id": "/aws/service/VPC",
+      "shortName": "VPC (Virtual Private Cloud)",
+      "fullName": "Amazon VPC"
+    },
+    {
+      "id": "/aws/service/VPN",
+      "shortName": "VPN",
+      "fullName": "AWS VPN"
+    },
+    {
+      "id": "/aws/service/EFS",
+      "shortName": "EFS (Elastic File System)",
+      "fullName": "Amazon Elastic File System"
+    },
+    {
+      "id": "/aws/service/WorkSpacesCore",
+      "shortName": "WorkSpaces Core",
+      "fullName": "Amazon WorkSpaces Core"
+    },
+    {
+      "id": "/aws/service/WorkSpacesThinClient",
+      "shortName": "WorkSpaces Thin Client",
+      "fullName": "Amazon WorkSpaces Thin Client"
+    },
+    {
+      "id": "/aws/service/WorkSpacesWeb",
+      "shortName": "WorkSpaces Web",
+      "fullName": "Amazon Workspaces Web"
+    }
+  ],
+  "unused_icons": [
+    "AWS-Icons_07312025/Analytics/AWS-Glue-DataBrew/Service_AWS-Glue-DataBrew.svg",
+    "AWS-Icons_07312025/Analytics/Amazon-Kinesis/Service_Amazon-Kinesis.svg",
+    "AWS-Icons_07312025/Analytics/Amazon-SageMaker/Service_Amazon-SageMaker.svg",
+    "AWS-Icons_07312025/Application-Integration/AWS-Express-Workflows/Service_AWS-Express-Workflows.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/AWS-App-Studio/Service_AWS-App-Studio.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/AWS-Deep-Learning-AMIs/Service_AWS-Deep-Learning-AMIs.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/AWS-Deep-Learning-Containers/Service_AWS-Deep-Learning-Containers.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/AWS-HealthImaging/Service_AWS-HealthImaging.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/AWS-HealthOmics/Service_AWS-HealthOmics.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/AWS-Neuron/Service_AWS-Neuron.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/Amazon-Augmented-AI-A2I/Service_Amazon-Augmented-AI-A2I.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/Amazon-CodeWhisperer/Service_Amazon-CodeWhisperer.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/Amazon-Elastic-Inference/Service_Amazon-Elastic-Inference.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/Amazon-Nova/Service_Amazon-Nova.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/Amazon-SageMaker-Ground-Truth/Service_Amazon-SageMaker-Ground-Truth.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/Amazon-SageMaker-Studio-Lab/Service_Amazon-SageMaker-Studio-Lab.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/Apache-MXNet-on-AWS/Service_Apache-MXNet-on-AWS.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/PyTorch-on-AWS/Service_PyTorch-on-AWS.svg",
+    "AWS-Icons_07312025/Artificial-Intelligence/TensorFlow-on-AWS/Service_TensorFlow-on-AWS.svg",
+    "AWS-Icons_07312025/Blockchain/Amazon-Quantum-Ledger-Database/Service_Amazon-Quantum-Ledger-Database.svg",
+    "AWS-Icons_07312025/Business-Applications/AWS-End-User-Messaging/Service_AWS-End-User-Messaging.svg",
+    "AWS-Icons_07312025/Business-Applications/AWS-Supply-Chain/Service_AWS-Supply-Chain.svg",
+    "AWS-Icons_07312025/Business-Applications/AWS-Wickr/Service_AWS-Wickr.svg",
+    "AWS-Icons_07312025/Business-Applications/Alexa-For-Business/Service_Alexa-For-Business.svg",
+    "AWS-Icons_07312025/Business-Applications/Amazon-Pinpoint-APIs/Service_Amazon-Pinpoint-APIs.svg",
+    "AWS-Icons_07312025/Business-Applications/Amazon-Simple-Email-Service/Service_Amazon-Simple-Email-Service.svg",
+    "AWS-Icons_07312025/Business-Applications/Amazon-WorkDocs-SDK/Service_Amazon-WorkDocs-SDK.svg",
+    "AWS-Icons_07312025/Cloud-Financial-Management/Reserved-Instance-Reporting/Service_Reserved-Instance-Reporting.svg",
+    "AWS-Icons_07312025/Compute/AWS-Local-Zones/Service_AWS-Local-Zones.svg",
+    "AWS-Icons_07312025/Compute/AWS-Nitro-Enclaves/Service_AWS-Nitro-Enclaves.svg",
+    "AWS-Icons_07312025/Compute/AWS-Outposts-family/Service_AWS-Outposts-family.svg",
+    "AWS-Icons_07312025/Compute/AWS-Outposts-servers/Service_AWS-Outposts-servers.svg",
+    "AWS-Icons_07312025/Compute/AWS-Parallel-Cluster/Service_AWS-Parallel-Cluster.svg",
+    "AWS-Icons_07312025/Compute/AWS-Parallel-Computing-Service/Service_AWS-Parallel-Computing-Service.svg",
+    "AWS-Icons_07312025/Compute/AWS-SimSpace-Weaver/Service_AWS-SimSpace-Weaver.svg",
+    "AWS-Icons_07312025/Compute/Amazon-DCV/Service_Amazon-DCV.svg",
+    "AWS-Icons_07312025/Compute/Amazon-Elastic-VMware-Service/Service_Amazon-Elastic-VMware-Service.svg",
+    "AWS-Icons_07312025/Compute/Amazon-Lightsail-for-Research/Service_Amazon-Lightsail-for-Research.svg",
+    "AWS-Icons_07312025/Compute/Bottlerocket/Service_Bottlerocket.svg",
+    "AWS-Icons_07312025/Compute/Elastic-Fabric-Adapter/Service_Elastic-Fabric-Adapter.svg",
+    "AWS-Icons_07312025/Compute/NICE-EnginFrame/Service_NICE-EnginFrame.svg",
+    "AWS-Icons_07312025/Containers/Amazon-ECS-Anywhere/Service_Amazon-ECS-Anywhere.svg",
+    "AWS-Icons_07312025/Containers/Amazon-EKS-Anywhere/Service_Amazon-EKS-Anywhere.svg",
+    "AWS-Icons_07312025/Containers/Amazon-EKS-Cloud/Service_Amazon-EKS-Cloud.svg",
+    "AWS-Icons_07312025/Containers/Amazon-EKS-Distro/Service_Amazon-EKS-Distro.svg",
+    "AWS-Icons_07312025/Customer-Enablement/AWS-Activate/Service_AWS-Activate.svg",
+    "AWS-Icons_07312025/Customer-Enablement/AWS-IQ/Service_AWS-IQ.svg",
+    "AWS-Icons_07312025/Customer-Enablement/AWS-Professional-Services/Service_AWS-Professional-Services.svg",
+    "AWS-Icons_07312025/Customer-Enablement/AWS-Support/Service_AWS-Support.svg",
+    "AWS-Icons_07312025/Customer-Enablement/AWS-Training-Certification/Service_AWS-Training-Certification.svg",
+    "AWS-Icons_07312025/Customer-Enablement/AWS-rePost-Private/Service_AWS-rePost-Private.svg",
+    "AWS-Icons_07312025/Database/Oracle-Database-at-AWS/Service_Oracle-Database-at-AWS.svg",
+    "AWS-Icons_07312025/Developer-Tools/AWS-Cloud-Control-API/Service_AWS-Cloud-Control-API.svg",
+    "AWS-Icons_07312025/Developer-Tools/AWS-Cloud-Development-Kit/Service_AWS-Cloud-Development-Kit.svg",
+    "AWS-Icons_07312025/Developer-Tools/AWS-Command-Line-Interface/Service_AWS-Command-Line-Interface.svg",
+    "AWS-Icons_07312025/Developer-Tools/AWS-Tools-and-SDKs/Service_AWS-Tools-and-SDKs.svg",
+    "AWS-Icons_07312025/Games/Amazon-GameLift-Streams/Service_Amazon-GameLift-Streams.svg",
+    "AWS-Icons_07312025/Games/Open-3D-Engine/Service_Open-3D-Engine.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-AppConfig/Service_AWS-AppConfig.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Application-Auto-Scaling/Service_AWS-Application-Auto-Scaling.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Backint-Agent/Service_AWS-Backint-Agent.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Chatbot/Service_AWS-Chatbot.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Distro-for-OpenTelemetry/Service_AWS-Distro-for-OpenTelemetry.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Health-Dashboard/Service_AWS-Health-Dashboard.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Management-Console/Service_AWS-Management-Console.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Resilience-Hub/Service_AWS-Resilience-Hub.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Resource-Explorer/Service_AWS-Resource-Explorer.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Service-Management-Connector/Service_AWS-Service-Management-Connector.svg",
+    "AWS-Icons_07312025/Management-Governance/AWS-Telco-Network-Builder/Service_AWS-Telco-Network-Builder.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Deadline-Cloud/Service_AWS-Deadline-Cloud.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Elemental-Appliances-&-Software/Service_AWS-Elemental-Appliances-&-Software.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Elemental-Conductor/Service_AWS-Elemental-Conductor.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Elemental-Delta/Service_AWS-Elemental-Delta.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Elemental-Link/Service_AWS-Elemental-Link.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Elemental-Live/Service_AWS-Elemental-Live.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Elemental-Server/Service_AWS-Elemental-Server.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Thinkbox-Deadline/Service_AWS-Thinkbox-Deadline.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Thinkbox-Frost/Service_AWS-Thinkbox-Frost.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Thinkbox-Krakatoa/Service_AWS-Thinkbox-Krakatoa.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Thinkbox-Sequoia/Service_AWS-Thinkbox-Sequoia.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Thinkbox-Stoke/Service_AWS-Thinkbox-Stoke.svg",
+    "AWS-Icons_07312025/Media-Services/AWS-Thinkbox-XMesh/Service_AWS-Thinkbox-XMesh.svg",
+    "AWS-Icons_07312025/Migration-Modernization/AWS-Data-Transfer-Terminal/Service_AWS-Data-Transfer-Terminal.svg",
+    "AWS-Icons_07312025/Migration-Modernization/AWS-Migration-Evaluator/Service_AWS-Migration-Evaluator.svg",
+    "AWS-Icons_07312025/Migration-Modernization/AWS-Transform/Service_AWS-Transform.svg",
+    "AWS-Icons_07312025/Networking-Content-Delivery/AWS-Client-VPN/Service_AWS-Client-VPN.svg",
+    "AWS-Icons_07312025/Networking-Content-Delivery/AWS-Cloud-WAN/Service_AWS-Cloud-WAN.svg",
+    "AWS-Icons_07312025/Networking-Content-Delivery/AWS-Site-to-Site-VPN/Service_AWS-Site-to-Site-VPN.svg",
+    "AWS-Icons_07312025/Networking-Content-Delivery/Amazon-Application-Recovery-Controller/Service_Amazon-Application-Recovery-Controller.svg",
+    "AWS-Icons_07312025/Networking-Content-Delivery/Amazon-VPC/Service_Amazon-Virtual-Private-Cloud.svg",
+    "AWS-Icons_07312025/Security-Identity-Compliance/AWS-Payment-Cryptography/Service_AWS-Payment-Cryptography.svg",
+    "AWS-Icons_07312025/Security-Identity-Compliance/AWS-Private-Certificate-Authority/Service_AWS-Private-Certificate-Authority.svg",
+    "AWS-Icons_07312025/Security-Identity-Compliance/AWS-Security-Incident-Response/Service_AWS-Security-Incident-Response.svg",
+    "AWS-Icons_07312025/Security-Identity-Compliance/AWS-Signer/Service_AWS-Signer.svg",
+    "AWS-Icons_07312025/Security-Identity-Compliance/Amazon-Cloud-Directory/Service_Amazon-Cloud-Directory.svg",
+    "AWS-Icons_07312025/Storage/AWS-Snowball-Edge/Service_AWS-Snowball-Edge.svg",
+    "AWS-Icons_07312025/Storage/AWS-Snowball/Service_AWS-Snowball.svg",
+    "AWS-Icons_07312025/Storage/Amazon-EFS/Service_Amazon-EFS.svg",
+    "AWS-Icons_07312025/Storage/Amazon-FSx-for-WFS/Service_Amazon-FSx-for-WFS.svg",
+    "AWS-Icons_07312025/Storage/Amazon-S3-on-Outposts/Service_Amazon-S3-on-Outposts.svg",
+    "AWS-Icons_07312025/Storage/Amazon-Simple-Storage-Service-Glacier/Service_Amazon-Simple-Storage-Service-Glacier.svg"
+  ],
+  "files_updated": [
+    "Analytics.json",
+    "Blockchain.json",
+    "Business.json",
+    "Compute.json",
+    "Containers.json",
+    "Databases.json",
+    "Developer.json",
+    "Enablement.json",
+    "Financial.json",
+    "Frontend.json",
+    "Game.json",
+    "Integration.json",
+    "IoT.json",
+    "ML.json",
+    "Management.json",
+    "Media.json",
+    "Migration.json",
+    "Networking.json",
+    "Quantum.json",
+    "Satellite.json",
+    "Security.json",
+    "Storage.json",
+    "User.json"
+  ]
+}

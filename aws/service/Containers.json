@@ -4,6 +4,7 @@
       "id": "/aws/service/ECR",
       "fullName": "Amazon Elastic Container Registry",
       "shortName": "ECR (Elastic Container Registry)",
+      "iconPath": "AWS-Icons_07312025/Containers/Amazon-Elastic-Container-Registry/Service_Amazon-Elastic-Container-Registry.svg",
       "description": "Amazon Elastic Container Registry (Amazon ECR) is a fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with Amazon Elastic Container Service (Amazon ECS), simplifying your development to production workflow. Amazon ECR eliminates the need to operate your own container repositories or worry about scaling the underlying infrastructure. Amazon ECR hosts your images in a highly available and scalable architecture, allowing you to reliably deploy containers for your applications. Integration with AWS Identity and Access Management (IAM) provides resource-level control of each repository. With Amazon ECR, there are no upfront fees or commitments. You pay only for the amount of data you store in your repositories and data transferred to the internet.",
       "categoryId": "/aws/category/Containers"
     },
@@ -11,6 +12,7 @@
       "id": "/aws/service/ECS",
       "fullName": "Amazon Elastic Container Service",
       "shortName": "ECS (Elastic Container Service)",
+      "iconPath": "AWS-Icons_07312025/Containers/Amazon-Elastic-Container-Service/Service_Amazon-Elastic-Container-Service.svg",
       "description": "Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. Amazon ECS eliminates the need for you to install and operate your own container orchestration software, manage and scale a cluster of virtual machines (VMs), or schedule containers on those VMs.\nWith simple API calls, you can launch and stop Docker-enabled applications, query the complete state of your application, and access many familiar features such as IAM roles, security groups, load balancers, Amazon CloudWatch Events, AWS CloudFormation templates, and AWS CloudTrail logs.",
       "categoryId": "/aws/category/Containers"
     },
@@ -18,6 +20,7 @@
       "id": "/aws/service/EKS",
       "fullName": "Amazon Elastic Kubernetes Service",
       "shortName": "EKS (Elastic Kubernetes Service)",
+      "iconPath": "AWS-Icons_07312025/Containers/Amazon-Elastic-Kubernetes-Service/Service_Amazon-Elastic-Kubernetes-Service.svg",
       "description": "Amazon Elastic Kubernetes Service (Amazon EKS) makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS.\nAmazon EKS runs the Kubernetes management infrastructure for you across multiple AWS Availability Zones to eliminate a single point of failure. Amazon EKS is certified Kubernetes conformant so you can use existing tooling and plugins from partners and the Kubernetes community. Applications running on any standard Kubernetes environment are fully compatible and can be easily migrated to Amazon EKS.",
       "categoryId": "/aws/category/Containers"
     },
@@ -32,6 +35,7 @@
       "id": "/aws/service/ROSA",
       "fullName": "Red Hat OpenShift Service on AWS",
       "shortName": "ROSA (Red Hat OpenShift Service on AWS)",
+      "iconPath": "AWS-Icons_07312025/Containers/Red-Hat-OpenShift-Service-on-AWS/Service_Red-Hat-OpenShift-Service-on-AWS.svg",
       "description": "Red Hat OpenShift Service on AWS (ROSA) provides an integrated experience to use OpenShift. If you are already familiar with OpenShift, you can accelerate your application development process by leveraging familiar OpenShift APIs and tools for deployments on AWS. With ROSA, you can use the wide range of AWS compute, database, analytics, machine learning (ML), networking, mobile, and other services to build secure and scalable applications faster.\nROSA comes with pay-as-you-go hourly and annual billing, a 99.95% SLA, and joint support from AWS and Red Hat.\nROSA makes it easier for you to focus on deploying applications and accelerating innovation by moving the cluster lifecycle management to Red Hat and AWS. With ROSA, you can run containerized applications with your existing OpenShift workflows and reduce the complexity of management.",
       "categoryId": "/aws/category/Containers"
     }
