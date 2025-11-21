@@ -46,7 +46,7 @@
             "id": "aws/resourcetype/AWSAlexaASKSkill",
             "cfnIdentifier": "AWS::Alexa::ASK::Skill",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/IoTCore",
             "isMapped": false
         },
         {
@@ -3504,343 +3504,343 @@
             "id": "aws/resourcetype/ECRRegistryScanningConfiguration",
             "cfnIdentifier": "AWS::ECR::RegistryScanningConfiguration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ECRReplicationConfiguration",
             "cfnIdentifier": "AWS::ECR::ReplicationConfiguration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ECRRepository",
             "cfnIdentifier": "AWS::ECR::Repository",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ECRRepositoryCreationTemplate",
             "cfnIdentifier": "AWS::ECR::RepositoryCreationTemplate",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ECSCapacityProvider",
             "cfnIdentifier": "AWS::ECS::CapacityProvider",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ECSClusterCapacityProviderAssociations",
             "cfnIdentifier": "AWS::ECS::ClusterCapacityProviderAssociations",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ECSPrimaryTaskSet",
             "cfnIdentifier": "AWS::ECS::PrimaryTaskSet",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ECSTaskSet",
             "cfnIdentifier": "AWS::ECS::TaskSet",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ECS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EFSAccessPoint",
             "cfnIdentifier": "AWS::EFS::AccessPoint",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EFS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EFSMountTarget",
             "cfnIdentifier": "AWS::EFS::MountTarget",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EFS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EKSAccessEntry",
             "cfnIdentifier": "AWS::EKS::AccessEntry",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EKS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EKSAddon",
             "cfnIdentifier": "AWS::EKS::Addon",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EKS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EKSFargateProfile",
             "cfnIdentifier": "AWS::EKS::FargateProfile",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EKS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EKSIdentityProviderConfig",
             "cfnIdentifier": "AWS::EKS::IdentityProviderConfig",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EKS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EKSNodegroup",
             "cfnIdentifier": "AWS::EKS::Nodegroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EKS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EKSPodIdentityAssociation",
             "cfnIdentifier": "AWS::EKS::PodIdentityAssociation",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EKS",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheGlobalReplicationGroup",
             "cfnIdentifier": "AWS::ElastiCache::GlobalReplicationGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheParameterGroup",
             "cfnIdentifier": "AWS::ElastiCache::ParameterGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheReplicationGroup",
             "cfnIdentifier": "AWS::ElastiCache::ReplicationGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheSecurityGroup",
             "cfnIdentifier": "AWS::ElastiCache::SecurityGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheSecurityGroupIngress",
             "cfnIdentifier": "AWS::ElastiCache::SecurityGroupIngress",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheServerlessCache",
             "cfnIdentifier": "AWS::ElastiCache::ServerlessCache",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheSubnetGroup",
             "cfnIdentifier": "AWS::ElastiCache::SubnetGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheUser",
             "cfnIdentifier": "AWS::ElastiCache::User",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElastiCacheUserGroup",
             "cfnIdentifier": "AWS::ElastiCache::UserGroup",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElastiCache",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticBeanstalkApplication",
             "cfnIdentifier": "AWS::ElasticBeanstalk::Application",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElasticBeanstalk",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticBeanstalkApplicationVersion",
             "cfnIdentifier": "AWS::ElasticBeanstalk::ApplicationVersion",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElasticBeanstalk",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticBeanstalkConfigurationTemplate",
             "cfnIdentifier": "AWS::ElasticBeanstalk::ConfigurationTemplate",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElasticBeanstalk",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticBeanstalkEnvironment",
             "cfnIdentifier": "AWS::ElasticBeanstalk::Environment",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ElasticBeanstalk",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticLoadBalancingV2Listener",
             "cfnIdentifier": "AWS::ElasticLoadBalancingV2::Listener",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ELB",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticLoadBalancingV2ListenerCertificate",
             "cfnIdentifier": "AWS::ElasticLoadBalancingV2::ListenerCertificate",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ELB",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticLoadBalancingV2ListenerRule",
             "cfnIdentifier": "AWS::ElasticLoadBalancingV2::ListenerRule",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ELB",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticLoadBalancingV2TrustStore",
             "cfnIdentifier": "AWS::ElasticLoadBalancingV2::TrustStore",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ELB",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/ElasticLoadBalancingV2TrustStoreRevocation",
             "cfnIdentifier": "AWS::ElasticLoadBalancingV2::TrustStoreRevocation",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/ELB",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRInstanceFleetConfig",
             "cfnIdentifier": "AWS::EMR::InstanceFleetConfig",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRInstanceGroupConfig",
             "cfnIdentifier": "AWS::EMR::InstanceGroupConfig",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRSecurityConfiguration",
             "cfnIdentifier": "AWS::EMR::SecurityConfiguration",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRStep",
             "cfnIdentifier": "AWS::EMR::Step",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRStudio",
             "cfnIdentifier": "AWS::EMR::Studio",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRStudioSessionMapping",
             "cfnIdentifier": "AWS::EMR::StudioSessionMapping",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRWALWorkspace",
             "cfnIdentifier": "AWS::EMR::WALWorkspace",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRContainersVirtualCluster",
             "cfnIdentifier": "AWS::EMRContainers::VirtualCluster",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EMRServerlessApplication",
             "cfnIdentifier": "AWS::EMRServerless::Application",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EMR",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EntityResolutionIdMappingWorkflow",
             "cfnIdentifier": "AWS::EntityResolution::IdMappingWorkflow",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EntityResolution",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EntityResolutionIdNamespace",
             "cfnIdentifier": "AWS::EntityResolution::IdNamespace",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EntityResolution",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EntityResolutionMatchingWorkflow",
             "cfnIdentifier": "AWS::EntityResolution::MatchingWorkflow",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EntityResolution",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EntityResolutionPolicyStatement",
             "cfnIdentifier": "AWS::EntityResolution::PolicyStatement",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EntityResolution",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EntityResolutionSchemaMapping",
             "cfnIdentifier": "AWS::EntityResolution::SchemaMapping",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EntityResolution",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EventsApiDestination",
             "cfnIdentifier": "AWS::Events::ApiDestination",
             "typeIdentifier": null,
-            "serviceId": null,
+            "serviceId": "/aws/service/EventBridge",
             "isMapped": false
         },
         {
