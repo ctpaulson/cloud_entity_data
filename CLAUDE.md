@@ -80,6 +80,21 @@ AWS resource types map CloudFormation identifiers to internal type systems:
 - `serviceId`: Reference to parent service
 - `isMapped`: Boolean indicating mapping status
 
+**Important: Service Mapping Philosophy**
+
+This repository uses **colloquial service names** that reflect common usage and marketing terminology, rather than strict SDK/API technical names. This approach provides better organization and matches how users think about AWS services.
+
+**Key Examples:**
+- **Amazon VPC** is its own service (`/aws/service/VPC`), even though CloudFormation types are `AWS::EC2::VPC*` and the SDK groups it under EC2
+- **Amazon EBS** is separate (`/aws/service/EBS`) despite `AWS::EC2::Volume` in CloudFormation
+- **AWS Transit Gateway** is distinct (`/aws/service/TransitGateway`) though technically part of EC2
+
+**Mapping Guidelines:**
+- Use **judgment based on training data** and common AWS terminology, not pattern matching on CloudFormation identifiers
+- Consider how AWS markets and documents the service
+- If a resource belongs to a service not yet in the repository, **VERIFY WITH THE USER** before creating a new service definition
+- Do not automatically create services based on CloudFormation namespace patterns (e.g., `AWS::NewService::*` doesn't automatically mean create `/aws/service/NewService`)
+
 ## Working with the Data
 
 ### Adding a New Service
@@ -107,8 +122,13 @@ AWS resource types map CloudFormation identifiers to internal type systems:
 
 ### Adding AWS Resource Type Mappings
 
-1. Open `aws/resourcetype-mapped.json`
-2. Add resource type definition to ResourceTypes array:
+1. Open `aws/resourcetype-mapped.json` or `aws/resourcetype-unmapped.json`
+2. **Determine the correct service mapping:**
+   - Review existing services in `aws/service/` directory
+   - Use colloquial service names, NOT CloudFormation namespace patterns
+   - Example: `AWS::EC2::VPC` maps to `/aws/service/VPC`, not `/aws/service/EC2`
+   - **If the service doesn't exist, STOP and verify with the user before proceeding**
+3. Add resource type definition to ResourceTypes array:
    ```json
    {
      "id": "aws/resourcetype/[ResourceName]",
@@ -118,7 +138,7 @@ AWS resource types map CloudFormation identifiers to internal type systems:
      "isMapped": true
    }
    ```
-3. Update `aws_resources_by_category.md` to include human-readable documentation
+4. Update `aws_resources_by_category.md` to include human-readable documentation
 
 ### Validating Data Consistency
 
@@ -146,3 +166,5 @@ When modifying services, you may need to update multiple files to maintain consi
 - **Keep descriptions current**: Service descriptions should reflect current capabilities
 - **Cross-reference updates**: When updating service definitions, check if resource type mappings need updates
 - **Validate JSON**: Ensure all JSON files are syntactically valid before committing
+- **Service mapping discipline**: Always map resources to colloquial service names, never create new services without user verification
+- **Resist pattern matching**: Don't assume CloudFormation namespaces (e.g., `AWS::ServiceX::*`) correspond to service definitions
