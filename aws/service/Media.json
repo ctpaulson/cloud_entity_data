@@ -1,6 +1,14 @@
 {
   "Media": [
     {
+      "id": "/aws/service/DeadlineCloud",
+      "fullName": "AWS Deadline Cloud",
+      "shortName": "Deadline Cloud",
+      "iconPath": "AWS-Icons_07312025/Media-Services/AWS-Deadline-Cloud/Service_AWS-Deadline-Cloud.svg",
+      "description": "AWS Deadline Cloud is a fully managed service that helps creative studios and visual effects teams render and process their content in the cloud at scale. The service simplifies the setup and management of rendering infrastructure, enabling artists and technical directors to submit render jobs and manage rendering capacity without worrying about the underlying compute resources. AWS Deadline Cloud integrates with existing on-premises render farm workflows and popular digital content creation tools, providing a seamless hybrid cloud experience. With pay-as-you-go pricing and automatic scaling, studios can access virtually unlimited rendering capacity during peak production periods while optimizing costs during quieter times.",
+      "categoryId": "/aws/category/Media"
+    },
+    {
       "id": "/aws/service/ElasticTranscoder",
       "fullName": "Amazon Elastic Transcoder",
       "shortName": "Elastic Transcoder",

@@ -1,6 +1,14 @@
 {
   "BusinessApplications": [
     {
+      "id": "/aws/service/AlexaForBusiness",
+      "fullName": "Alexa For Business",
+      "shortName": "Alexa For Business",
+      "iconPath": "AWS-Icons_07312025/Business-Applications/Alexa-For-Business/Service_Alexa-For-Business.svg",
+      "description": "Alexa for Business was a service that enabled organizations to use Alexa to improve workplace productivity and efficiency. The service allowed IT administrators to deploy and manage Alexa devices at scale across an organization, enable employees to use Alexa to complete work tasks, and integrate Alexa with corporate systems and business applications. Note: As of June 30, 2024, Alexa for Business is no longer available to new customers, and existing customers cannot create new resources. Amazon has recommended that customers using Alexa for Business migrate to alternative solutions for their workplace productivity needs.",
+      "categoryId": "/aws/category/Business"
+    },
+    {
       "id": "/aws/service/AppFabric",
       "fullName": "AWS AppFabric",
       "shortName": "AppFabric",

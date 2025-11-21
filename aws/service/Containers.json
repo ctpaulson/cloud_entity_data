@@ -17,11 +17,27 @@
       "categoryId": "/aws/category/Containers"
     },
     {
+      "id": "/aws/service/ECSAnywhere",
+      "fullName": "Amazon ECS Anywhere",
+      "shortName": "ECS Anywhere",
+      "iconPath": "AWS-Icons_07312025/Containers/Amazon-ECS-Anywhere/Service_Amazon-ECS-Anywhere.svg",
+      "description": "Amazon ECS Anywhere is a feature of Amazon ECS that enables you to run and manage container workloads on your own infrastructure, including on-premises servers and virtual machines. ECS Anywhere extends the same Amazon ECS APIs, cluster management, workload scheduling, and monitoring capabilities to customer-managed infrastructure, allowing you to use a consistent toolset across cloud and on-premises environments. With ECS Anywhere, you can use the ECS control plane to manage containers running anywhere, whether for data residency requirements, local data processing needs, or migration scenarios. The service maintains the familiar ECS experience while giving you the flexibility to run containers outside of AWS, enabling hybrid cloud architectures and simplifying operations across diverse infrastructure environments.",
+      "categoryId": "/aws/category/Containers"
+    },
+    {
       "id": "/aws/service/EKS",
       "fullName": "Amazon Elastic Kubernetes Service",
       "shortName": "EKS (Elastic Kubernetes Service)",
       "iconPath": "AWS-Icons_07312025/Containers/Amazon-Elastic-Kubernetes-Service/Service_Amazon-Elastic-Kubernetes-Service.svg",
       "description": "Amazon Elastic Kubernetes Service (Amazon EKS) makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS.\nAmazon EKS runs the Kubernetes management infrastructure for you across multiple AWS Availability Zones to eliminate a single point of failure. Amazon EKS is certified Kubernetes conformant so you can use existing tooling and plugins from partners and the Kubernetes community. Applications running on any standard Kubernetes environment are fully compatible and can be easily migrated to Amazon EKS.",
+      "categoryId": "/aws/category/Containers"
+    },
+    {
+      "id": "/aws/service/EKSAnywhere",
+      "fullName": "Amazon EKS Anywhere",
+      "shortName": "EKS Anywhere",
+      "iconPath": "AWS-Icons_07312025/Containers/Amazon-EKS-Anywhere/Service_Amazon-EKS-Anywhere.svg",
+      "description": "Amazon EKS Anywhere is a deployment option for Amazon EKS that enables you to create and operate Kubernetes clusters on your own infrastructure, including on-premises data centers, edge locations, and disconnected environments. EKS Anywhere brings the same Amazon EKS Kubernetes distribution, tooling, and best practices to customer-managed infrastructure, providing a consistent Kubernetes experience across cloud and on-premises environments. With EKS Anywhere, you can run Kubernetes clusters using the same EKS Distro that powers EKS in the cloud, leverage AWS support for the full Kubernetes stack, and optionally connect clusters to AWS for centralized management and observability. This deployment option is ideal for applications that require on-premises processing due to data residency, latency, or regulatory requirements while maintaining operational consistency with cloud-based EKS clusters.",
       "categoryId": "/aws/category/Containers"
     },
     {
