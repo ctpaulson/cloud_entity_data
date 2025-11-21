@@ -1,0 +1,102 @@
+{
+  "DevOps": [
+    {
+      "id": "/azure/service/Artifacts",
+      "fullName": "Azure Artifacts",
+      "shortName": "Artifacts",
+      "description": "Create, host, and share packages with your team.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/Boards",
+      "fullName": "Azure Boards",
+      "shortName": "Boards",
+      "description": "Plan, track, and discuss work across your teams.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/DevOps",
+      "fullName": "Azure DevOps",
+      "shortName": "DevOps",
+      "description": "Services for teams to share code, track work, and ship software.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/Pipelines",
+      "fullName": "Azure Pipelines",
+      "shortName": "Pipelines",
+      "description": "Continuously build, test, and deploy to any platform and cloud.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/Repos",
+      "fullName": "Azure Repos",
+      "shortName": "Repos",
+      "description": "Get unlimited, cloud-hosted private Git repos for your project.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/TestPlans",
+      "fullName": "Azure Test Plans",
+      "shortName": "Test Plans",
+      "description": "Test and ship confidently with an exploratory test toolkit.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/DevOpsToolIntegrations",
+      "fullName": "DevOps tool integrations",
+      "shortName": "DevOps tool integrations",
+      "description": "Use your favorite DevOps tools with Azure.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/AppTesting",
+      "fullName": "Azure App Testing",
+      "shortName": "App Testing",
+      "description": "Optimize app performance with high-scale load testing.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/DeploymentEnvironments",
+      "fullName": "Azure Deployment Environments",
+      "shortName": "Deployment Environments",
+      "description": "Quickly spin up app infrastructure environments with project-based templates.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/GitHubAdvancedSecurityForDevOps",
+      "fullName": "GitHub Advanced Security for Azure DevOps",
+      "shortName": "GitHub Advanced Security for DevOps",
+      "description": "Develop securely from inception to ship.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/PlaywrightTesting",
+      "fullName": "Microsoft Playwright Testing",
+      "shortName": "Playwright Testing",
+      "description": "Scalable end-to-end modern web app testing service.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/GithubEnterprise",
+      "fullName": "Github Enterprise",
+      "shortName": "Github Enterprise",
+      "description": "Unlock innovation at scale with GitHub Enterprise and Microsoft Azure.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/GitHubAdvancedSecurity",
+      "fullName": "GitHub Advanced Security",
+      "shortName": "GitHub Advanced Security",
+      "description": "Empower your developers to work better together, fix security issues faster, and reduce overall security risk.",
+      "categoryId": "/azure/category/DevOps"
+    },
+    {
+      "id": "/azure/service/GitHubCopilot",
+      "fullName": "GitHub Copilot",
+      "shortName": "GitHub Copilot",
+      "description": "Increase software development velocity and inspire continuous innovation with GitHub Copilot, the world's most widely adopted AI developer tool.",
+      "categoryId": "/azure/category/DevOps"
+    }
+  ]
+}

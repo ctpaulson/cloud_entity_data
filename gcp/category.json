@@ -1,0 +1,136 @@
+{
+  "Categories": [
+    {
+      "id": "gcp/category/AIApplications",
+      "fullName": "AI Applications & Agents",
+      "shortName": "AI Applications",
+      "description": "Products and platforms for building and deploying pre-packaged or specialized AI solutions, particularly for customer engagement and interaction."
+    },
+    {
+      "id": "gcp/category/AIML",
+      "fullName": "AI and Machine Learning",
+      "shortName": "AI/ML",
+      "description": "Foundational platforms, tools, and APIs for building, training, and deploying custom machine learning models."
+    },
+    {
+      "id": "gcp/category/BI",
+      "fullName": "Business Intelligence",
+      "shortName": "BI",
+      "description": "Products focused on analyzing and visualizing data to provide business insights and support decision-making."
+    },
+    {
+      "id": "gcp/category/Compute",
+      "fullName": "Compute",
+      "shortName": "Compute",
+      "description": "Core infrastructure for running virtual machines, containers, and specialized workloads at scale."
+    },
+    {
+      "id": "gcp/category/Containers",
+      "fullName": "Containers",
+      "shortName": "Containers",
+      "description": "Services dedicated to orchestrating, deploying, and managing containerized applications."
+    },
+    {
+      "id": "gcp/category/Analytics",
+      "fullName": "Data Analytics",
+      "shortName": "Analytics",
+      "description": "Services for warehousing, processing, and analyzing large-scale data streams and batches."
+    },
+    {
+      "id": "gcp/category/Databases",
+      "fullName": "Databases",
+      "shortName": "Databases",
+      "description": "A variety of managed relational (SQL) and non-relational (NoSQL) database services."
+    },
+    {
+      "id": "gcp/category/DevTools",
+      "fullName": "Developer Tools",
+      "shortName": "Dev Tools",
+      "description": "Tools that support the development lifecycle, from infrastructure deployment to task management and creating development environments."
+    },
+    {
+      "id": "gcp/category/DevOps",
+      "fullName": "DevOps",
+      "shortName": "DevOps",
+      "description": "Services for continuous integration, continuous delivery (CI/CD), and managing code and build artifacts."
+    },
+    {
+      "id": "gcp/category/Hybrid",
+      "fullName": "Hybrid and Multicloud",
+      "shortName": "Hybrid",
+      "description": "Products designed to manage and run applications consistently across on-premises environments and other cloud providers."
+    },
+    {
+      "id": "gcp/category/Integration",
+      "fullName": "Integration Services",
+      "shortName": "Integration",
+      "description": "Services to connect different applications and microservices, manage APIs, and orchestrate complex workflows."
+    },
+    {
+      "id": "gcp/category/Management",
+      "fullName": "Management Tools",
+      "shortName": "Management",
+      "description": "Tools for governing, managing, and optimizing your Google Cloud environment, from billing to resource organization."
+    },
+    {
+      "id": "gcp/category/Maps",
+      "fullName": "Maps & Geospatial",
+      "shortName": "Maps",
+      "description": "Products providing location-based services and tools for geospatial data analysis."
+    },
+    {
+      "id": "gcp/category/Migration",
+      "fullName": "Migration",
+      "shortName": "Migration",
+      "description": "Services and tools that facilitate the process of moving workloads, VMs, and data to Google Cloud."
+    },
+    {
+      "id": "gcp/category/XR",
+      "fullName": "Mixed Reality",
+      "shortName": "XR",
+      "description": "Services that enable immersive extended reality (XR) experiences."
+    },
+    {
+      "id": "gcp/category/Networking",
+      "fullName": "Networking",
+      "shortName": "Networking",
+      "description": "A comprehensive suite of services for managing, securing, and scaling your virtual networks."
+    },
+    {
+      "id": "gcp/category/Observability",
+      "fullName": "Observability",
+      "shortName": "Observability",
+      "description": "Services providing insights into the performance, health, and behavior of applications and infrastructure through logging, monitoring, and tracing."
+    },
+    {
+      "id": "gcp/category/Operations",
+      "fullName": "Operations",
+      "shortName": "Operations",
+      "description": "Tools for operating and managing applications on Google Cloud, including profiling and capacity planning."
+    },
+    {
+      "id": "gcp/category/Security",
+      "fullName": "Security and Identity",
+      "shortName": "Security",
+      "description": "Products to secure your cloud environment, manage access controls, and meet compliance requirements."
+    },
+    {
+      "id": "gcp/category/Serverless",
+      "fullName": "Serverless Computing",
+      "shortName": "Serverless",
+      "description": "Services that allow you to build and run applications and functions without managing the underlying server infrastructure."
+    },
+    {
+      "id": "gcp/category/Storage",
+      "fullName": "Storage",
+      "shortName": "Storage",
+      "description": "Services for scalable and secure object storage, file storage, and data transfer."
+    },
+    {
+      "id": "gcp/category/Web3",
+      "fullName": "Web3",
+      "shortName": "Web3",
+      "description": "Managed infrastructure for building applications on blockchain technology."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "AI+MachineLearning": [
+    {
+      "id": "/azure/service/AIAnomalyDetector",
+      "fullName": "AI Anomaly Detector",
+      "shortName": "Anomaly Detector",
+      "description": "Easily add anomaly detection capabilities to your apps.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIBotService",
+      "fullName": "Azure AI Bot Service",
+      "shortName": "AI Bot Service",
+      "description": "Create bots and connect them across channels.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AISearch",
+      "fullName": "Azure AI Search",
+      "shortName": "AI Search",
+      "description": "Enterprise scale search for app development.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AzureMachineLearning",
+      "fullName": "Azure Machine Learning",
+      "shortName": "Machine Learning",
+      "description": "Use an enterprise-grade service for the end-to-end machine learning lifecycle.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/OpenDatasets",
+      "fullName": "Azure Open Datasets",
+      "shortName": "Open Datasets",
+      "description": "Cloud platform to host and share curated open datasets to accelerate development of machine learning models.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIServices",
+      "fullName": "Azure AI Services",
+      "shortName": "AI Services",
+      "description": "Add cognitive capabilities to apps with APIs and AI services.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIVideoIndexer",
+      "fullName": "Azure AI Video Indexer",
+      "shortName": "AI Video Indexer",
+      "description": "Easily extract meaningful insights from audio and video files using media AI.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AICustomVision",
+      "fullName": "Azure AI Custom Vision",
+      "shortName": "AI Custom Vision",
+      "description": "Easily customize your own state-of-the-art computer vision models for your unique use case.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/DataScienceVMs",
+      "fullName": "Data Science Virtual Machines",
+      "shortName": "Data Science VMs",
+      "description": "Rich pre-configured environment for AI development.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/LUIS",
+      "fullName": "Language Understanding (LUIS)",
+      "shortName": "LUIS",
+      "description": "Teach your apps to understand commands from your users.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AILanguage",
+      "fullName": "Azure AI Language",
+      "shortName": "AI Language",
+      "description": "Add natural language capabilities with a single API call.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AITranslator",
+      "fullName": "Azure AI Translator",
+      "shortName": "AI Translator",
+      "description": "Easily conduct machine translation with a simple REST API call.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIMetricsAdvisor",
+      "fullName": "Azure AI Metrics Advisor",
+      "shortName": "AI Metrics Advisor",
+      "description": "An AI service that monitors metrics and diagnoses issues.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/OpenAIInFoundry",
+      "fullName": "Azure OpenAI in Foundry Models",
+      "shortName": "OpenAI in Foundry Models",
+      "description": "Apply advanced coding and language models to a variety of use cases.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIPersonalizer",
+      "fullName": "Azure AI Personalizer",
+      "shortName": "AI Personalizer",
+      "description": "Deliver personalized, relevant experiences for each of your users.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIContentSafety",
+      "fullName": "Azure AI Content Safety",
+      "shortName": "AI Content Safety",
+      "description": "Automated image, text, and video moderation.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/HealthBot",
+      "fullName": "Health Bot",
+      "shortName": "Health Bot",
+      "description": "A managed service purpose-built for development of virtual healthcare assistants.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIDocumentIntelligence",
+      "fullName": "Azure AI Document Intelligence",
+      "shortName": "AI Document Intelligence",
+      "description": "A managed service purpose-built for development of virtual healthcare assistants.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIFoundry",
+      "fullName": "Azure AI Foundry",
+      "shortName": "AI Foundry",
+      "description": "Your platform for developing generative AI solutions and custom copilots.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIFoundryModels",
+      "fullName": "Azure AI Foundry Models",
+      "shortName": "AI Foundry Models",
+      "description": "Empowering you to find the best model for every use case.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/SecurityCopilot",
+      "fullName": "Microsoft Security Copilot",
+      "shortName": "Security Copilot",
+      "description": "Protect at the speed and scale of AI with a generative AI-powered assistant.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIImmersiveReader",
+      "fullName": "Azure AI Immersive Reader",
+      "shortName": "AI Immersive Reader",
+      "description": "Empower users of all ages and abilities to read and comprehend text.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/PhiOpenModels",
+      "fullName": "Phi open models",
+      "shortName": "Phi open models",
+      "description": "A family of powerful, small language models (SLMs) with groundbreaking performance at low cost and low latency.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIContentUnderstanding",
+      "fullName": "Azure AI Content Understanding",
+      "shortName": "AI Content Understanding",
+      "description": "Accelerate Multimodal AI Solution development.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AISpeech",
+      "fullName": "Azure AI Speech",
+      "shortName": "AI Speech",
+      "description": "Build multimodal, multilingual AI apps faster with pre-built or customizable speech models.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIFoundryAgentService",
+      "fullName": "Azure AI Foundry Agent Service",
+      "shortName": "AI Foundry Agent Service",
+      "description": "Create AI agents that automate complex business processes-completing specific tasks while keeping humans in control.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/SREAgent",
+      "fullName": "Azure SRE Agent",
+      "shortName": "SRE Agent",
+      "description": "Automate repetitive tasks and improve incident response using an autonomous incident mitigation and resource optimization agent with intelligent precision.",
+      "categoryId": "/azure/category/AIML"
+    },
+    {
+      "id": "/azure/service/AIFoundryObservability",
+      "fullName": "Azure AI Foundry Observability",
+      "shortName": "AI Foundry Observability",
+      "description": "Observe and optimize AI apps and agents with end-to-end monitoring, tracing, and evaluation.",
+      "categoryId": "/azure/category/AIML"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Virtualdesktopinfrastructure": [
+    {
+      "id": "/azure/service/LabServices",
+      "fullName": "Azure Lab Services",
+      "shortName": "Lab Services",
+      "description": "Set up virtual labs for classes, training, hackathons, and other related scenarios.",
+      "categoryId": "/azure/category/VDI"
+    },
+    {
+      "id": "/azure/service/VirtualDesktop",
+      "fullName": "Azure Virtual Desktop",
+      "shortName": "Virtual Desktop",
+      "description": "Enable a secure, remote desktop experience from anywhere.",
+      "categoryId": "/azure/category/VDI"
+    }
+  ]
+}

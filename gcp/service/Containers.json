@@ -1,0 +1,12 @@
+{
+  "Containers": [
+    {
+      "id": "/gcp/service/GKE",
+      "fullName": "GKE (Kubernetes Engine)",
+      "shortName": "GKE",
+      "description": "A managed service for Kubernetes and containers.",
+      "categoryId": "/gcp/category/Containers",
+      "isCore": true
+    }
+  ]
+}

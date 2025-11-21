@@ -1,0 +1,116 @@
+{
+  "Compute": [
+    {
+      "id": "/azure/service/ComputeFleet",
+      "fullName": "Azure Compute Fleet",
+      "shortName": "Compute Fleet",
+      "description": "Easily provision and manage Azure compute capacity at scale.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/Quantum",
+      "fullName": "Azure Quantum",
+      "shortName": "Quantum",
+      "description": "Jump in and explore a diverse selection of today's quantum hardware, software, and solutions.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/SpotVMs",
+      "fullName": "Azure Spot Virtual Machines",
+      "shortName": "Spot Virtual Machines",
+      "description": "Provision unused compute capacity at deep discounts to run interruptible workloads.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/SpringApps",
+      "fullName": "Azure Spring Apps",
+      "shortName": "Spring Apps",
+      "description": "Build and deploy Spring Boot applications with a fully managed service from Microsoft and VMware.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/VMwareSolution",
+      "fullName": "Azure VMware Solution",
+      "shortName": "VMware Solution",
+      "description": "Run your VMware workloads natively on Azure.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/Batch",
+      "fullName": "Batch",
+      "shortName": "Batch",
+      "description": "Cloud-scale job scheduling and compute management.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/CloudServices",
+      "fullName": "Cloud Services",
+      "shortName": "Cloud Services",
+      "description": "Create highly-available, infinitely-scalable cloud applications and APIs.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/LinuxVMs",
+      "fullName": "Linux Virtual Machines",
+      "shortName": "Linux Virtual Machines",
+      "description": "Provision virtual machines for Ubuntu, Red Hat, and more.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/SQLServerOnVMs",
+      "fullName": "SQL Server on Azure Virtual Machines",
+      "shortName": "SQL Server on Azure VMs",
+      "description": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO).",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/VMScaleSets",
+      "fullName": "Virtual Machine Scale Sets",
+      "shortName": "VM Scale Sets",
+      "description": "Manage and scale up to thousands of Linux and Windows VMs.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/VMs",
+      "fullName": "Virtual Machines",
+      "shortName": "Virtual Machines",
+      "description": "Provision Windows and Linux VMs in seconds.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/WindowsServer",
+      "fullName": "Windows Server",
+      "shortName": "Windows Server",
+      "description": "Trusted cloud platform for your Windows Server workloads.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/DedicatedHost",
+      "fullName": "Azure Dedicated Host",
+      "shortName": "Dedicated Host",
+      "description": "A dedicated physical server to host your Azure VMs for Windows and Linux.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/VMImageBuilder",
+      "fullName": "Azure VM Image Builder",
+      "shortName": "VM Image Builder",
+      "description": "Simplify your image building process with easy to use tool.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/Functions",
+      "fullName": "Azure Functions",
+      "shortName": "Functions",
+      "description": "Execute event-driven serverless code functions with an end-to-end development experience.",
+      "categoryId": "/azure/category/Compute"
+    },
+    {
+      "id": "/azure/service/NutanixCloudClusters",
+      "fullName": "Nutanix Cloud Clusters",
+      "shortName": "Nutanix Cloud Clusters",
+      "description": "Optimize costs and simplify scale, flexibility, app migration, and disaster recovery for your Nutanix workload.",
+      "categoryId": "/azure/category/Compute"
+    }
+  ]
+}

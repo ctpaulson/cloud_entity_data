@@ -1,0 +1,20 @@
+{
+  "Maps&Geospatial": [
+    {
+      "id": "/gcp/service/GoogleEarth",
+      "fullName": "Google Earth",
+      "shortName": "Google Earth",
+      "description": "A tool for no-code geospatial evaluation and analysis.",
+      "categoryId": "/gcp/category/Maps",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/GoogleMapsPlatform",
+      "fullName": "Google Maps Platform",
+      "shortName": "Google Maps Platform",
+      "description": "A service providing real-world insights and location experiences.",
+      "categoryId": "/gcp/category/Maps",
+      "isCore": false
+    }
+  ]
+}

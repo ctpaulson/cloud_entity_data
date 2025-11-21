@@ -1,0 +1,165 @@
+{
+  "Managementandgovernance": [
+    {
+      "id": "/azure/service/CopilotInAzure",
+      "fullName": "Microsoft Copilot in Azure",
+      "shortName": "Copilot in Azure",
+      "description": "Simplify operations and management from cloud to edge with an AI companion.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Automation",
+      "fullName": "Automation",
+      "shortName": "Automation",
+      "description": "Simplify cloud management with process automation.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Advisor",
+      "fullName": "Azure Advisor",
+      "shortName": "Advisor",
+      "description": "Your personalized Azure best practices recommendation engine.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/DefenderEASM",
+      "fullName": "Defender External Attack Surface Management",
+      "shortName": "Defender EASM",
+      "description": "Safeguard the digital experience by discovering all internet-exposed resources with Microsoft Defender External Attack Surface Management (EASM).",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Blueprints",
+      "fullName": "Azure Blueprints",
+      "shortName": "Blueprints",
+      "description": "Enabling quick, repeatable creation of governed environments.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Lighthouse",
+      "fullName": "Azure Lighthouse",
+      "shortName": "Lighthouse",
+      "description": "Empowering service providers to manage customers at scale and with precision.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/ManagedApplications",
+      "fullName": "Azure Managed Applications",
+      "shortName": "Managed Applications",
+      "description": "Simplify management of cloud offerings.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/MobileApp",
+      "fullName": "Azure mobile app",
+      "shortName": "mobile app",
+      "description": "Stay connected to your Azure resources-anytime, anywhere.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Monitor",
+      "fullName": "Azure Monitor",
+      "shortName": "Monitor",
+      "description": "Full observability into your applications, infrastructure, and network.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Policy",
+      "fullName": "Azure Policy",
+      "shortName": "Policy",
+      "description": "Implement corporate governance and standards at scale.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/ResourceManager",
+      "fullName": "Azure Resource Manager",
+      "shortName": "Resource Manager",
+      "description": "Simplify how you manage your app resources.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/ResourceManagerTemplates",
+      "fullName": "Azure Resource Manager templates",
+      "shortName": "Resource Manager templates",
+      "description": "Deliver infrastructure as code for all your Azure resources using Resource Manager.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/ServiceHealth",
+      "fullName": "Azure Service Health",
+      "shortName": "Service Health",
+      "description": "Personalized guidance and support for when issues in Azure services affect you.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/CloudShell",
+      "fullName": "Cloud Shell",
+      "shortName": "Cloud Shell",
+      "description": "Streamline Azure administration with a browser-based shell.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/CostManagement",
+      "fullName": "Microsoft Cost Management",
+      "shortName": "Cost Management",
+      "description": "Monitor, allocate, and optimize cloud costs with transparency, accuracy, and efficiency.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/AzurePortal",
+      "fullName": "Microsoft Azure portal",
+      "shortName": "Azure portal",
+      "description": "Build, manage, and monitor all Azure products in a single, unified console.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Automanage",
+      "fullName": "Azure Automanage",
+      "shortName": "Automanage",
+      "description": "Effortless automation of cloud and on-premises infrastructure.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/ResourceMover",
+      "fullName": "Azure Resource Mover",
+      "shortName": "Resource Mover",
+      "description": "Simplify how you move multiple resources between Azure regions.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/Purview",
+      "fullName": "Microsoft Purview",
+      "shortName": "Purview",
+      "description": "Govern, protect, and manage your data estate.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/ChaosStudio",
+      "fullName": "Azure Chaos Studio",
+      "shortName": "Chaos Studio",
+      "description": "Improve application resilience by introducing faults and simulating outages.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/ManagedGrafana",
+      "fullName": "Azure Managed Grafana",
+      "shortName": "Managed Grafana",
+      "description": "Deploy Grafana dashboards as a fully managed Azure service.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/UpdateManagementCenter",
+      "fullName": "Update management center",
+      "shortName": "Update management center",
+      "description": "Centrally manage updates and compliance at scale.",
+      "categoryId": "/azure/category/Management"
+    },
+    {
+      "id": "/azure/service/SREAgent",
+      "fullName": "Azure SRE Agent",
+      "shortName": "SRE Agent",
+      "description": "Automate repetitive tasks and improve incident response using an autonomous incident mitigation and resource optimization agent with intelligent precision.",
+      "categoryId": "/azure/category/Management"
+    }
+  ]
+}

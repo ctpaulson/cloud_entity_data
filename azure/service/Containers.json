@@ -1,0 +1,60 @@
+{
+  "Containers": [
+    {
+      "id": "/azure/service/AKS",
+      "fullName": "Azure Kubernetes Service (AKS)",
+      "shortName": "AKS",
+      "description": "Deploy and scale containers on managed Kubernetes.",
+      "categoryId": "/azure/category/Containers"
+    },
+    {
+      "id": "/azure/service/KubernetesFleetManager",
+      "fullName": "Azure Kubernetes Fleet Manager",
+      "shortName": "Kubernetes Fleet Manager",
+      "description": "Seamlessly manage Kubernetes clusters at scale.",
+      "categoryId": "/azure/category/Containers"
+    },
+    {
+      "id": "/azure/service/RedHatOpenShift",
+      "fullName": "Azure Red Hat OpenShift",
+      "shortName": "Red Hat OpenShift",
+      "description": "Deploy and scale containers on managed Red Hat OpenShift.",
+      "categoryId": "/azure/category/Containers"
+    },
+    {
+      "id": "/azure/service/ContainerApps",
+      "fullName": "Azure Container Apps",
+      "shortName": "Container Apps",
+      "description": "Build and deploy modern apps and microservices using serverless containers.",
+      "categoryId": "/azure/category/Containers"
+    },
+    {
+      "id": "/azure/service/ContainerInstances",
+      "fullName": "Azure Container Instances",
+      "shortName": "Container Instances",
+      "description": "Launch containers with hypervisor isolation.",
+      "categoryId": "/azure/category/Containers"
+    },
+    {
+      "id": "/azure/service/ServiceFabric",
+      "fullName": "Azure Service Fabric",
+      "shortName": "Service Fabric",
+      "description": "Deploy and operate always-on, scalable, distributed apps.",
+      "categoryId": "/azure/category/Containers"
+    },
+    {
+      "id": "/azure/service/ContainerRegistry",
+      "fullName": "Azure Container Registry",
+      "shortName": "Container Registry",
+      "description": "Build, store, secure, and replicate container images and artifacts.",
+      "categoryId": "/azure/category/Containers"
+    },
+    {
+      "id": "/azure/service/ContainerStorage",
+      "fullName": "Azure Container Storage",
+      "shortName": "Container Storage",
+      "description": "Manage persistent volumes for stateful container applications.",
+      "categoryId": "/azure/category/Containers"
+    }
+  ]
+}

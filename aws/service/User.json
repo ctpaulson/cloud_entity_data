@@ -1,0 +1,39 @@
+{
+  "EndUserComputing": [
+    {
+      "id": "/aws/service/AppStream2.0",
+      "fullName": "Amazon AppStream 2.0",
+      "shortName": "AppStream 2.0",
+      "description": "Amazon AppStream 2.0 is a fully managed application streaming service. You centrally manage your desktop applications on AppStream 2.0 and securely deliver them to any computer. You can easily scale to any number of users across the globe without acquiring, provisioning, and operating hardware or infrastructure. AppStream 2.0 is built on AWS, so you benefit from a data center and network architecture designed for the most security-sensitive organizations. Each user has a fluid and responsive experience with your applications, including GPU-intensive 3D design and engineering ones, because your applications run on virtual machines (VMs) optimized for specific use cases and each streaming session automatically adjusts to network conditions.\nEnterprises can use AppStream 2.0 to simplify application delivery and complete their migration to the cloud. Educational institutions can provide every student access to the applications they need for class on any computer. Software vendors can use AppStream 2.0 to deliver trials, demos, and training for their applications with no downloads or installations. They can also develop a full software-as-a-service (SaaS) solution without rewriting their application.",
+      "categoryId": "/aws/category/User"
+    },
+    {
+      "id": "/aws/service/WorkSpaces",
+      "fullName": "Amazon WorkSpaces",
+      "shortName": "WorkSpaces",
+      "description": "Amazon WorkSpaces is a fully managed, secure cloud desktop service. You can use WorkSpaces to provision either Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe. You can pay either monthly or hourly, just for the WorkSpaces you launch, which helps you save money when compared to traditional desktops and on-premises VDI solutions. WorkSpaces helps you eliminate the complexity in managing hardware inventory, OS versions and patches, and Virtual Desktop Infrastructure (VDI), which helps simplify your desktop delivery strategy. With WorkSpaces, your users get a fast, responsive desktop of their choice that they can access anywhere, anytime, from any supported device.",
+      "categoryId": "/aws/category/User"
+    },
+    {
+      "id": "/aws/service/WorkSpacesCore",
+      "fullName": "Amazon WorkSpaces Core",
+      "shortName": "WorkSpaces Core",
+      "description": "Amazon WorkSpaces Core provides cloud-based, fully managed virtual desktop infrastructure (VDI) accessible to third-party VDI management solutions.\n• Simplify VDI migration and combine your current VDI software with the security and reliability of AWS.\n• Maximize productivity and business continuity with a financially backed 99.9% uptime SLA.\n• Scale on demand with fixed-rate hourly billing, no overprovisioning, and no upfront costs.\n• Improve user experience and performance with virtual desktops located closer to your global workforce.",
+      "categoryId": "/aws/category/User"
+    },
+    {
+      "id": "/aws/service/WorkSpacesThinClient",
+      "fullName": "Amazon WorkSpaces Thin Client",
+      "shortName": "WorkSpaces Thin Client",
+      "description": "Amazon WorkSpaces Thin Client is a cost-effective thin client device that is built to work with AWS End User Computing (EUC) virtual desktops to provide users with a complete cloud desktop solution. WorkSpaces Thin Client is a compact device designed to connect two monitors and multiple USB devices such as a keyboard, mouse, headset, and webcam. To maximize endpoint security, WorkSpaces Thin Client devices do not allow local data storage or installation of unapproved applications. The WorkSpaces Thin Client device ships directly to end users or to your company's locations preloaded with device management software.",
+      "categoryId": "/aws/category/User"
+    },
+    {
+      "id": "/aws/service/WorkSpacesWeb",
+      "fullName": "Amazon Workspaces Web",
+      "shortName": "WorkSpaces Web",
+      "description": "Amazon WorkSpaces Web is a low-cost, fully managed workspace built specifically to facilitate secure access to internal websites and software-as-a-service (SaaS) applications from existing web browsers, without the administrative burden of appliances or specialized client software. Protect internal content with enterprise controls, while providing access to all the web-based productivity tools users need from any browser. WorkSpaces Web makes it easy for customers to safely provide their employees with access to internal websites and SaaS web applications without the administrative burden of appliances or specialized client software. WorkSpaces Web provides simple policy tools tailored for user interactions, while offloading common tasks like capacity management, scaling, and maintaining browser images.",
+      "categoryId": "/aws/category/User"
+    }
+  ]
+}

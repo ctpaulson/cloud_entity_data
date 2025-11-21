@@ -1,0 +1,68 @@
+{
+  "Networking": [
+    {
+      "id": "/gcp/service/NetworkConnectivity",
+      "fullName": "Network Connectivity",
+      "shortName": "Network Connectivity",
+      "description": "A set of network and hybrid connectivity options.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/NetworkIntelligence",
+      "fullName": "Network Intelligence",
+      "shortName": "Network Intelligence",
+      "description": "A service for network monitoring and topology.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/NetworkSecurity",
+      "fullName": "Network Security",
+      "shortName": "Network Security",
+      "description": "A set of tools that power safe networking.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/NetworkServiceTiers",
+      "fullName": "Network Service Tiers",
+      "shortName": "Network Service Tiers",
+      "description": "A service for price vs performance tiering.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/NetworkServices",
+      "fullName": "Network Services",
+      "shortName": "Network Services",
+      "description": "A collection of network management tools.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/SpectrumAccessSystem",
+      "fullName": "Spectrum Access System",
+      "shortName": "Spectrum Access System",
+      "description": "A service to access the shared CBRS band radio spectrum.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/TelecomNetworkAutomation",
+      "fullName": "Telecom Network Automation",
+      "shortName": "Telecom Network Automation",
+      "description": "A service to automate Telecom Infrastructure and Applications.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/VPCNetwork",
+      "fullName": "VPC Network",
+      "shortName": "VPC Network",
+      "description": "A virtual private cloud service.",
+      "categoryId": "/gcp/category/Networking",
+      "isCore": false
+    }
+  ]
+}

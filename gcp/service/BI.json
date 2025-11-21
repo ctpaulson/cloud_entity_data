@@ -1,0 +1,20 @@
+{
+  "BusinessIntelligence": [
+    {
+      "id": "/gcp/service/Looker",
+      "fullName": "Looker",
+      "shortName": "Looker",
+      "description": "An enterprise platform for BI and Analytics.",
+      "categoryId": "/gcp/category/BI",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/LookerStudio",
+      "fullName": "Looker Studio",
+      "shortName": "Looker Studio",
+      "description": "A scalable self-service BI tool.",
+      "categoryId": "/gcp/category/BI",
+      "isCore": false
+    }
+  ]
+}

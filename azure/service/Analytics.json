@@ -1,0 +1,130 @@
+{
+  "Analytics": [
+    {
+      "id": "/azure/service/AnalysisServices",
+      "fullName": "Azure Analysis Services",
+      "shortName": "Analysis Services",
+      "description": "Enterprise-grade analytics engine as a service.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/DataExplorer",
+      "fullName": "Azure Data Explorer",
+      "shortName": "Data Explorer",
+      "description": "Fast and highly scalable data exploration service.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/DataFactory",
+      "fullName": "Azure Data Factory",
+      "shortName": "Data Factory",
+      "description": "Hybrid data integration at enterprise scale, made easy.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/DataLakeStorage",
+      "fullName": "Azure Data Lake Storage",
+      "shortName": "Data Lake Storage",
+      "description": "Scalable, secure data lake for high-performance analytics.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/DataShare",
+      "fullName": "Azure Data Share",
+      "shortName": "Data Share",
+      "description": "A simple and safe service for sharing big data with external organizations.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/AzureDatabricks",
+      "fullName": "Azure Databricks",
+      "shortName": "Databricks",
+      "description": "Design AI with Apache Spark™-based analytics.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/StreamAnalytics",
+      "fullName": "Azure Stream Analytics",
+      "shortName": "Stream Analytics",
+      "description": "Real-time analytics on fast-moving streaming data.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/SynapseAnalytics",
+      "fullName": "Azure Synapse Analytics",
+      "shortName": "Synapse Analytics",
+      "description": "Limitless analytics with unmatched time to insight.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/DataCatalog",
+      "fullName": "Data Catalog",
+      "shortName": "Data Catalog",
+      "description": "Get more value from your enterprise data assets.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/DataLakeAnalytics",
+      "fullName": "Data Lake Analytics",
+      "shortName": "Data Lake Analytics",
+      "description": "Distributed analytics service that makes big data easy.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/EventHubs",
+      "fullName": "Event Hubs",
+      "shortName": "Event Hubs",
+      "description": "Receive telemetry from millions of devices.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/HDInsight",
+      "fullName": "HDInsight",
+      "shortName": "HDInsight",
+      "description": "Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/PowerBIEmbedded",
+      "fullName": "Power BI Embedded",
+      "shortName": "Power BI Embedded",
+      "description": "White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/GraphDataConnect",
+      "fullName": "Microsoft Graph Data Connect",
+      "shortName": "Graph Data Connect",
+      "description": "A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/Fabric",
+      "fullName": "Microsoft Fabric",
+      "shortName": "Fabric",
+      "description": "Reshape how everyone accesses, manages, and acts on data and insights by connecting every data source and analytics service together-on a single, AI-powered platform.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/Purview",
+      "fullName": "Microsoft Purview",
+      "shortName": "Purview",
+      "description": "Govern, protect, and manage your data estate.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/HDInsightOnAKS",
+      "fullName": "Azure HDInsight on Azure Kubernetes Service (AKS)",
+      "shortName": "HDInsight on AKS",
+      "description": "Deploy open-source analytics workloads and simplify container management in the cloud.",
+      "categoryId": "/azure/category/Analytics"
+    },
+    {
+      "id": "/azure/service/PlanetaryComputerPro",
+      "fullName": "Microsoft Planetary Computer Pro",
+      "shortName": "Planetary Computer Pro",
+      "description": "Unify geospatial data with enterprise AI and analytics to enhance business decisions.",
+      "categoryId": "/azure/category/Analytics"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Categories": [
+    {
+      "id": "/aws/category/Analytics",
+      "fullName": "Analytics",
+      "shortName": "Analytics",
+      "description": "AWS provides a comprehensive set of analytics services that fit all your data analytics needs and enables organizations of all sizes and industries to reinvent their business with data. From storage and management, data governance, actions, and experiences, AWS offers purpose-built services that provide the best price-performance, scalability, and lowest cost."
+    },
+    {
+      "id": "/aws/category/Integration",
+      "fullName": "Application integration",
+      "shortName": "Integration",
+      "description": "Application integration on AWS is a suite of services that enable communication between decoupled components within microservices, distributed systems, and serverless applications. You don't need to refactor your entire architecture to benefit-decoupling applications at any scale can reduce the impact of changes, making it easier to update and faster to release new features."
+    },
+    {
+      "id": "/aws/category/Blockchain",
+      "fullName": "Blockchain",
+      "shortName": "Blockchain",
+      "description": ""
+    },
+    {
+      "id": "/aws/category/Business",
+      "fullName": "Business applications",
+      "shortName": "Business",
+      "description": "Innovative business applications with the same on-demand scalability, reliability, pay-as-you go pricing, and machine learning that drives AWS cloud infrastructure."
+    },
+    {
+      "id": "/aws/category/Financial",
+      "fullName": "Cloud Financial Management",
+      "shortName": "Financial",
+      "description": "Whether you were born in the cloud, or you are just starting your migration journey to the cloud, AWS has a set of solutions to help you manage and optimize your spend."
+    },
+    {
+      "id": "/aws/category/Compute",
+      "fullName": "Compute",
+      "shortName": "Compute",
+      "description": "Millions of organizations run diverse workloads using AWS compute services."
+    },
+    {
+      "id": "/aws/category/Enablement",
+      "fullName": "Customer enablement",
+      "shortName": "Enablement",
+      "description": ""
+    },
+    {
+      "id": "/aws/category/Containers",
+      "fullName": "Containers",
+      "shortName": "Containers",
+      "description": "AWS offers services that give you a secure place to store and manage your container images, orchestration that manages when and where your containers run, and flexible compute engines to power your containers."
+    },
+    {
+      "id": "/aws/category/Databases",
+      "fullName": "Databases",
+      "shortName": "Databases",
+      "description": "AWS databases offer a high-performance, secure, and reliable foundation to power generative Al solutions and data-driven applications that drive value for your business and customers."
+    },
+    {
+      "id": "/aws/category/Developer",
+      "fullName": "Developer tools",
+      "shortName": "Developer",
+      "description": ""
+    },
+    {
+      "id": "/aws/category/User",
+      "fullName": "End user computing",
+      "shortName": "User",
+      "description": ""
+    },
+    {
+      "id": "/aws/category/Frontend",
+      "fullName": "Frontend web and mobile services",
+      "shortName": "Frontend",
+      "description": "AWS offers a broad set of tools and services to support development workflows for native iOS, Android, React Native, and JavaScript developers. Discover how easy it is to develop, deploy, and operate your app, even if you are new to AWS."
+    },
+    {
+      "id": "/aws/category/Game",
+      "fullName": "Game tech",
+      "shortName": "Game",
+      "description": ""
+    },
+    {
+      "id": "/aws/category/IoT",
+      "fullName": "Internet of Things (IoT)",
+      "shortName": "IoT",
+      "description": "AWS offers Internet of Things (IoT) services and solutions to connect and manage billions of devices. Collect, store, and analyze loT data for industrial, consumer, commercial, and automotive workloads."
+    },
+    {
+      "id": "/aws/category/ML",
+      "fullName": "Machine Learning (ML) and Artificial Intelligence (AI)",
+      "shortName": "ML",
+      "description": "AWS helps you at every stage of your ML adoption journey with the most comprehensive set ML services and purpose-built infrastructure. Our pretrained Al services provide ready-made intelligence for your applications and workflows."
+    },
+    {
+      "id": "/aws/category/Management",
+      "fullName": "Management and governance",
+      "shortName": "Management",
+      "description": "With AWS Management and Governance services, you don't have to choose between innovating faster and maintaining control over cost, compliance, and security—you can do both."
+    },
+    {
+      "id": "/aws/category/Media",
+      "fullName": "Media",
+      "shortName": "Media",
+      "description": "AWS offers the most purpose-built media services, software, and appliances of any cloud to make creating, transforming, and delivering digital content fast and easy."
+    },
+    {
+      "id": "/aws/category/Migration",
+      "fullName": "Migration and transfer",
+      "shortName": "Migration",
+      "description": "AWS offers a wide range of migration tools, guidance, services, and programs to help you assess, migrate and modernize applications and data from building the business case to leveraging AWS services to deliver new experiences."
+    },
+    {
+      "id": "/aws/category/Networking",
+      "fullName": "Networking and content delivery",
+      "shortName": "Networking",
+      "description": "AWS offers a broad set of networking and content delivery services that provide the highest level of reliability, security, and performance in the cloud."
+    },
+    {
+      "id": "/aws/category/Quantum",
+      "fullName": "Quantum technologies",
+      "shortName": "Quantum",
+      "description": ""
+    },
+    {
+      "id": "/aws/category/Satellite",
+      "fullName": "Satellite",
+      "shortName": "Satellite",
+      "description": ""
+    },
+    {
+      "id": "/aws/category/Security",
+      "fullName": "Security, identity, and compliance",
+      "shortName": "Security",
+      "description": "AWS is architected to be the most secure global cloud infrastructure on which to build, migrate, and manage applications and workloads."
+    },
+    {
+      "id": "/aws/category/Storage",
+      "fullName": "Storage",
+      "shortName": "Storage",
+      "description": "AWS provides a broad portfolio of storage services with deep functionality for storing, accessing, protecting, and analyzing your data."
+    }
+  ]
+}

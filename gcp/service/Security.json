@@ -1,0 +1,52 @@
+{
+  "SecurityandIdentity": [
+    {
+      "id": "/gcp/service/Compliance",
+      "fullName": "Compliance",
+      "shortName": "Compliance",
+      "description": "Tools that help support data regulations.",
+      "categoryId": "/gcp/category/Security",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/IAM&Admin",
+      "fullName": "IAM & Admin",
+      "shortName": "IAM & Admin",
+      "description": "A service for resource access control.",
+      "categoryId": "/gcp/category/Security",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/IdentityPlatform",
+      "fullName": "Identity Platform",
+      "shortName": "Identity Platform",
+      "description": "A service providing Google-grade identity and access management.",
+      "categoryId": "/gcp/category/Security",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Mandiant",
+      "fullName": "Mandiant",
+      "shortName": "Mandiant",
+      "description": "An industry leader in threat intelligence and cybersecurity consulting.",
+      "categoryId": "/gcp/category/Security",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/Security",
+      "fullName": "Security",
+      "shortName": "Security",
+      "description": "A set of security management controls and capabilities.",
+      "categoryId": "/gcp/category/Security",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/SecurityCommandCenter",
+      "fullName": "Security Command Center",
+      "shortName": "Security Command Center",
+      "description": "A centralized security and risk management platform.",
+      "categoryId": "/gcp/category/Security",
+      "isCore": true
+    }
+  ]
+}

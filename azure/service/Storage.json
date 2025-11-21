@@ -1,0 +1,95 @@
+{
+  "Storage": [
+    {
+      "id": "/azure/service/ArchiveStorage",
+      "fullName": "Archive Storage",
+      "shortName": "Archive Storage",
+      "description": "Industry leading price point for storing rarely accessed data.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/ManagedLustre",
+      "fullName": "Azure Managed Lustre",
+      "shortName": "Managed Lustre",
+      "description": "Azure Managed Lustre is a fully managed, cloud based parallel file system that enables customers to run their high performance computing (HPC) workloads in the cloud.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/Backup",
+      "fullName": "Azure Backup",
+      "shortName": "Backup",
+      "description": "Simplify data protection with built-in backup management at scale.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/DataLakeStorage",
+      "fullName": "Azure Data Lake Storage",
+      "shortName": "Data Lake Storage",
+      "description": "Scalable, secure data lake for high-performance analytics.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/Files",
+      "fullName": "Azure Files",
+      "shortName": "Files",
+      "description": "Simple, secure and serverless enterprise-grade cloud file shares.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/StorageActions",
+      "fullName": "Azure Storage Actions",
+      "shortName": "Storage Actions",
+      "description": "Simplify storage data management at massive scale.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/NetAppFiles",
+      "fullName": "Azure NetApp Files",
+      "shortName": "NetApp Files",
+      "description": "Enterprise-grade Azure file shares, powered by NetApp.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/BlobStorage",
+      "fullName": "Azure Blob Storage",
+      "shortName": "Blob Storage",
+      "description": "Massively scalable and secure object storage.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/DiskStorage",
+      "fullName": "Azure Disk Storage",
+      "shortName": "Disk Storage",
+      "description": "High-performance, highly durable block storage.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/ElasticSAN",
+      "fullName": "Azure Elastic SAN",
+      "shortName": "Elastic SAN",
+      "description": "Elastic SAN is a cloud-native Storage Area Network (SAN) service built on Azure. Gain access to an end-to-end experience like your on-premises SAN.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/QueueStorage",
+      "fullName": "Queue Storage",
+      "shortName": "Queue Storage",
+      "description": "Effectively scale apps according to traffic.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/StorageAccounts",
+      "fullName": "Storage Accounts",
+      "shortName": "Storage Accounts",
+      "description": "Durable, highly available, and massively scalable cloud storage.",
+      "categoryId": "/azure/category/Storage"
+    },
+    {
+      "id": "/azure/service/StorageExplorer",
+      "fullName": "Storage Explorer",
+      "shortName": "Storage Explorer",
+      "description": "View and interact with Azure Storage resources.",
+      "categoryId": "/azure/category/Storage"
+    }
+  ]
+}

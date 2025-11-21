@@ -1,0 +1,32 @@
+{
+  "Identity": [
+    {
+      "id": "/azure/service/EntraID",
+      "fullName": "Microsoft Entra ID (formerly Azure AD)",
+      "shortName": "Entra ID",
+      "description": "Synchronize on-premises directories and enable single sign-on.",
+      "categoryId": "/azure/category/Identity"
+    },
+    {
+      "id": "/azure/service/EntraDomainServices",
+      "fullName": "Microsoft Entra Domain Services",
+      "shortName": "Entra Domain Services",
+      "description": "Manage your domain controllers in the cloud.",
+      "categoryId": "/azure/category/Identity"
+    },
+    {
+      "id": "/azure/service/EntraVerifiedID",
+      "fullName": "Microsoft Entra Verified ID",
+      "shortName": "Entra Verified ID",
+      "description": "Build unique user-owned identity scenarios designed for trustworthy, secure, and efficient interactions between people and organizations.",
+      "categoryId": "/azure/category/Identity"
+    },
+    {
+      "id": "/azure/service/EntraExternalID",
+      "fullName": "Microsoft Entra External ID",
+      "shortName": "Entra External ID",
+      "description": "Personalize and help secure access to any application for customers and partners.",
+      "categoryId": "/azure/category/Identity"
+    }
+  ]
+}

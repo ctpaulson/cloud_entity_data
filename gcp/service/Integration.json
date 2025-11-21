@@ -1,0 +1,60 @@
+{
+  "IntegrationServices": [
+    {
+      "id": "/gcp/service/Apigee",
+      "fullName": "Apigee",
+      "shortName": "Apigee",
+      "description": "An API Management platform.",
+      "categoryId": "/gcp/category/Integration",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/ApplicationIntegration",
+      "fullName": "Application Integration",
+      "shortName": "Application Integration",
+      "description": "A service for enterprise application integrations.",
+      "categoryId": "/gcp/category/Integration",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/DeveloperConnect",
+      "fullName": "Developer Connect",
+      "shortName": "Developer Connect",
+      "description": "A service for connections to third-party source code management platforms.",
+      "categoryId": "/gcp/category/Integration",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Endpoints",
+      "fullName": "Endpoints",
+      "shortName": "Endpoints",
+      "description": "A Cloud API gateway.",
+      "categoryId": "/gcp/category/Integration",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Eventarc",
+      "fullName": "Eventarc",
+      "shortName": "Eventarc",
+      "description": "A modern event delivery service.",
+      "categoryId": "/gcp/category/Integration",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/IntegrationConnectors",
+      "fullName": "Integration Connectors",
+      "shortName": "Integration Connectors",
+      "description": "A service for enterprise application connectivity.",
+      "categoryId": "/gcp/category/Integration",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Workflows",
+      "fullName": "Workflows",
+      "shortName": "Workflows",
+      "description": "A service for HTTP services orchestration.",
+      "categoryId": "/gcp/category/Integration",
+      "isCore": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Media": [
+    {
+      "id": "/azure/service/ContentDeliveryNetwork",
+      "fullName": "Content Delivery Network",
+      "shortName": "Content Delivery Network",
+      "description": "Fast, reliable content delivery network with global reach.",
+      "categoryId": "/azure/category/Media"
+    }
+  ]
+}

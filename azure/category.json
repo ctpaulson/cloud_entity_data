@@ -1,0 +1,130 @@
+{
+  "Categories": [
+    {
+      "id": "azure/category/AIML",
+      "fullName": "AI + machine learning",
+      "shortName": "AI/ML",
+      "description": "Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario."
+    },
+    {
+      "id": "azure/category/Analytics",
+      "fullName": "Analytics",
+      "shortName": "Analytics",
+      "description": "Gather, store, process, analyse and visualise data of any variety, volume or velocity."
+    },
+    {
+      "id": "azure/category/Compute",
+      "fullName": "Compute",
+      "shortName": "Compute",
+      "description": "Access cloud compute capacity and scale on demand-and only pay for the resources you use."
+    },
+    {
+      "id": "azure/category/Containers",
+      "fullName": "Containers",
+      "shortName": "Containers",
+      "description": "Develop and manage your containerized applications faster with integrated tools."
+    },
+    {
+      "id": "azure/category/Databases",
+      "fullName": "Databases",
+      "shortName": "Databases",
+      "description": "Support rapid growth and innovate faster with secure, enterprise-grade, and fully managed database services."
+    },
+    {
+      "id": "azure/category/DevTools",
+      "fullName": "Developer tools",
+      "shortName": "Dev Tools",
+      "description": "Build, manage, and continuously deliver cloud applications-using any platform or language."
+    },
+    {
+      "id": "azure/category/DevOps",
+      "fullName": "DevOps",
+      "shortName": "DevOps",
+      "description": "Deliver innovation faster with simple, reliable tools for continuous delivery."
+    },
+    {
+      "id": "azure/category/Hybrid",
+      "fullName": "Hybrid + multicloud",
+      "shortName": "Hybrid",
+      "description": "Get Azure innovation everywhere-bring the agility and innovation of cloud computing to your on-premises workloads."
+    },
+    {
+      "id": "azure/category/Identity",
+      "fullName": "Identity",
+      "shortName": "Identity",
+      "description": "Manage user identities and access to protect against advanced threats across devices, data, apps, and infrastructure."
+    },
+    {
+      "id": "azure/category/Integration",
+      "fullName": "Integration",
+      "shortName": "Integration",
+      "description": "Seamlessly integrate on-premises and cloud-based applications, data, and processes across your enterprise."
+    },
+    {
+      "id": "azure/category/IoT",
+      "fullName": "Internet of Things",
+      "shortName": "IoT",
+      "description": "Use a set of scalable, modular, edge services, built on industry standards to easily capture device and equipment data, process and normalize it at the edge, and seamlessly send and receive operational insights to and from the cloud."
+    },
+    {
+      "id": "azure/category/Management",
+      "fullName": "Management and governance",
+      "shortName": "Management",
+      "description": "Simplify, automate, and optimize the management and compliance of your cloud resources."
+    },
+    {
+      "id": "azure/category/Media",
+      "fullName": "Media",
+      "shortName": "Media",
+      "description": "Deliver high-quality video content anywhere, any time, and on any device."
+    },
+    {
+      "id": "azure/category/Migration",
+      "fullName": "Migration",
+      "shortName": "Migration",
+      "description": "Simplify and accelerate your migration to the cloud with guidance, tools, and resources."
+    },
+    {
+      "id": "azure/category/XR",
+      "fullName": "Mixed reality",
+      "shortName": "XR",
+      "description": "Blend your physical and digital worlds to create immersive, collaborative experiences."
+    },
+    {
+      "id": "azure/category/Mobile",
+      "fullName": "Mobile",
+      "shortName": "Mobile",
+      "description": "Build and deploy cross-platform and native apps for any mobile device."
+    },
+    {
+      "id": "azure/category/Networking",
+      "fullName": "Networking",
+      "shortName": "Networking",
+      "description": "Connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience."
+    },
+    {
+      "id": "azure/category/Security",
+      "fullName": "Security",
+      "shortName": "Security",
+      "description": "Protect your enterprise from advanced threats across hybrid cloud workloads."
+    },
+    {
+      "id": "azure/category/Storage",
+      "fullName": "Storage",
+      "shortName": "Storage",
+      "description": "Get secure, massively scalable cloud storage for your data, apps, and workloads."
+    },
+    {
+      "id": "azure/category/VDI",
+      "fullName": "Virtual desktop infrastructure",
+      "shortName": "VDI",
+      "description": "Empower employees to work securely from anywhere with a cloud-based virtual desktop infrastructure."
+    },
+    {
+      "id": "azure/category/Web",
+      "fullName": "Web",
+      "shortName": "Web",
+      "description": "Build scalable, powerful web applications quickly and efficiently."
+    }
+  ]
+}

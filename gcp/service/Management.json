@@ -1,0 +1,76 @@
+{
+  "ManagementTools": [
+    {
+      "id": "/gcp/service/ActiveAssist",
+      "fullName": "Active Assist",
+      "shortName": "Active Assist",
+      "description": "A service to proactively optimize your cloud environment.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/AdminForGemini",
+      "fullName": "Admin for Gemini",
+      "shortName": "Admin for Gemini",
+      "description": "A tool to purchase and manage Gemini Products in Google Cloud.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/APIs&Services",
+      "fullName": "APIs & Services",
+      "shortName": "APIs & Services",
+      "description": "An API management tool for cloud services.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Billing",
+      "fullName": "Billing",
+      "shortName": "Billing",
+      "description": "An assortment of billing and cost management tools.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CarbonFootprint",
+      "fullName": "Carbon Footprint",
+      "shortName": "Carbon Footprint",
+      "description": "A tool to see your cloud carbon emissions.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudHub",
+      "fullName": "Cloud Hub",
+      "shortName": "Cloud Hub",
+      "description": "A service providing cloud insights in a unified view.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/GoogleAuthPlatform",
+      "fullName": "Google Auth Platform",
+      "shortName": "Google Auth Platform",
+      "description": "A service for OAuth configuration and credentials.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/GoogleCloudSetup",
+      "fullName": "Google Cloud Setup",
+      "shortName": "Google Cloud Setup",
+      "description": "A tool to set up and deploy a best-practice foundation.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Organizations",
+      "fullName": "Organizations",
+      "shortName": "Organizations",
+      "description": "A tool to manage the ownership and settings for your Organization.",
+      "categoryId": "/gcp/category/Management",
+      "isCore": false
+    }
+  ]
+}

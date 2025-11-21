@@ -1,0 +1,102 @@
+{
+  "Databases": [
+    {
+      "id": "/azure/service/CosmosDB",
+      "fullName": "Azure Cosmos DB",
+      "shortName": "Cosmos DB",
+      "description": "Build or modernize scalable, high-performance apps.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/SQL",
+      "fullName": "Azure SQL",
+      "shortName": "SQL",
+      "description": "Migrate, modernize, and innovate on the modern SQL family of cloud databases.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/SQLDatabase",
+      "fullName": "Azure SQL Database",
+      "shortName": "SQL Database",
+      "description": "Build apps that scale with a managed and intelligent SQL database in the cloud.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/SQLManagedInstance",
+      "fullName": "Azure SQL Managed Instance",
+      "shortName": "SQL Managed Instance",
+      "description": "Modernize SQL Server applications with a managed, always-up-to-date SQL instance in the cloud.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/SQLServerOnVMs",
+      "fullName": "SQL Server on Azure Virtual Machines",
+      "shortName": "SQL Server on VMs",
+      "description": "Migrate SQL Server workloads to the cloud at lower total cost of ownership.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/PostgreSQL",
+      "fullName": "Azure Database for PostgreSQL",
+      "shortName": "Database for PostgreSQL",
+      "description": "Innovate with a fully managed, intelligent, and scalable PostgreSQL database.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/MySQL",
+      "fullName": "Azure Database for MySQL",
+      "shortName": "Database for MySQL",
+      "description": "Modernize with a fully managed, scalable MySQL database.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/ManagedRedis",
+      "fullName": "Azure Managed Redis",
+      "shortName": "Managed Redis",
+      "description": "Take advantage of a fully managed, in-memory database with the latest Redis innovations.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/MariaDB",
+      "fullName": "Azure Database for MariaDB",
+      "shortName": "Database for MariaDB",
+      "description": "Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/DatabaseMigrationService",
+      "fullName": "Azure Database Migration Service",
+      "shortName": "Database Migration Service",
+      "description": "Simplify your data migration to Azure.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/ManagedInstanceForCassandra",
+      "fullName": "Azure Managed Instance for Apache Cassandra",
+      "shortName": "Managed Instance for Apache Cassandra",
+      "description": "Modernize Cassandra data clusters with a managed instance in the cloud.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/CacheForRedis",
+      "fullName": "Azure Cache for Redis",
+      "shortName": "Cache for Redis",
+      "description": "Accelerate apps with high-throughput, low-latency data caching.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/TableStorage",
+      "fullName": "Table Storage",
+      "shortName": "Table Storage",
+      "description": "Get a NoSQL key-value store using semi-structured datasets.",
+      "categoryId": "/azure/category/Databases"
+    },
+    {
+      "id": "/azure/service/SQLEdge",
+      "fullName": "Azure SQL Edge",
+      "shortName": "SQL Edge",
+      "description": "Consume Services privately on Azure Platform.",
+      "categoryId": "/azure/category/Databases"
+    }
+  ]
+}

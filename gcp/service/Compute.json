@@ -1,0 +1,52 @@
+{
+  "Compute": [
+    {
+      "id": "/gcp/service/Batch",
+      "fullName": "Batch",
+      "shortName": "Batch",
+      "description": "A service for managing jobs as a service.",
+      "categoryId": "/gcp/category/Compute",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ClusterDirector",
+      "fullName": "Cluster Director",
+      "shortName": "Cluster Director",
+      "description": "A service for managed clusters for AI and HPC.",
+      "categoryId": "/gcp/category/Compute",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ComputeEngine",
+      "fullName": "Compute Engine",
+      "shortName": "Compute Engine",
+      "description": "A service offering VMs, GPUs, TPUs, and disks.",
+      "categoryId": "/gcp/category/Compute",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/LicenseManager",
+      "fullName": "License Manager",
+      "shortName": "License Manager",
+      "description": "A tool to acquire, manage, and audit licenses for third-party software.",
+      "categoryId": "/gcp/category/Compute",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/VMwareEngine",
+      "fullName": "VMware Engine",
+      "shortName": "VMware Engine",
+      "description": "A service offering VMware as a service.",
+      "categoryId": "/gcp/category/Compute",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/WorkloadManager",
+      "fullName": "Workload Manager",
+      "shortName": "Workload Manager",
+      "description": "A tool for enterprise workload deployment and operation.",
+      "categoryId": "/gcp/category/Compute",
+      "isCore": false
+    }
+  ]
+}

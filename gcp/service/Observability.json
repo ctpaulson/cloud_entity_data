@@ -1,0 +1,44 @@
+{
+  "Observability": [
+    {
+      "id": "/gcp/service/CloudAssist",
+      "fullName": "Cloud Assist",
+      "shortName": "Cloud Assist",
+      "description": "A tool to troubleshoot issues quickly with Cloud Assist Investigations.",
+      "categoryId": "/gcp/category/Observability",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ErrorReporting",
+      "fullName": "Error Reporting",
+      "shortName": "Error Reporting",
+      "description": "A dashboard for app errors.",
+      "categoryId": "/gcp/category/Observability",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Logging",
+      "fullName": "Logging",
+      "shortName": "Logging",
+      "description": "A service for real-time log management and analysis.",
+      "categoryId": "/gcp/category/Observability",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Monitoring",
+      "fullName": "Monitoring",
+      "shortName": "Monitoring",
+      "description": "A service for infrastructure and application quality checks.",
+      "categoryId": "/gcp/category/Observability",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Trace",
+      "fullName": "Trace",
+      "shortName": "Trace",
+      "description": "A service for app latency insights.",
+      "categoryId": "/gcp/category/Observability",
+      "isCore": false
+    }
+  ]
+}

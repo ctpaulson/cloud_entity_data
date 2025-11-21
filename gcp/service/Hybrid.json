@@ -1,0 +1,36 @@
+{
+  "HybridandMulticloud": [
+    {
+      "id": "/gcp/service/Anthos",
+      "fullName": "Anthos",
+      "shortName": "Anthos",
+      "description": "A managed platform for running applications across hybrid and multicloud environments.",
+      "categoryId": "/gcp/category/Hybrid",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/Appliances",
+      "fullName": "Appliances",
+      "shortName": "Appliances",
+      "description": "Devices for edge and transfer workloads.",
+      "categoryId": "/gcp/category/Hybrid",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/GDCconnected",
+      "fullName": "GDC connected",
+      "shortName": "GDC connected",
+      "description": "A managed edge infrastructure service.",
+      "categoryId": "/gcp/category/Hybrid",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/GoogleDistributedCloud",
+      "fullName": "Google Distributed Cloud",
+      "shortName": "Google Distributed Cloud",
+      "description": "A portfolio of hardware and software solutions that extend Google Cloud's infrastructure and services to the edge and your data centers.",
+      "categoryId": "/gcp/category/Hybrid",
+      "isCore": true
+    }
+  ]
+}

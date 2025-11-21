@@ -1,0 +1,148 @@
+{
+  "DataAnalytics": [
+    {
+      "id": "/gcp/service/AlteryxDesignerCloud",
+      "fullName": "Alteryx Designer Cloud",
+      "shortName": "Alteryx Designer Cloud",
+      "description": "A tool for visual data wrangling.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/BigLake",
+      "fullName": "BigLake",
+      "shortName": "BigLake",
+      "description": "A unified metastore for all of GCP.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/BigQuery",
+      "fullName": "BigQuery",
+      "shortName": "BigQuery",
+      "description": "A data warehouse and analytics platform.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/CloudComposer",
+      "fullName": "Cloud Composer",
+      "shortName": "Cloud Composer",
+      "description": "A managed workflow orchestration service.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ConfluentCloud",
+      "fullName": "Confluent Cloud",
+      "shortName": "Confluent Cloud",
+      "description": "A managed data streaming platform built on Apache Kafka and Apache Flink.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Databricks",
+      "fullName": "Databricks",
+      "shortName": "Databricks",
+      "description": "A platform for data, analytics, and AI workloads.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/DataCatalog",
+      "fullName": "Data Catalog",
+      "shortName": "Data Catalog",
+      "description": "A metadata management service.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/DataFusion",
+      "fullName": "Data Fusion",
+      "shortName": "Data Fusion",
+      "description": "A tool for data pipeline management.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Dataflow",
+      "fullName": "Dataflow",
+      "shortName": "Dataflow",
+      "description": "A streaming analytics service.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/DataplexUniversalCatalog",
+      "fullName": "Dataplex Universal Catalog",
+      "shortName": "Dataplex Universal Catalog",
+      "description": "A service for GCP-wide governance.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Dataproc",
+      "fullName": "Dataproc",
+      "shortName": "Dataproc",
+      "description": "A managed service for Apache Spark and Apache Hadoop.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Datastream",
+      "fullName": "Datastream",
+      "shortName": "Datastream",
+      "description": "A service for streaming ingestion and replication.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/EarthEngine",
+      "fullName": "Earth Engine",
+      "shortName": "Earth Engine",
+      "description": "A planetary-scale platform for Earth science.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ElasticCloud",
+      "fullName": "Elastic Cloud",
+      "shortName": "Elastic Cloud",
+      "description": "A data platform to uncover actionable intelligence.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/FinancialServices",
+      "fullName": "Financial Services",
+      "shortName": "Financial Services",
+      "description": "A service for revenue growth through the cloud.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ManagedServiceForApacheKafka",
+      "fullName": "Managed Service for Apache Kafka",
+      "shortName": "Managed Service for Apache Kafka",
+      "description": "An Apache Kafka service for all use cases.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/metastore",
+      "fullName": "metastore",
+      "shortName": "metastore",
+      "description": "A managed metastore service for Dataproc.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/PubSub",
+      "fullName": "Pub/Sub",
+      "shortName": "Pub/Sub",
+      "description": "A global real-time messaging service.",
+      "categoryId": "/gcp/category/Analytics",
+      "isCore": false
+    }
+  ]
+}

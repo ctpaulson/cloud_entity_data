@@ -1,0 +1,109 @@
+{
+  "Networking": [
+    {
+      "id": "/azure/service/ApplicationGateway",
+      "fullName": "Azure Application Gateway",
+      "shortName": "Application Gateway",
+      "description": "Build secure, scalable, highly available web front ends in Azure.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/DNS",
+      "fullName": "Azure DNS",
+      "shortName": "DNS",
+      "description": "Host your Domain Name System (DNS) domain in Azure.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/ExpressRoute",
+      "fullName": "Azure ExpressRoute",
+      "shortName": "ExpressRoute",
+      "description": "Experience a fast, reliable, and private connection to Azure.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/RouteServer",
+      "fullName": "Azure Route Server",
+      "shortName": "Route Server",
+      "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/FrontDoor",
+      "fullName": "Azure Front Door",
+      "shortName": "Front Door",
+      "description": "Modern cloud CDN that delivers optimized experiences to your users anywhere.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/NetworkFunctionManager",
+      "fullName": "Azure Network Function Manager",
+      "shortName": "Network Function Manager",
+      "description": "Extend Azure management for deploying 5G and SD-WAN network functions on edge devices.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/VirtualNetworkManager",
+      "fullName": "Azure Virtual Network Manager",
+      "shortName": "Virtual Network Manager",
+      "description": "Centrally manage virtual networks in Azure from a single pane of glass.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/NATGateway",
+      "fullName": "Azure NAT Gateway",
+      "shortName": "NAT Gateway",
+      "description": "Provide highly reliable, secure, and scalable outbound connectivity to the internet.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/LoadBalancer",
+      "fullName": "Azure Load Balancer",
+      "shortName": "Load Balancer",
+      "description": "Deliver high availability and network performance to your apps.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/PrivateLink",
+      "fullName": "Azure Private Link",
+      "shortName": "Private Link",
+      "description": "Private access to services hosted on the Azure platform, keeping your data on the Microsoft network.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/NetworkWatcher",
+      "fullName": "Azure Network Watcher",
+      "shortName": "Network Watcher",
+      "description": "Network performance monitoring and diagnostics solution.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/TrafficManager",
+      "fullName": "Azure Traffic Manager",
+      "shortName": "Traffic Manager",
+      "description": "Route incoming traffic for high performance and availability.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/VirtualNetwork",
+      "fullName": "Azure Virtual Network",
+      "shortName": "Virtual Network",
+      "description": "Create your own private network infrastructure in the cloud.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/VirtualWAN",
+      "fullName": "Azure Virtual WAN",
+      "shortName": "Virtual WAN",
+      "description": "Optimize and automate branch to branch connectivity through Azure.",
+      "categoryId": "/azure/category/Networking"
+    },
+    {
+      "id": "/azure/service/VPNGateway",
+      "fullName": "Azure VPN Gateway",
+      "shortName": "VPN Gateway",
+      "description": "Establish secure, cross-premises connectivity.",
+      "categoryId": "/azure/category/Networking"
+    }
+  ]
+}

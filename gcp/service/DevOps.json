@@ -1,0 +1,60 @@
+{
+  "DevOps": [
+    {
+      "id": "/gcp/service/ArtifactRegistry",
+      "fullName": "Artifact Registry",
+      "shortName": "Artifact Registry",
+      "description": "A universal build artifact management service.",
+      "categoryId": "/gcp/category/DevOps",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudBuild",
+      "fullName": "Cloud Build",
+      "shortName": "Cloud Build",
+      "description": "A continuous integration and delivery platform.",
+      "categoryId": "/gcp/category/DevOps",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudDeploy",
+      "fullName": "Cloud Deploy",
+      "shortName": "Cloud Deploy",
+      "description": "A service for continuous delivery to GKE and Cloud Run.",
+      "categoryId": "/gcp/category/DevOps",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ContainerRegistry",
+      "fullName": "Container Registry",
+      "shortName": "Container Registry",
+      "description": "A service for private container registry storage.",
+      "categoryId": "/gcp/category/DevOps",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/GitLab",
+      "fullName": "GitLab",
+      "shortName": "GitLab",
+      "description": "The GitLab SaaS Integration.",
+      "categoryId": "/gcp/category/DevOps",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/SecureSourceManager",
+      "fullName": "Secure Source Manager",
+      "shortName": "Secure Source Manager",
+      "description": "A service for hosted Git repositories.",
+      "categoryId": "/gcp/category/DevOps",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/SourceRepositories",
+      "fullName": "Source Repositories",
+      "shortName": "Source Repositories",
+      "description": "A service for hosted private git repos.",
+      "categoryId": "/gcp/category/DevOps",
+      "isCore": false
+    }
+  ]
+}

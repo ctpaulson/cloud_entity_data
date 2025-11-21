@@ -1,0 +1,12 @@
+{
+  "MixedReality": [
+    {
+      "id": "/gcp/service/ImmersiveStream",
+      "fullName": "Immersive Stream",
+      "shortName": "Immersive Stream",
+      "description": "A service providing seamless, photorealistic XR for everyone.",
+      "categoryId": "/gcp/category/XR",
+      "isCore": false
+    }
+  ]
+}

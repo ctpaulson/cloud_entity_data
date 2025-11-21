@@ -1,0 +1,18 @@
+{
+  "Mobile": [
+    {
+      "id": "/azure/service/CommunicationServices",
+      "fullName": "Azure Communication Services",
+      "shortName": "Communication Services",
+      "description": "Build multichannel communication experiences.",
+      "categoryId": "/azure/category/Mobile"
+    },
+    {
+      "id": "/azure/service/NotificationHubs",
+      "fullName": "Notification Hubs",
+      "shortName": "Notification Hubs",
+      "description": "Send push notifications to any platform from any back end.",
+      "categoryId": "/azure/category/Mobile"
+    }
+  ]
+}

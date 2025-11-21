@@ -1,0 +1,108 @@
+{
+  "Databases": [
+    {
+      "id": "/gcp/service/AlloyDB",
+      "fullName": "AlloyDB for PostgreSQL",
+      "shortName": "AlloyDB",
+      "description": "Enterprise-grade, PostgreSQL-compatible databases.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/Bigtable",
+      "fullName": "Bigtable",
+      "shortName": "Bigtable",
+      "description": "A petabyte-scale, low-latency, non-relational database.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudSQL",
+      "fullName": "Cloud SQL",
+      "shortName": "Cloud SQL",
+      "description": "A service for managed MySQL, PostgreSQL, and SQL Server.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/DatabaseCenter",
+      "fullName": "Database Center",
+      "shortName": "Database Center",
+      "description": "A dashboard for database fleets across products.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/DatabaseMigration",
+      "fullName": "Database Migration",
+      "shortName": "Database Migration",
+      "description": "A service for simplified Cloud SQL and AlloyDB migrations.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Datastore",
+      "fullName": "Datastore",
+      "shortName": "Datastore",
+      "description": "A serverless NoSQL document database.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Firestore",
+      "fullName": "Firestore",
+      "shortName": "Firestore",
+      "description": "A serverless, JSON & MongoDB compatible database.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Memorystore",
+      "fullName": "Memorystore",
+      "shortName": "Memorystore",
+      "description": "A managed service for Valkey, Redis Cluster, Redis, and Memcached.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/MongoDBAtlas",
+      "fullName": "MongoDB Atlas",
+      "shortName": "MongoDB Atlas",
+      "description": "A service for JSON-like data models, querying, & scaling.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Neo4jAura",
+      "fullName": "Neo4j Aura",
+      "shortName": "Neo4j Aura",
+      "description": "An integrated, fully managed graph database service.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/OracleDBAtGCP",
+      "fullName": "Oracle Database@Google Cloud",
+      "shortName": "Oracle Database@Google Cloud",
+      "description": "A service for running Oracle workloads on Google Cloud.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/RedisCloud",
+      "fullName": "Redis Cloud",
+      "shortName": "Redis Cloud",
+      "description": "A robust in-memory database platform.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Spanner",
+      "fullName": "Spanner",
+      "shortName": "Spanner",
+      "description": "A scalable, always-on, multi-model database.",
+      "categoryId": "/gcp/category/Databases",
+      "isCore": true
+    }
+  ]
+}

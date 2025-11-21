@@ -1,0 +1,76 @@
+{
+  "DeveloperTools": [
+    {
+      "id": "/gcp/service/AppDesignCenter",
+      "fullName": "App Design Center",
+      "shortName": "App Design Center",
+      "description": "A tool to visually design applications.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudScheduler",
+      "fullName": "Cloud Scheduler",
+      "shortName": "Cloud Scheduler",
+      "description": "A managed cron job service.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudTasks",
+      "fullName": "Cloud Tasks",
+      "shortName": "Cloud Tasks",
+      "description": "A service for asynchronous task execution.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudWorkstations",
+      "fullName": "Cloud Workstations",
+      "shortName": "Cloud Workstations",
+      "description": "A service providing development environments in the cloud.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/DeploymentManager",
+      "fullName": "Deployment Manager",
+      "shortName": "Deployment Manager",
+      "description": "A tool for templated infrastructure deployment.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Firebase",
+      "fullName": "Firebase",
+      "shortName": "Firebase",
+      "description": "A platform to build full-stack web and mobile apps.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/GeminiCodeAssist",
+      "fullName": "Gemini Code Assist",
+      "shortName": "Gemini Code Assist",
+      "description": "An AI-powered coding assistance tool.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/InfrastructureManager",
+      "fullName": "Infrastructure Manager",
+      "shortName": "Infrastructure Manager",
+      "description": "A service for Infrastructure as Code (IaC) deployments.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ServiceCatalog",
+      "fullName": "Service Catalog",
+      "shortName": "Service Catalog",
+      "description": "An internal solutions catalog.",
+      "categoryId": "/gcp/category/DevTools",
+      "isCore": false
+    }
+  ]
+}

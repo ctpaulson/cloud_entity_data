@@ -1,0 +1,81 @@
+{
+  "Security": [
+    {
+      "id": "/azure/service/Bastion",
+      "fullName": "Azure Bastion",
+      "shortName": "Bastion",
+      "description": "Fully managed service that helps secure remote access to your virtual machines.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/DDoSProtection",
+      "fullName": "Azure DDoS Protection",
+      "shortName": "DDoS Protection",
+      "description": "Protect your Azure resources from distributed denial-of-service (DDoS) attacks.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/CloudHSM",
+      "fullName": "Azure Cloud HSM",
+      "shortName": "Cloud HSM",
+      "description": "Fully managed, customer-owned, single-tenant hardware security module that provides secure key storage and cryptographic operations within your private virtual network.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/Firewall",
+      "fullName": "Azure Firewall",
+      "shortName": "Firewall",
+      "description": "Protect your Azure Virtual Network resources with cloud-native network security.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/FirewallManager",
+      "fullName": "Azure Firewall Manager",
+      "shortName": "Firewall Manager",
+      "description": "Central network security policy and route management for globally distributed, software-defined perimeters.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/InformationProtection",
+      "fullName": "Azure Information Protection",
+      "shortName": "Information Protection",
+      "description": "Better protect your sensitive information-anytime, anywhere.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/Sentinel",
+      "fullName": "Microsoft Sentinel",
+      "shortName": "Sentinel",
+      "description": "Cloud-native SIEM and intelligent security analytics.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/KeyVault",
+      "fullName": "Azure Key Vault",
+      "shortName": "Key Vault",
+      "description": "Safeguard and maintain control of keys and other secrets.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/ConfidentialLedger",
+      "fullName": "Azure confidential ledger",
+      "shortName": "confidential ledger",
+      "description": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/WAF",
+      "fullName": "Azure Web Application Firewall",
+      "shortName": "WAF",
+      "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps.",
+      "categoryId": "/azure/category/Security"
+    },
+    {
+      "id": "/azure/service/Attestation",
+      "fullName": "Microsoft Azure Attestation",
+      "shortName": "Attestation",
+      "description": "A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it.",
+      "categoryId": "/azure/category/Security"
+    }
+  ]
+}

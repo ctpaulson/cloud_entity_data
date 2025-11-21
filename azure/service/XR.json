@@ -1,0 +1,11 @@
+{
+  "MixedReality": [
+    {
+      "id": "/azure/service/RemoteRendering",
+      "fullName": "Remote Rendering",
+      "shortName": "Remote Rendering",
+      "description": "Automatically align and anchor 3D content to objects in the physical world.",
+      "categoryId": "/azure/category/XR"
+    }
+  ]
+}

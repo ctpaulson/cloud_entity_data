@@ -1,0 +1,36 @@
+{
+  "ServerlessComputing": [
+    {
+      "id": "/gcp/service/APIGateway",
+      "fullName": "API Gateway",
+      "shortName": "API Gateway",
+      "description": "A service for API development, deployment, and management.",
+      "categoryId": "/gcp/category/Serverless",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/AppEngine",
+      "fullName": "App Engine",
+      "shortName": "App Engine",
+      "description": "A managed app platform.",
+      "categoryId": "/gcp/category/Serverless",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudRun",
+      "fullName": "Cloud Run",
+      "shortName": "Cloud Run",
+      "description": "A fully managed application platform.",
+      "categoryId": "/gcp/category/Serverless",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/CloudRunFunctions",
+      "fullName": "Cloud Run functions",
+      "shortName": "Cloud Run functions",
+      "description": "A service for event-driven serverless functions.",
+      "categoryId": "/gcp/category/Serverless",
+      "isCore": false
+    }
+  ]
+}

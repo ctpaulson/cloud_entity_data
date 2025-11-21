@@ -1,0 +1,334 @@
+{
+    "ResourceTypes": [
+        {
+            "id": "azure/resourcetype/ResourceGroup",
+            "typeIdentifier": "AzureResourceTypes.ResourceGroups",
+            "serviceId": "/azure/service/ResourceManager",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/Subscription",
+            "typeIdentifier": "AzureResourceTypes.Subscriptions",
+            "serviceId": "/azure/service/ResourceManager",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/LogAnalyticsWorkspace",
+            "typeIdentifier": "AzureResourceTypes.LogAnalyticsWorkspaces",
+            "serviceId": "/azure/service/Monitor",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/ApiManagementService",
+            "typeIdentifier": "AzureResourceTypes.ApiManagementServices",
+            "serviceId": "/azure/service/APIManagement",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/AppServicePlan",
+            "typeIdentifier": "AzureResourceTypes.AppServicePlans",
+            "serviceId": "/azure/service/AppService",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/WebApp",
+            "typeIdentifier": "AzureResourceTypes.WebApps",
+            "serviceId": "/azure/service/AppService",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/CacheForRedis",
+            "typeIdentifier": "AzureResourceTypes.CachesForRedis",
+            "serviceId": "/azure/service/CacheForRedis",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/Disk",
+            "typeIdentifier": "AzureResourceTypes.Disks",
+            "serviceId": "/azure/service/DiskStorage",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/VirtualMachine",
+            "typeIdentifier": "AzureResourceTypes.VirtualMachines",
+            "serviceId": "/azure/service/VMs",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/VirtualMachineScaleSet",
+            "typeIdentifier": "AzureResourceTypes.VirtualMachineScaleSets",
+            "serviceId": "/azure/service/VMScaleSets",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/CosmosDatabaseAccount",
+            "typeIdentifier": "AzureResourceTypes.CosmosDatabaseAccounts",
+            "serviceId": "/azure/service/CosmosDB",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/DatabricksWorkspace",
+            "typeIdentifier": "AzureResourceTypes.DatabricksWorkspaces",
+            "serviceId": "/azure/service/AzureDatabricks",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/DnsZone",
+            "typeIdentifier": "AzureResourceTypes.DnsZones",
+            "serviceId": "/azure/service/DNS",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/PrivateDnsZone",
+            "typeIdentifier": "AzureResourceTypes.PrivateDnsZones",
+            "serviceId": "/azure/service/DNS",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/EventGridDomain",
+            "typeIdentifier": "AzureResourceTypes.EventGridDomains",
+            "serviceId": "/azure/service/EventGrid",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/EventGridTopic",
+            "typeIdentifier": "AzureResourceTypes.EventGridTopics",
+            "serviceId": "/azure/service/EventGrid",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/EventHub",
+            "typeIdentifier": "AzureResourceTypes.EventHubs",
+            "serviceId": "/azure/service/EventHubs",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/EventHubsNamespace",
+            "typeIdentifier": "AzureResourceTypes.EventHubsNamespaces",
+            "serviceId": "/azure/service/EventHubs",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/FrontDoorsAndCdnProfiles",
+            "typeIdentifier": "AzureResourceTypes.FrontDoorsAndCdnProfiles",
+            "serviceId": "/azure/service/FrontDoor",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/DataFactory",
+            "typeIdentifier": "AzureResourceTypes.DataFactories",
+            "serviceId": "/azure/service/DataFactory",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/HDInsightCluster",
+            "typeIdentifier": "AzureResourceTypes.HDInsightClusters",
+            "serviceId": "/azure/service/HDInsight",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/IotHub",
+            "typeIdentifier": "AzureResourceTypes.IotHubs",
+            "serviceId": "/azure/service/IoTHub",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/KeyVault",
+            "typeIdentifier": "AzureResourceTypes.KeyVaults",
+            "serviceId": "/azure/service/KeyVault",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/KubernetesCluster",
+            "typeIdentifier": "AzureResourceTypes.KubernetesClusters",
+            "serviceId": "/azure/service/AKS",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/LogicAppsWorkflow",
+            "typeIdentifier": "AzureResourceTypes.LogicAppsWorkflows",
+            "serviceId": "/azure/service/LogicApps",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/UserAssignedIdentity",
+            "typeIdentifier": "AzureResourceTypes.UserAssignedIdentities",
+            "serviceId": "/azure/service/EntraID",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/MySqlDatabase",
+            "typeIdentifier": "AzureResourceTypes.MySqlDatabases",
+            "serviceId": "/azure/service/MySQL",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/MySqlServer",
+            "typeIdentifier": "AzureResourceTypes.MySqlServers",
+            "serviceId": "/azure/service/MySQL",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/ApplicationGateway",
+            "typeIdentifier": "AzureResourceTypes.ApplicationGateways",
+            "serviceId": "/azure/service/ApplicationGateway",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/ApplicationSecurityGroup",
+            "typeIdentifier": "AzureResourceTypes.ApplicationSecurityGroups",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/ExpressRouteCircuit",
+            "typeIdentifier": "AzureResourceTypes.ExpressRouteCircuits",
+            "serviceId": "/azure/service/ExpressRoute",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/Firewall",
+            "typeIdentifier": "AzureResourceTypes.Firewalls",
+            "serviceId": "/azure/service/Firewall",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/FrontDoorClassics",
+            "typeIdentifier": "AzureResourceTypes.FrontDoorClassics",
+            "serviceId": "/azure/service/FrontDoor",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/LoadBalancer",
+            "typeIdentifier": "AzureResourceTypes.LoadBalancers",
+            "serviceId": "/azure/service/LoadBalancer",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/LocalNetworkGateway",
+            "typeIdentifier": "AzureResourceTypes.LocalNetworkGateways",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/NetworkInterface",
+            "typeIdentifier": "AzureResourceTypes.NetworkInterfaces",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/NetworkSecurityGroup",
+            "typeIdentifier": "AzureResourceTypes.NetworkSecurityGroups",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/PrivateEndpoint",
+            "typeIdentifier": "AzureResourceTypes.PrivateEndpoints",
+            "serviceId": "/azure/service/PrivateLink",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/PublicIpAddress",
+            "typeIdentifier": "AzureResourceTypes.PublicIpAddresses",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/RouteTable",
+            "typeIdentifier": "AzureResourceTypes.RouteTables",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/Subnet",
+            "typeIdentifier": "AzureResourceTypes.Subnets",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/VirtualNetwork",
+            "typeIdentifier": "AzureResourceTypes.VirtualNetworks",
+            "serviceId": "/azure/service/VirtualNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/VirtualNetworkGateway",
+            "typeIdentifier": "AzureResourceTypes.VirtualNetworkGateways",
+            "serviceId": "/azure/service/VPNGateway",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/VirtualNetworkGatewayConnection",
+            "typeIdentifier": "AzureResourceTypes.VirtualNetworkGatewayConnections",
+            "serviceId": "/azure/service/VPNGateway",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/VirtualWan",
+            "typeIdentifier": "AzureResourceTypes.VirtualWans",
+            "serviceId": "/azure/service/VirtualWAN",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/PostgreSqlDatabase",
+            "typeIdentifier": "AzureResourceTypes.PostgreSqlDatabases",
+            "serviceId": "/azure/service/PostgreSQL",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/PostgreSqlServer",
+            "typeIdentifier": "AzureResourceTypes.PostgreSqlServers",
+            "serviceId": "/azure/service/PostgreSQL",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/ServiceBusNamespace",
+            "typeIdentifier": "AzureResourceTypes.ServiceBusNamespaces",
+            "serviceId": "/azure/service/ServiceBus",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/SqlDatabase",
+            "typeIdentifier": "AzureResourceTypes.SqlDatabases",
+            "serviceId": "/azure/service/SQLDatabase",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/SqlManagedInstance",
+            "typeIdentifier": "AzureResourceTypes.SqlManagedInstances",
+            "serviceId": "/azure/service/SQLManagedInstance",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/SqlServer",
+            "typeIdentifier": "AzureResourceTypes.SqlServers",
+            "serviceId": "/azure/service/SQL",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/FileShare",
+            "typeIdentifier": "AzureResourceTypes.FileShares",
+            "serviceId": "/azure/service/Files",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/StorageAccount",
+            "typeIdentifier": "AzureResourceTypes.StorageAccounts",
+            "serviceId": "/azure/service/StorageAccounts",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/StorageQueue",
+            "typeIdentifier": "AzureResourceTypes.StorageQueues",
+            "serviceId": "/azure/service/QueueStorage",
+            "isMapped": true
+        },
+        {
+            "id": "azure/resourcetype/TrafficManagerProfile",
+            "typeIdentifier": "AzureResourceTypes.TrafficManagerProfiles",
+            "serviceId": "/azure/service/TrafficManager",
+            "isMapped": true
+        }
+    ]
+}

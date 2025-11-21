@@ -1,0 +1,60 @@
+{
+  "Hybrid+multicloud": [
+    {
+      "id": "/azure/service/Arc",
+      "fullName": "Azure Arc",
+      "shortName": "Arc",
+      "description": "Secure, develop, and operate infrastructure, apps, and Azure services anywhere.",
+      "categoryId": "/azure/category/Hybrid"
+    },
+    {
+      "id": "/azure/service/DefenderForCloud",
+      "fullName": "Microsoft Defender for Cloud",
+      "shortName": "Defender for Cloud",
+      "description": "Extend threat protection to any infrastructure.",
+      "categoryId": "/azure/category/Hybrid"
+    },
+    {
+      "id": "/azure/service/Local",
+      "fullName": "Azure Local",
+      "shortName": "Local",
+      "description": "Run your production workloads anywhere on a cloud connected distributed infrastructure.",
+      "categoryId": "/azure/category/Hybrid"
+    },
+    {
+      "id": "/azure/service/StackHub",
+      "fullName": "Azure Stack Hub",
+      "shortName": "Stack Hub",
+      "description": "Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware.",
+      "categoryId": "/azure/category/Hybrid"
+    },
+    {
+      "id": "/azure/service/StackEdge",
+      "fullName": "Azure Stack Edge",
+      "shortName": "Stack Edge",
+      "description": "An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge.",
+      "categoryId": "/azure/category/Hybrid"
+    },
+    {
+      "id": "/azure/service/OperatorServiceManager",
+      "fullName": "Azure Operator Service Manager",
+      "shortName": "Operator Service Manager",
+      "description": "Simplify the deployment, upgrade, and management of complex operator services.",
+      "categoryId": "/azure/category/Hybrid"
+    },
+    {
+      "id": "/azure/service/AKSEdgeEssentials",
+      "fullName": "Azure Kubernetes Service Edge Essentials",
+      "shortName": "AKS Edge Essentials",
+      "description": "Azure Kubernetes Service Edge Essentials is an on-premises Kubernetes implementation of Azure Kubernetes Service (AKS) that automates running containerized applications at scale.",
+      "categoryId": "/azure/category/Hybrid"
+    },
+    {
+      "id": "/azure/service/OperatorNexus",
+      "fullName": "Azure Operator Nexus",
+      "shortName": "Operator Nexus",
+      "description": "Discover a hybrid platform built for mission-critical mobile network applications and can support deployment of both containerized and virtualized network functions.",
+      "categoryId": "/azure/category/Hybrid"
+    }
+  ]
+}

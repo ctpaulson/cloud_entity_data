@@ -1,0 +1,53 @@
+{
+  "InternetofThings": [
+    {
+      "id": "/azure/service/DigitalTwins",
+      "fullName": "Azure Digital Twins",
+      "shortName": "Digital Twins",
+      "description": "Use IoT spatial intelligence to create models of physical environments.",
+      "categoryId": "/azure/category/IoT"
+    },
+    {
+      "id": "/azure/service/IoTCentral",
+      "fullName": "Azure IoT Central",
+      "shortName": "IoT Central",
+      "description": "Go from proof of concept to proof of value.",
+      "categoryId": "/azure/category/IoT"
+    },
+    {
+      "id": "/azure/service/IoTEdge",
+      "fullName": "Azure IoT Edge",
+      "shortName": "IoT Edge",
+      "description": "Extend cloud intelligence and analytics to edge devices.",
+      "categoryId": "/azure/category/IoT"
+    },
+    {
+      "id": "/azure/service/IoTHub",
+      "fullName": "Azure IoT Hub",
+      "shortName": "IoT Hub",
+      "description": "Connect, monitor, and manage billions of IoT assets.",
+      "categoryId": "/azure/category/IoT"
+    },
+    {
+      "id": "/azure/service/IoTOperations",
+      "fullName": "Azure IoT Operations",
+      "shortName": "IoT Operations",
+      "description": "Unlock insights for intelligent local actions and global visibility. Enabled by Azure Arc.",
+      "categoryId": "/azure/category/IoT"
+    },
+    {
+      "id": "/azure/service/WindowsForIoT",
+      "fullName": "Windows for IoT",
+      "shortName": "Windows for IoT",
+      "description": "Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security.",
+      "categoryId": "/azure/category/IoT"
+    },
+    {
+      "id": "/azure/service/Sphere",
+      "fullName": "Azure Sphere",
+      "shortName": "Sphere",
+      "description": "Create, connect, and maintain secured intelligent IoT devices from the edge to the cloud.",
+      "categoryId": "/azure/category/IoT"
+    }
+  ]
+}

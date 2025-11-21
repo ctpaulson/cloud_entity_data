@@ -1,0 +1,12 @@
+{
+  "Migration": [
+    {
+      "id": "/gcp/service/MigrationCenter",
+      "fullName": "Migration Center",
+      "shortName": "Migration Center",
+      "description": "A service to move on-premises workloads to Google Cloud.",
+      "categoryId": "/gcp/category/Migration",
+      "isCore": false
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+    "ResourceTypes": [
+        {
+            "id": "aws/resourcetype/StepFunctionsActivity",
+            "cfnIdentifier": "AWS::StepFunctions::Activity",
+            "typeIdentifier": "AwsResourceTypes.Activities",
+            "serviceId": "/aws/service/StepFunctions",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/APIGatewayRestApi",
+            "cfnIdentifier": "AWS::ApiGateway::RestApi",
+            "typeIdentifier": "AwsResourceTypes.APIGateways",
+            "serviceId": "/aws/service/APIGateway",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/APIGatewayV2Api",
+            "cfnIdentifier": "AWS::ApiGatewayV2::Api",
+            "typeIdentifier": "AwsResourceTypes.APIGatewayV2s",
+            "serviceId": "/aws/service/APIGateway",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/AppSyncGraphQLApi",
+            "cfnIdentifier": "AWS::AppSync::GraphQLApi",
+            "typeIdentifier": "AwsResourceTypes.AppSyncGraphqlAPIs",
+            "serviceId": "/aws/service/AppSync",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/AutoScalingGroup",
+            "cfnIdentifier": "AWS::AutoScaling::AutoScalingGroup",
+            "typeIdentifier": "AwsResourceTypes.AutoscalingGroups",
+            "serviceId": "/aws/service/EC2AutoScaling",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/S3Bucket",
+            "cfnIdentifier": "AWS::S3::Bucket",
+            "typeIdentifier": "AwsResourceTypes.Buckets",
+            "serviceId": "/aws/service/S3",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/CloudFrontDistribution",
+            "cfnIdentifier": "AWS::CloudFront::Distribution",
+            "typeIdentifier": "AwsResourceTypes.CloudfrontDistributions",
+            "serviceId": "/aws/service/CloudFront",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/CloudTrailTrail",
+            "cfnIdentifier": "AWS::CloudTrail::Trail",
+            "typeIdentifier": "AwsResourceTypes.CloudTrailTrails",
+            "serviceId": "/aws/service/CloudTrail",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/CognitoUserPool",
+            "cfnIdentifier": "AWS::Cognito::UserPool",
+            "typeIdentifier": "AwsResourceTypes.CognitoUserPools",
+            "serviceId": "/aws/service/Cognito",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2CustomerGateway",
+            "cfnIdentifier": "AWS::EC2::CustomerGateway",
+            "typeIdentifier": "AwsResourceTypes.CustomerGateways",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/DocumentDBCluster",
+            "cfnIdentifier": "AWS::DocDB::DBCluster",
+            "typeIdentifier": "AwsResourceTypes.DocumentDBClusters",
+            "serviceId": "/aws/service/DocumentDB",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/DynamoDBTable",
+            "cfnIdentifier": "AWS::DynamoDB::Table",
+            "typeIdentifier": "AwsResourceTypes.DynamoDBTables",
+            "serviceId": "/aws/service/DynamoDB",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/RDSDBInstance",
+            "cfnIdentifier": "AWS::RDS::DBInstance",
+            "typeIdentifier": "AwsResourceTypes.DBInstances",
+            "serviceId": "/aws/service/RDS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/RDSDBCluster",
+            "cfnIdentifier": "AWS::RDS::DBCluster",
+            "typeIdentifier": "AwsResourceTypes.DBClusters",
+            "serviceId": "/aws/service/RDS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/RDSDBProxy",
+            "cfnIdentifier": "AWS::RDS::DBProxy",
+            "typeIdentifier": "AwsResourceTypes.DBProxies",
+            "serviceId": "/aws/service/RDS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2Instance",
+            "cfnIdentifier": "AWS::EC2::Instance",
+            "typeIdentifier": "AwsResourceTypes.EC2Instances",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ECSCluster",
+            "cfnIdentifier": "AWS::ECS::Cluster",
+            "typeIdentifier": "AwsResourceTypes.ECSClusters",
+            "serviceId": "/aws/service/ECS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ECSService",
+            "cfnIdentifier": "AWS::ECS::Service",
+            "typeIdentifier": "AwsResourceTypes.ECSServices",
+            "serviceId": "/aws/service/ECS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ECSTaskDefinition",
+            "cfnIdentifier": "AWS::ECS::TaskDefinition",
+            "typeIdentifier": "AwsResourceTypes.ECSTasks",
+            "serviceId": "/aws/service/ECS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EFSFileSystem",
+            "cfnIdentifier": "AWS::EFS::FileSystem",
+            "typeIdentifier": "AwsResourceTypes.EFSFileSystems",
+            "serviceId": "/aws/service/EFS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EKSCluster",
+            "cfnIdentifier": "AWS::EKS::Cluster",
+            "typeIdentifier": "AwsResourceTypes.EKSClusters",
+            "serviceId": "/aws/service/EKS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ElastiCacheCacheCluster",
+            "cfnIdentifier": "AWS::ElastiCache::CacheCluster",
+            "typeIdentifier": "AwsResourceTypes.ElastiCacheClusters",
+            "serviceId": "/aws/service/ElastiCache",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ELBLoadBalancer",
+            "cfnIdentifier": "AWS::ElasticLoadBalancing::LoadBalancer",
+            "typeIdentifier": "AwsResourceTypes.ELBs",
+            "serviceId": "/aws/service/ELB",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ELBV2LoadBalancer",
+            "cfnIdentifier": "AWS::ElasticLoadBalancingV2::LoadBalancer",
+            "typeIdentifier": "AwsResourceTypes.ELBV2s",
+            "serviceId": "/aws/service/ELB",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2NetworkInterface",
+            "cfnIdentifier": "AWS::EC2::NetworkInterface",
+            "typeIdentifier": "AwsResourceTypes.ElasticNetworkInterfaces",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ElasticsearchDomain",
+            "cfnIdentifier": "AWS::Elasticsearch::Domain",
+            "typeIdentifier": "AwsResourceTypes.ElasticsearchDomains",
+            "serviceId": "/aws/service/OpenSearchService",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EMRCluster",
+            "cfnIdentifier": "AWS::EMR::Cluster",
+            "typeIdentifier": "AwsResourceTypes.EmrClusters",
+            "serviceId": "/aws/service/EMR",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EventBridgeEventBus",
+            "cfnIdentifier": "AWS::Events::EventBus",
+            "typeIdentifier": "AwsResourceTypes.EventBridgeEventBuses",
+            "serviceId": "/aws/service/EventBridge",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EventBridgeRule",
+            "cfnIdentifier": "AWS::Events::Rule",
+            "typeIdentifier": "AwsResourceTypes.EventBridgeRules",
+            "serviceId": "/aws/service/EventBridge",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/Route53HostedZone",
+            "cfnIdentifier": "AWS::Route53::HostedZone",
+            "typeIdentifier": "AwsResourceTypes.HostedZones",
+            "serviceId": "/aws/service/Route53",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2InternetGateway",
+            "cfnIdentifier": "AWS::EC2::InternetGateway",
+            "typeIdentifier": "AwsResourceTypes.InternetGateways",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/KinesisStream",
+            "cfnIdentifier": "AWS::Kinesis::Stream",
+            "typeIdentifier": "AwsResourceTypes.KinesisDataStreams",
+            "serviceId": "/aws/service/KinesisDataStreams",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/KinesisFirehoseDeliveryStream",
+            "cfnIdentifier": "AWS::KinesisFirehose::DeliveryStream",
+            "typeIdentifier": "AwsResourceTypes.KinesisDeliveryStreams",
+            "serviceId": "/aws/service/KinesisDataFirehose",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/LambdaEventSourceMapping",
+            "cfnIdentifier": "AWS::Lambda::EventSourceMapping",
+            "typeIdentifier": "AwsResourceTypes.LambdaEventSourceMappings",
+            "serviceId": "/aws/service/Lambda",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/LambdaFunction",
+            "cfnIdentifier": "AWS::Lambda::Function",
+            "typeIdentifier": "AwsResourceTypes.LambdaFunctions",
+            "serviceId": "/aws/service/Lambda",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/AutoScalingLaunchConfiguration",
+            "cfnIdentifier": "AWS::AutoScaling::LaunchConfiguration",
+            "typeIdentifier": "AwsResourceTypes.LaunchConfigurations",
+            "serviceId": "/aws/service/EC2AutoScaling",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/MSKCluster",
+            "cfnIdentifier": "AWS::MSK::Cluster",
+            "typeIdentifier": "AwsResourceTypes.MSKClusters",
+            "serviceId": "/aws/service/MSK",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2NATGateway",
+            "cfnIdentifier": "AWS::EC2::NatGateway",
+            "typeIdentifier": "AwsResourceTypes.NATGateways",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2NetworkAcl",
+            "cfnIdentifier": "AWS::EC2::NetworkAcl",
+            "typeIdentifier": "AwsResourceTypes.NetworkACLs",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/NetworkFirewall",
+            "cfnIdentifier": "AWS::NetworkFirewall::Firewall",
+            "typeIdentifier": "AwsResourceTypes.NetworkFirewalls",
+            "serviceId": "/aws/service/NetworkFirewall",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/SQSQueue",
+            "cfnIdentifier": "AWS::SQS::Queue",
+            "typeIdentifier": "AwsResourceTypes.Queues",
+            "serviceId": "/aws/service/SQS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/RedshiftCluster",
+            "cfnIdentifier": "AWS::Redshift::Cluster",
+            "typeIdentifier": "AwsResourceTypes.RedshiftClusters",
+            "serviceId": "/aws/service/Redshift",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ECRRegistryPolicy",
+            "cfnIdentifier": "AWS::ECR::RegistryPolicy",
+            "typeIdentifier": "AwsResourceTypes.Registries",
+            "serviceId": "/aws/service/ECR",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/IAMRole",
+            "cfnIdentifier": "AWS::IAM::Role",
+            "typeIdentifier": "AwsResourceTypes.Roles",
+            "serviceId": "/aws/service/IAM",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2RouteTable",
+            "cfnIdentifier": "AWS::EC2::RouteTable",
+            "typeIdentifier": "AwsResourceTypes.RouteTables",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2SecurityGroup",
+            "cfnIdentifier": "AWS::EC2::SecurityGroup",
+            "typeIdentifier": "AwsResourceTypes.SecurityGroups",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/SNSSubscription",
+            "cfnIdentifier": "AWS::SNS::Subscription",
+            "typeIdentifier": "AwsResourceTypes.SnsSubscriptions",
+            "serviceId": "/aws/service/SNS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/StepFunctionsStateMachine",
+            "cfnIdentifier": "AWS::StepFunctions::StateMachine",
+            "typeIdentifier": "AwsResourceTypes.StateMachines",
+            "serviceId": "/aws/service/StepFunctions",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2Subnet",
+            "cfnIdentifier": "AWS::EC2::Subnet",
+            "typeIdentifier": "AwsResourceTypes.Subnets",
+            "serviceId": "/aws/service/EC2",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/ELBV2TargetGroup",
+            "cfnIdentifier": "AWS::ElasticLoadBalancingV2::TargetGroup",
+            "typeIdentifier": "AwsResourceTypes.TargetGroups",
+            "serviceId": "/aws/service/ELB",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/SNSTopic",
+            "cfnIdentifier": "AWS::SNS::Topic",
+            "typeIdentifier": "AwsResourceTypes.Topics",
+            "serviceId": "/aws/service/SNS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2TransitGateway",
+            "cfnIdentifier": "AWS::EC2::TransitGateway",
+            "typeIdentifier": "AwsResourceTypes.TransitGateways",
+            "serviceId": "/aws/service/TransitGateway",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2Volume",
+            "cfnIdentifier": "AWS::EC2::Volume",
+            "typeIdentifier": "AwsResourceTypes.Volumes",
+            "serviceId": "/aws/service/EBS",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2VPC",
+            "cfnIdentifier": "AWS::EC2::VPC",
+            "typeIdentifier": "AwsResourceTypes.VPCs",
+            "serviceId": "/aws/service/VPC",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2VPCEndpoint",
+            "cfnIdentifier": "AWS::EC2::VPCEndpoint",
+            "typeIdentifier": "AwsResourceTypes.VPCEndpoints",
+            "serviceId": "/aws/service/VPC",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2VPCEndpointConnectionNotification",
+            "cfnIdentifier": "AWS::EC2::VPCEndpointConnectionNotification",
+            "typeIdentifier": "AwsResourceTypes.VPCEndpointConnections",
+            "serviceId": "/aws/service/VPC",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2VPCPeeringConnection",
+            "cfnIdentifier": "AWS::EC2::VPCPeeringConnection",
+            "typeIdentifier": "AwsResourceTypes.VPCPeeringConnections",
+            "serviceId": "/aws/service/VPC",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2VPNConnection",
+            "cfnIdentifier": "AWS::EC2::VPNConnection",
+            "typeIdentifier": "AwsResourceTypes.VPNConnections",
+            "serviceId": "/aws/service/VPN",
+            "isMapped": true
+        },
+        {
+            "id": "aws/resourcetype/EC2VPNGateway",
+            "cfnIdentifier": "AWS::EC2::VPNGateway",
+            "typeIdentifier": "AwsResourceTypes.VPNGateways",
+            "serviceId": "/aws/service/VPN",
+            "isMapped": true
+        }
+    ]
+}

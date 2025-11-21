@@ -1,0 +1,36 @@
+{
+  "AIApplications&Agents": [
+    {
+      "id": "/gcp/service/AIApplications",
+      "fullName": "AI Applications",
+      "shortName": "AI Applications",
+      "description": "A platform for search, recommendations, and conversation apps.",
+      "categoryId": "/gcp/category/AIApplications",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CCAIPlatform",
+      "fullName": "CCAI Platform",
+      "shortName": "CCAI Platform",
+      "description": "A Contact Center As A Service (CCaaS) solution.",
+      "categoryId": "/gcp/category/AIApplications",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CustomerEngagementSuite",
+      "fullName": "Customer Engagement Suite",
+      "shortName": "Customer Engagement Suite",
+      "description": "A suite of tools for managing customer interactions and engagement.",
+      "categoryId": "/ggcp/category/AIApplications",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/SearchForCommerce",
+      "fullName": "Search for commerce",
+      "shortName": "Search for commerce",
+      "description": "Data-driven solutions for commerce.",
+      "categoryId": "/gcp/category/AIApplications",
+      "isCore": false
+    }
+  ]
+}

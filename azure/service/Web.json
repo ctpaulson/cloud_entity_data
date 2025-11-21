@@ -1,0 +1,60 @@
+{
+  "Web": [
+    {
+      "id": "/azure/service/AppService",
+      "fullName": "App Service",
+      "shortName": "App Service",
+      "description": "Quickly create powerful cloud apps for web and mobile.",
+      "categoryId": "/azure/category/Web"
+    },
+    {
+      "id": "/azure/service/AISearch",
+      "fullName": "Azure AI Search",
+      "shortName": "AI Search",
+      "description": "Enterprise scale search for app development.",
+      "categoryId": "/azure/category/Web"
+    },
+    {
+      "id": "/azure/service/Maps",
+      "fullName": "Azure Maps",
+      "shortName": "Maps",
+      "description": "Add location data and mapping visuals to business applications and solutions.",
+      "categoryId": "/azure/category/Web"
+    },
+    {
+      "id": "/azure/service/SignalRService",
+      "fullName": "Azure SignalR Service",
+      "shortName": "SignalR Service",
+      "description": "Add real-time web functionalities easily.",
+      "categoryId": "/azure/category/Web"
+    },
+    {
+      "id": "/azure/service/StaticWebApps",
+      "fullName": "Static Web Apps",
+      "shortName": "Static Web Apps",
+      "description": "Streamlined full-stack development from source code to global high availability.",
+      "categoryId": "/azure/category/Web"
+    },
+    {
+      "id": "/azure/service/WebPubSub",
+      "fullName": "Azure Web PubSub",
+      "shortName": "Web PubSub",
+      "description": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern.",
+      "categoryId": "/azure/category/Web"
+    },
+    {
+      "id": "/azure/service/FluidRelay",
+      "fullName": "Azure Fluid Relay",
+      "shortName": "Fluid Relay",
+      "description": "Easily add real-time collaborative experiences to your apps with Fluid Framework.",
+      "categoryId": "/azure/category/Web"
+    },
+    {
+      "id": "/azure/service/WebAppForContainers",
+      "fullName": "Web App for Containers",
+      "shortName": "Web App for Containers",
+      "description": "Run containerized web apps on Windows and Linux.",
+      "categoryId": "/azure/category/Web"
+    }
+  ]
+}

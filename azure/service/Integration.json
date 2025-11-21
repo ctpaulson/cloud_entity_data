@@ -1,0 +1,46 @@
+{
+  "Integration": [
+    {
+      "id": "/azure/service/APIManagement",
+      "fullName": "API Management",
+      "shortName": "API Management",
+      "description": "Publish APIs to developers, partners, and employees securely and at scale.",
+      "categoryId": "/azure/category/Integration"
+    },
+    {
+      "id": "/azure/service/HealthDataServices",
+      "fullName": "Azure Health Data Services",
+      "shortName": "Health Data Services",
+      "description": "Unify and manage health data and protected health information (PHI) in the cloud.",
+      "categoryId": "/azure/category/Integration"
+    },
+    {
+      "id": "/azure/service/EventGrid",
+      "fullName": "Event Grid",
+      "shortName": "Event Grid",
+      "description": "Reliable event delivery at massive scale.",
+      "categoryId": "/azure/category/Integration"
+    },
+    {
+      "id": "/azure/service/LogicApps",
+      "fullName": "Logic Apps",
+      "shortName": "Logic Apps",
+      "description": "Automate the access and use of data across clouds.",
+      "categoryId": "/azure/category/Integration"
+    },
+    {
+      "id": "/azure/service/ServiceBus",
+      "fullName": "Service Bus",
+      "shortName": "Service Bus",
+      "description": "Connect across private and public cloud environments.",
+      "categoryId": "/azure/category/Integration"
+    },
+    {
+      "id": "/azure/service/EnergyDataServices",
+      "fullName": "Microsoft Energy Data Services",
+      "shortName": "Energy Data Services",
+      "description": "Accelerate your journey to energy data modernization and digital transformation.",
+      "categoryId": "/azure/category/Integration"
+    }
+  ]
+}

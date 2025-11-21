@@ -1,0 +1,36 @@
+{
+  "Operations": [
+    {
+      "id": "/gcp/service/AppHub",
+      "fullName": "App Hub",
+      "shortName": "App Hub",
+      "description": "A service to streamline cloud app development and operations.",
+      "categoryId": "/gcp/category/Operations",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CapacityPlanner",
+      "fullName": "Capacity Planner",
+      "shortName": "Capacity Planner",
+      "description": "A tool for Compute Engine usage and forecast.",
+      "categoryId": "/gcp/category/Operations",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Profiler",
+      "fullName": "Profiler",
+      "shortName": "Profiler",
+      "description": "A tool for CPU and heap profiling.",
+      "categoryId": "/gcp/category/Operations",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/SaaSRuntime",
+      "fullName": "SaaS Runtime",
+      "shortName": "SaaS Runtime",
+      "description": "A service to model, deploy, and operate SaaS at scale.",
+      "categoryId": "/gcp/category/Operations",
+      "isCore": false
+    }
+  ]
+}

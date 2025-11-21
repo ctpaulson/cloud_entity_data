@@ -1,0 +1,142 @@
+{
+    "ResourceTypes": [
+        {
+            "id": "gcp/resourcetype/Project",
+            "typeIdentifier": "GcpResourceTypes.Projects",
+            "serviceId": "/gcp/service/Organizations",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/FirewallRule",
+            "typeIdentifier": "GcpResourceTypes.FirewallRules",
+            "serviceId": "/gcp/service/VPCNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/InterconnectAttachment",
+            "typeIdentifier": "GcpResourceTypes.InterconnectAttachments",
+            "serviceId": "/gcp/service/NetworkConnectivity",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/Interconnect",
+            "typeIdentifier": "GcpResourceTypes.Interconnects",
+            "serviceId": "/gcp/service/NetworkConnectivity",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/ManagedZone",
+            "typeIdentifier": "GcpResourceTypes.ManagedZones",
+            "serviceId": "/gcp/service/VPCNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/NATGateway",
+            "typeIdentifier": "GcpResourceTypes.NATGateways",
+            "serviceId": "/gcp/service/VPCNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/Network",
+            "typeIdentifier": "GcpResourceTypes.Networks",
+            "serviceId": "/gcp/service/VPCNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/Route",
+            "typeIdentifier": "GcpResourceTypes.Routes",
+            "serviceId": "/gcp/service/VPCNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/Router",
+            "typeIdentifier": "GcpResourceTypes.Routers",
+            "serviceId": "/gcp/service/VPCNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/Subnetwork",
+            "typeIdentifier": "GcpResourceTypes.Subnetworks",
+            "serviceId": "/gcp/service/VPCNetwork",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/VPNGateway",
+            "typeIdentifier": "GcpResourceTypes.VPNGateways",
+            "serviceId": "/gcp/service/NetworkConnectivity",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/VPNTunnel",
+            "typeIdentifier": "GcpResourceTypes.VPNTunnels",
+            "serviceId": "/gcp/service/NetworkConnectivity",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/Autoscaler",
+            "typeIdentifier": "GcpResourceTypes.Autoscalers",
+            "serviceId": "/gcp/service/ComputeEngine",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/CloudFunction",
+            "typeIdentifier": "GcpResourceTypes.CloudFunctions",
+            "serviceId": "/gcp/service/CloudRunFunctions",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/ComputeInstance",
+            "typeIdentifier": "GcpResourceTypes.ComputeInstances",
+            "serviceId": "/gcp/service/ComputeEngine",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/GKECluster",
+            "typeIdentifier": "GcpResourceTypes.GKEClusters",
+            "serviceId": "/gcp/service/GKE",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/InstanceGroup",
+            "typeIdentifier": "GcpResourceTypes.InstanceGroups",
+            "serviceId": "/gcp/service/ComputeEngine",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/NodePool",
+            "typeIdentifier": "GcpResourceTypes.NodePools",
+            "serviceId": "/gcp/service/GKE",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/Bucket",
+            "typeIdentifier": "GcpResourceTypes.Buckets",
+            "serviceId": "/gcp/service/CloudStorage",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/PersistentDisk",
+            "typeIdentifier": "GcpResourceTypes.PersistentDisks",
+            "serviceId": "/gcp/service/ComputeEngine",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/SqlInstance",
+            "typeIdentifier": "GcpResourceTypes.SqlInstances",
+            "serviceId": "/gcp/service/CloudSQL",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/BigtableInstance",
+            "typeIdentifier": "GcpResourceTypes.BigtableInstances",
+            "serviceId": "/gcp/service/Bigtable",
+            "isMapped": true
+        },
+        {
+            "id": "gcp/resourcetype/BigQueryDataset",
+            "typeIdentifier": "GcpResourceTypes.BigQueryDatasets",
+            "serviceId": "/gcp/service/BigQuery",
+            "isMapped": true
+        }
+    ]
+}

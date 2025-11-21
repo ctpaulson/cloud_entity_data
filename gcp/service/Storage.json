@@ -1,0 +1,68 @@
+{
+  "Storage": [
+    {
+      "id": "/gcp/service/BackupAndDR",
+      "fullName": "Backup and DR",
+      "shortName": "Backup and DR",
+      "description": "A service for simplified backup administration.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/CloudStorage",
+      "fullName": "Cloud Storage",
+      "shortName": "Cloud Storage",
+      "description": "An enterprise-ready object storage service.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": true
+    },
+    {
+      "id": "/gcp/service/Filestore",
+      "fullName": "Filestore",
+      "shortName": "Filestore",
+      "description": "A fully managed NFS server.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/ManagedLustre",
+      "fullName": "Managed Lustre",
+      "shortName": "Managed Lustre",
+      "description": "A parallel file system for AI/ML and HPC.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/NetAppVolumes",
+      "fullName": "NetApp Volumes",
+      "shortName": "NetApp Volumes",
+      "description": "A fully Managed File Storage service.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/Parallelstore",
+      "fullName": "Parallelstore",
+      "shortName": "Parallelstore",
+      "description": "A managed parallel file system.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/SplunkCloud",
+      "fullName": "Splunk Cloud",
+      "shortName": "Splunk Cloud",
+      "description": "A Data-to-Value Platform.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/StorageTransfer",
+      "fullName": "Storage Transfer",
+      "shortName": "Storage Transfer",
+      "description": "A secure and flexible way to move data.",
+      "categoryId": "/gcp/category/Storage",
+      "isCore": false
+    }
+  ]
+}

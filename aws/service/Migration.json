@@ -1,0 +1,60 @@
+{
+  "MigrationAndTransfer": [
+    {
+      "id": "/aws/service/ApplicationDiscoveryService",
+      "fullName": "AWS Application Discovery Service",
+      "shortName": "Application Discovery Service",
+      "description": "AWS Application Discovery Service helps enterprise customers plan migration projects by gathering information about their on-premises data centers.\nPlanning data center migrations can involve thousands of workloads that are often deeply interdependent. Server utilization data and dependency mapping are important early first steps in the migration process. AWS Application Discovery Service collects and presents configuration, usage, and behavior data from your servers to help you better understand your workloads.\nThe collected data is retained in encrypted format in an AWS Application Discovery Service data store. You can export this data as a CSV file and use it to estimate the Total Cost of Ownership (TCO) of running on AWS and to plan your migration to AWS. In addition, this data is also available in AWS Migration Hub, where you can migrate the discovered servers and track their progress as they get migrated to AWS.",
+      "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/ApplicationMigrationService",
+      "fullName": "AWS Application Migration Service",
+      "shortName": "Application Migration Service",
+      "description": "AWS Application Migration Service (AWS MGN) allows you to quickly realize the benefits of migrating applications to the cloud without changes and with minimal downtime.\nAWS Application Migration Service minimizes time-intensive, error-prone manual processes by automatically converting your source servers from physical, virtual, or cloud infrastructure to run natively on AWS. It further simplifies your migration by enabling you to use the same automated process for a wide range of applications. And by launching non-disruptive tests before migrating, you can be confident that your most critical applications such as SAP, Oracle, and SQL Server will work seamlessly on AWS.",
+      "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/DMS",
+      "fullName": "AWS Database Migration Service",
+      "shortName": "DMS (Database Migration Service)",
+      "description": "AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely. The source database remains fully operational during the migration, minimizing downtime to applications that rely on the database. The AWS Database Migration Service can migrate your data to and from most widely used commercial and open-source databases. The service supports homogeneous migrations such as Oracle to Oracle, as well as heterogeneous migrations between different database platforms, such as Oracle to Amazon Aurora or Microsoft SQL Server to MySQL. It also allows you to stream data to Amazon Redshift from any of the supported sources including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle, SAP ASE, and SQL Server, enabling consolidation and easy analysis of data in the petabyte-scale data warehouse. AWS Database Migration Service can also be used for continuous data replication with high availability.\nAWS DMS Serverless offers the flexibility to migrate data without needing to provision replication instances, manually monitoring use, and adjusting capacity. AWS DMS Serverless supports popular use cases including continuous data replication, database consolidation, and migrations, even if the source and target database engines differ. For like-to-like or compatible database engines, you can use built-in tools with automatic scaling for a seamless database migration.",
+      "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/MainframeModernizationService",
+      "fullName": "AWS Mainframe Modernization Service",
+      "shortName": "Mainframe Modernization Service",
+      "description": "AWS Mainframe Modernization Service is a unique service that allows you to migrate your on-premises mainframe workloads to a managed runtime environment on AWS. AWS Mainframe Modernization Service is a set of managed tools providing infrastructure and software for migrating, modernizing, and running mainframe applications.\n• Migrate and modernize your applications to remove the hardware and staffing costs of traditional mainframes.\n• Break up and manage your complete migration with infrastructure, software, and tools to refactor and transform legacy applications.\n• Deploy, run, and operate migrated applications in the Mainframe Modernization environment with no upfront costs.",
+      "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/MigrationHub",
+      "fullName": "AWS Migration Hub",
+      "shortName": "Migration Hub",
+      "description": "AWS Migration Hub provides a single location to track the progress of application migrations across multiple AWS and partner solutions. Using Migration Hub allows you to choose the AWS and partner migration tools that best fit your needs, while providing visibility into the status of migrations across your portfolio of applications. Migration Hub also provides key metrics and progress for individual applications, regardless of which tools are being used to migrate them. For example, you might use AWS Database Migration Service, AWS Application Migration Service, and partner migration tools such as ATADATA ATAmotion, CloudEndure Live Migration, or RiverMeadow Server Migration Saas to migrate an application comprised of a database, virtualized web servers, and a bare metal server. Using Migration Hub, you can view the migration progress of all the resources in the application. This allows you to quickly get progress updates across all of your migrations, easily identify and troubleshoot any issues, and reduce the overall time and effort spent on your migration projects.",
+      "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/SnowFamily",
+      "fullName": "AWS Snow Family",
+      "shortName": "Snow Family",
+      "description": "The AWS Snow Family helps customers that need to run operations in austere, non-data center environments, and in locations where there's lack of consistent network connectivity. The Snow Family comprises AWS Snowball and AWS Snowball Edge, and offers a number of physical devices and capacity points, most with built-in computing capabilities. These services help physically transport up to exabytes of data into and out of AWS. Snow Family devices are owned and managed by AWS and integrate with AWS security, monitoring, storage management, and computing capabilities.",
+      "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/DataSync",
+      "fullName": "AWS DataSync",
+      "shortName": "DataSync",
+      "description": "AWS DataSync is a data transfer service that makes it easy for you to automate moving data between on-premises storage and Amazon S3 or Amazon Elastic File System (Amazon EFS). DataSync automatically handles many of the tasks related to data transfers that can slow down migrations or burden your IT operations, including running your own instances, handling encryption, managing scripts, network optimization, and data integrity validation. You can use DataSync to transfer data at speeds up to 10 times faster than open-source tools. DataSync uses an on-premises software agent to connect to your existing storage or file systems using the Network File System (NFS) protocol, so you don’t have write scripts or modify your applications to work with AWS APIs. You can use DataSync to copy data over AWS Direct Connect or internet links to AWS. The service enables one-time data migrations, recurring data processing workflows, and automated replication for data protection and recovery. Getting started with DataSync is easy: Deploy the DataSync agent on premises, connect it to a file system or storage array, select Amazon EFS or Amazon S3 as your AWS storage, and start moving data. You pay only for the data you copy.",
+      "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/TransferFamily",
+      "fullName": "AWS Transfer Family",
+      "shortName": "Transfer Family",
+      "description": "AWS Transfer Family provides fully managed support for file transfers directly into and out of Amazon S3 or Amazon EFS. With support for Secure File Transfer Protocol (SFTP), File Transfer Protocol over SSL (FTPS), and File Transfer Protocol (FTP), the AWS Transfer Family helps you seamlessly migrate your file transfer workflows to AWS by integrating with existing authentication systems, and providing DNS routing with Amazon Route 53 so nothing changes for your customers and partners, or their applications. With your data in Amazon S3 or Amazon EFS, you can use it with AWS services for processing, analytics, ML, archiving, as well as home directories and developer tools. Getting started with the AWS Transfer Family is easy; there is no infrastructure to buy and set up.",
+      "categoryId": "/aws/category/Migration"
+    }
+  ]
+}

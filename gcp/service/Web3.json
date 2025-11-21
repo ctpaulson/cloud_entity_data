@@ -1,0 +1,20 @@
+{
+  "Web3": [
+    {
+      "id": "/gcp/service/BlockchainNodeEngine",
+      "fullName": "Blockchain Node Engine",
+      "shortName": "Blockchain Node Engine",
+      "description": "A service for fully managed blockchain node hosting.",
+      "categoryId": "/gcp/category/Web3",
+      "isCore": false
+    },
+    {
+      "id": "/gcp/service/BlockchainRPC",
+      "fullName": "Blockchain RPC",
+      "shortName": "Blockchain RPC",
+      "description": "An enterprise-grade RPC for building on blockchain.",
+      "categoryId": "/gcp/category/Web3",
+      "isCore": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Migration": [
+    {
+      "id": "/azure/service/Migrate",
+      "fullName": "Azure Migrate",
+      "shortName": "Migrate",
+      "description": "Simplify migration and modernization with a unified platform.",
+      "categoryId": "/azure/category/Migration"
+    },
+    {
+      "id": "/azure/service/SiteRecovery",
+      "fullName": "Azure Site Recovery",
+      "shortName": "Site Recovery",
+      "description": "Keep your business running with built-in disaster recovery service.",
+      "categoryId": "/azure/category/Migration"
+    },
+    {
+      "id": "/azure/service/DataBox",
+      "fullName": "Azure Data Box",
+      "shortName": "Data Box",
+      "description": "Appliances and solutions for data transfer to Azure and edge compute.",
+      "categoryId": "/azure/category/Migration"
+    }
+  ]
+}

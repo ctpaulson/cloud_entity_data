@@ -1,0 +1,53 @@
+{
+  "DeveloperTools": [
+    {
+      "id": "/azure/service/AppConfiguration",
+      "fullName": "App Configuration",
+      "shortName": "App Configuration",
+      "description": "Fast, scalable parameter storage for app configuration.",
+      "categoryId": "/azure/category/DevTools"
+    },
+    {
+      "id": "/azure/service/DevTestLabs",
+      "fullName": "Azure DevTest Labs",
+      "shortName": "DevTest Labs",
+      "description": "Quickly create environments using reusable templates and artifacts.",
+      "categoryId": "/azure/category/DevTools"
+    },
+    {
+      "id": "/azure/service/SDKs",
+      "fullName": "SDKs",
+      "shortName": "SDKs",
+      "description": "Get the SDKs and command-line tools you need.",
+      "categoryId": "/azure/category/DevTools"
+    },
+    {
+      "id": "/azure/service/VisualStudio",
+      "fullName": "Visual Studio",
+      "shortName": "Visual Studio",
+      "description": "Powerful and flexible environment to develop apps in the cloud.",
+      "categoryId": "/azure/category/DevTools"
+    },
+    {
+      "id": "/azure/service/VSCode",
+      "fullName": "Visual Studio Code",
+      "shortName": "VS Code",
+      "description": "A powerful, lightweight code editor for cloud development.",
+      "categoryId": "/azure/category/DevTools"
+    },
+    {
+      "id": "/azure/service/DevBox",
+      "fullName": "Microsoft Dev Box",
+      "shortName": "Dev Box",
+      "description": "Streamline development with secure, ready-to-code workstations in the cloud.",
+      "categoryId": "/azure/category/DevTools"
+    },
+    {
+      "id": "/azure/service/TrustedSigning",
+      "fullName": "Trusted Signing",
+      "shortName": "Trusted Signing",
+      "description": "Secure your applications with a fully managed end-to-end signing service for code, documents, applications, and more.",
+      "categoryId": "/azure/category/DevTools"
+    }
+  ]
+}
