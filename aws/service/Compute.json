@@ -25,11 +25,51 @@
       "categoryId": "/aws/category/Compute"
     },
     {
+      "id": "/aws/service/EFA",
+      "fullName": "Elastic Fabric Adapter",
+      "shortName": "EFA (Elastic Fabric Adapter)",
+      "iconPath": "AWS-Icons_07312025/Compute/Elastic-Fabric-Adapter/Service_Elastic-Fabric-Adapter.svg",
+      "description": "Elastic Fabric Adapter (EFA) is a network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS. EFA provides lower and more consistent latency and higher throughput than the TCP transport traditionally used in cloud-based HPC systems. EFA enables applications to bypass the operating system kernel and communicate directly with the network interface hardware, which provides low-latency, reliable transport functionality. This makes it ideal for tightly-coupled HPC applications, machine learning workloads, and other applications that require high-performance networking capabilities. EFA works with the most popular HPC applications and all Message Passing Interface (MPI) implementations.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
       "id": "/aws/service/Lightsail",
       "fullName": "Amazon Lightsail",
       "shortName": "Lightsail",
       "iconPath": "AWS-Icons_07312025/Compute/Amazon-Lightsail/Service_Amazon-Lightsail.svg",
       "description": "Amazon Lightsail is designed to be the easiest way to launch and manage a virtual private server with AWS. Lightsail plans include everything you need to jumpstart your project - a VM, SSD-based storage, data transfer, DNS management, and a static IP address - for a low, predictable price.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/LightsailForResearch",
+      "fullName": "Amazon Lightsail for Research",
+      "shortName": "Lightsail for Research",
+      "iconPath": "AWS-Icons_07312025/Compute/Amazon-Lightsail-for-Research/Service_Amazon-Lightsail-for-Research.svg",
+      "description": "Amazon Lightsail for Research is a service designed specifically for researchers and academic institutions to easily deploy and manage scientific computing applications in the cloud. Building on the simplicity of Lightsail, this service provides pre-configured virtual computers optimized for research workloads with common scientific applications and tools. Researchers can quickly launch compute instances with familiar research software, collaborate with colleagues, and scale their computational resources as needed without requiring deep cloud expertise. The service offers predictable, cost-effective pricing that fits within typical research budgets, making cloud computing more accessible for academic and research projects.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/LocalZones",
+      "fullName": "AWS Local Zones",
+      "shortName": "Local Zones",
+      "iconPath": "AWS-Icons_07312025/Compute/AWS-Local-Zones/Service_AWS-Local-Zones.svg",
+      "description": "AWS Local Zones are a type of AWS infrastructure deployment that places compute, storage, database, and other select services closer to large population, industry, and IT centers where no AWS Region exists today. Local Zones allow you to run latency-sensitive applications in locations with single-digit millisecond latency to end users. Each AWS Local Zone location is an extension of an AWS Region, providing you with the ability to seamlessly connect to the full range of services in the AWS Region through the same APIs and tool sets. Local Zones are ideal for applications that require single-digit millisecond latency, such as media and entertainment content creation, real-time gaming, reservoir simulations, electronic design automation, and machine learning inference at the edge.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/NICEEnginFrame",
+      "fullName": "NICE EnginFrame",
+      "shortName": "NICE EnginFrame",
+      "iconPath": "AWS-Icons_07312025/Compute/NICE-EnginFrame/Service_NICE-EnginFrame.svg",
+      "description": "NICE EnginFrame is a sophisticated web-based submission and control system for High Performance Computing (HPC) jobs and interactive remote sessions. EnginFrame provides an intuitive web portal that simplifies access to HPC resources, enabling users to submit jobs, monitor workloads, and access interactive applications through a browser. The platform supports integration with various job schedulers and provides features for resource visualization, real-time monitoring, and collaborative workflows. NICE EnginFrame helps organizations maximize utilization of their HPC infrastructure while providing users with an easy-to-use interface for running complex computational tasks, making advanced computing resources accessible to users regardless of their technical expertise.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/NitroEnclaves",
+      "fullName": "AWS Nitro Enclaves",
+      "shortName": "Nitro Enclaves",
+      "iconPath": "AWS-Icons_07312025/Compute/AWS-Nitro-Enclaves/Service_AWS-Nitro-Enclaves.svg",
+      "description": "AWS Nitro Enclaves enables customers to create isolated compute environments to further protect and securely process highly sensitive data such as personally identifiable information (PII), healthcare, financial, and intellectual property data within their Amazon EC2 instances. Nitro Enclaves uses the same Nitro Hypervisor technology that provides CPU and memory isolation for EC2 instances to create isolated compute environments within EC2 instances. These enclaves have no persistent storage, interactive access, or external networking, which helps reduce the attack surface and protect sensitive data. Nitro Enclaves provides attestation capabilities, allowing you to cryptographically verify that only authorized code is running in the enclave.",
       "categoryId": "/aws/category/Compute"
     },
     {
@@ -53,6 +93,14 @@
       "shortName": "Batch",
       "iconPath": "AWS-Icons_07312025/Compute/AWS-Batch/Service_AWS-Batch.svg",
       "description": "AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS. AWS Batch dynamically provisions the optimal quantity and type of compute resources (such as CPU or memory-optimized instances) based on the volume and specific resource requirements of the batch jobs submitted. With AWS Batch, there is no need to install and manage batch computing software or server clusters that you use to run your jobs, allowing you to focus on analyzing results and solving problems. AWS Batch plans, schedules, and runs your batch computing workloads across the full range of AWS compute services and features, such as Amazon EC2 and Spot Instances.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/Bottlerocket",
+      "fullName": "Bottlerocket",
+      "shortName": "Bottlerocket",
+      "iconPath": "AWS-Icons_07312025/Compute/Bottlerocket/Service_Bottlerocket.svg",
+      "description": "Bottlerocket is a Linux-based open-source operating system that is purpose-built by AWS for running containers. Bottlerocket includes only the essential software needed to run containers, which improves resource utilization, reduces attack surface, and enhances security. The operating system is designed for automatic updates, with a focus on security and reliability for containerized workloads. Bottlerocket integrates seamlessly with container orchestrators like Amazon ECS and Amazon EKS, providing a minimal footprint OS that starts quickly and has lower operational overhead. Updates are applied in a single atomic step and can be rolled back if necessary, ensuring system stability and reducing downtime.",
       "categoryId": "/aws/category/Compute"
     },
     {
@@ -93,6 +141,30 @@
       "shortName": "Outposts",
       "iconPath": "AWS-Icons_07312025/Compute/AWS-Outposts-rack/Service_AWS-Outposts-rack.svg",
       "description": "AWS Outposts bring native AWS services, infrastructure, and operating models to virtually any data center, co-location space, or on-premises facility. You can use the same APIs, the same tools, the same hardware, and the same functionality across on-premises and the cloud to deliver a truly consistent hybrid experience. Outposts can be used to support workloads that need to remain on-premises due to low latency or local data processing needs.\nAWS Outposts come in two variants:\n• VMware Cloud on AWS Outposts allows you to use the same VMware control plane and APIs you use to run your infrastructure.\n• AWS-native variant of AWS Outposts allows you to use the same exact APIs and control plane you use to run in the AWS Cloud, but on-premises.\nAWS Outposts infrastructure is fully managed, maintained, and supported by AWS to deliver access to the latest AWS services. Getting started is easy, you simply log into the AWS Management Console to order your Outposts servers, choosing from a wide range of compute and storage options. You can order one or more servers, or quarter, half, and full rack units.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/OutpostsFamily",
+      "fullName": "AWS Outposts family",
+      "shortName": "Outposts family",
+      "iconPath": "AWS-Icons_07312025/Compute/AWS-Outposts-family/Service_AWS-Outposts-family.svg",
+      "description": "The AWS Outposts family is a collection of fully managed solutions that extend AWS infrastructure, services, APIs, and tools to virtually any on-premises or edge location for a consistent hybrid experience. The Outposts family includes AWS Outposts rack for larger deployments, AWS Outposts servers for smaller footprints, and various form factors optimized for different use cases. Whether you need substantial compute and storage capacity in your data center or a compact solution for edge locations, the Outposts family provides options that deliver the same AWS hardware infrastructure, services, and operational model on-premises as in the cloud. This allows you to run applications with low latency requirements or local data processing needs while maintaining consistency with your cloud-based workloads.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/ParallelComputingService",
+      "fullName": "AWS Parallel Computing Service",
+      "shortName": "Parallel Computing Service",
+      "iconPath": "AWS-Icons_07312025/Compute/AWS-Parallel-Computing-Service/Service_AWS-Parallel-Computing-Service.svg",
+      "description": "AWS Parallel Computing Service (PCS) is a fully managed service that makes it easier to run high performance computing (HPC) workloads at virtually any scale on AWS. PCS simplifies the setup, management, and scaling of HPC clusters by automating infrastructure provisioning and cluster orchestration. The service provides a managed environment for running tightly-coupled parallel workloads that require high-performance networking and low-latency communication between compute nodes. With PCS, you can focus on your computational research and applications rather than managing cluster infrastructure. The service integrates with popular HPC job schedulers and supports common HPC frameworks, enabling you to run simulations, modeling, and analysis workloads efficiently.",
+      "categoryId": "/aws/category/Compute"
+    },
+    {
+      "id": "/aws/service/SimSpaceWeaver",
+      "fullName": "AWS SimSpace Weaver",
+      "shortName": "SimSpace Weaver",
+      "iconPath": "AWS-Icons_07312025/Compute/AWS-SimSpace-Weaver/Service_AWS-SimSpace-Weaver.svg",
+      "description": "AWS SimSpace Weaver is a managed service for building and running large-scale spatial simulations in the cloud. SimSpace Weaver makes it possible to create simulations with millions of entities that can dynamically interact with each other across large virtual spaces. The service handles the complex infrastructure needed to run these massive simulations, automatically managing the compute resources and coordinating the simulation across multiple instances. SimSpace Weaver is ideal for applications such as crowd simulations, logistics optimization, smart city planning, and immersive virtual environments. By abstracting away the complexity of distributed computing, SimSpace Weaver enables developers to focus on simulation logic and scenarios rather than infrastructure management.",
       "categoryId": "/aws/category/Compute"
     },
     {

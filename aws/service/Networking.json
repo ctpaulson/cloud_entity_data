@@ -5,7 +5,15 @@
       "fullName": "Amazon API Gateway",
       "shortName": "API Gateway",
       "iconPath": "AWS-Icons_07312025/Networking-Content-Delivery/Amazon-API-Gateway/Service_Amazon-API-Gateway.svg",
-      "description": "Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. With a few clicks in the AWS Management Console, you can create an API that acts as a “front door” for applications to access data, business logic, or functionality from your back-end services, such as workloads running on Amazon EC2, code running on AWS Lambda, or any web application. Amazon API Gateway handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, monitoring, and API version management.",
+      "description": "Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. With a few clicks in the AWS Management Console, you can create an API that acts as a \"front door\" for applications to access data, business logic, or functionality from your back-end services, such as workloads running on Amazon EC2, code running on AWS Lambda, or any web application. Amazon API Gateway handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, monitoring, and API version management.",
+      "categoryId": "/aws/category/Networking"
+    },
+    {
+      "id": "/aws/service/ApplicationRecoveryController",
+      "fullName": "Amazon Application Recovery Controller",
+      "shortName": "Application Recovery Controller",
+      "iconPath": "AWS-Icons_07312025/Networking-Content-Delivery/Amazon-Application-Recovery-Controller/Service_Amazon-Application-Recovery-Controller.svg",
+      "description": "Amazon Application Recovery Controller provides capabilities to simplify and automate recovery for highly available applications running on AWS. The service helps you prepare for, monitor, and orchestrate recovery from application and infrastructure failures. Application Recovery Controller includes readiness checks that continually audit your application's recovery preparedness, routing control that enables you to quickly reroute traffic across application replicas during failures, and zonal shift capabilities that let you temporarily shift traffic away from an Availability Zone. These features work together to help you achieve reliable recovery and meet your availability goals, whether you're recovering from infrastructure failures or performing planned maintenance.",
       "categoryId": "/aws/category/Networking"
     },
     {
@@ -30,6 +38,14 @@
       "shortName": "Cloud Map",
       "iconPath": "AWS-Icons_07312025/Networking-Content-Delivery/AWS-Cloud-Map/Service_AWS-Cloud-Map.svg",
       "description": "AWS Cloud Map is a cloud resource discovery service. With AWS Cloud Map, you can define custom names for your application resources, and it maintains the updated location of these dynamically changing resources. This increases your application availability because your web service always discovers the most up-to-date locations of its resources.\nModern applications are typically composed of multiple services that are accessible over an API and perform a specific function. Each service interacts with a variety of other resources such as databases, queues, object stores, and customer-defined microservices, and they also need to be able to find the location of all the infrastructure resources on which it depends, in order to function. You typically manually manage all these resource names and their locations within the application code. However, manual resource management becomes time consuming and error-prone as the number of dependent infrastructure resources increases or the number of microservices dynamically scale up and down based on traffic. You can also use third-party service discovery products, but this requires installing and managing additional software and infrastructure.\nAWS Cloud Map allows you to register any application resources such as databases, queues, microservices, and other cloud resources with custom names. AWS Cloud Map then constantly checks the health of resources to make sure the location is up-to-date. The application can then query the registry for the location of the resources needed based on the application version and deployment environment.",
+      "categoryId": "/aws/category/Networking"
+    },
+    {
+      "id": "/aws/service/CloudWAN",
+      "fullName": "AWS Cloud WAN",
+      "shortName": "Cloud WAN",
+      "iconPath": "AWS-Icons_07312025/Networking-Content-Delivery/AWS-Cloud-WAN/Service_AWS-Cloud-WAN.svg",
+      "description": "AWS Cloud WAN is a managed wide-area networking (WAN) service that makes it easy to build, manage, and monitor a unified global network that connects resources running across your cloud and on-premises environments. Cloud WAN provides a central dashboard to create a global network in minutes, and uses automated provisioning to connect your branch offices, data centers, and Amazon Virtual Private Clouds (VPCs) across the AWS global network. You can define network policies to automate network management and security tasks, and get a complete view of your global network topology, health, and performance metrics. Cloud WAN simplifies the management of large-scale networks by providing centralized control and visibility across your entire WAN infrastructure.",
       "categoryId": "/aws/category/Networking"
     },
     {

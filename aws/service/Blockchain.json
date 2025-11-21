@@ -7,6 +7,14 @@
       "iconPath": "AWS-Icons_07312025/Blockchain/Amazon-Managed-Blockchain/Service_Amazon-Managed-Blockchain.svg",
       "description": "Amazon Managed Blockchain is a fully managed service that makes it easy to create and manage scalable blockchain networks using the popular open source frameworks Hyperledger Fabric and Ethereum.\nBlockchain makes it possible to build applications where multiple parties can run transactions without the need for a trusted, central authority. Today, building a scalable blockchain network with existing technologies is complex to set up and hard to manage. To create a blockchain network, each network member needs to manually provision hardware, install software, create and manage certificates for access control, and configure networking components. Once the blockchain network is running, you need to continuously monitor the infrastructure and adapt to changes, such as an increase in transaction requests, or new members joining or leaving the network.\nAmazon Managed Blockchain is a fully managed service that allows you to set up and manage a scalable blockchain network with just a few clicks. Amazon Managed Blockchain eliminates the overhead required to create the network, and automatically scales to meet the demands of thousands of applications running millions of transactions. Once your network is up and running, Managed Blockchain makes it easy to manage and maintain your blockchain network. It manages your certificates, lets you easily invite new members to join the network, and tracks operational metrics such as usage of compute, memory, and storage resources.",
       "categoryId": "/aws/category/Blockchain"
+    },
+    {
+      "id": "/aws/service/QLDB",
+      "fullName": "Amazon Quantum Ledger Database",
+      "shortName": "QLDB (Quantum Ledger Database)",
+      "iconPath": "AWS-Icons_07312025/Blockchain/Amazon-Quantum-Ledger-Database/Service_Amazon-Quantum-Ledger-Database.svg",
+      "description": "Amazon Quantum Ledger Database (QLDB) is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log owned by a central trusted authority. QLDB tracks each and every application data change and maintains a complete and verifiable history of changes over time. Ledgers are typically used to record a history of economic and financial activity in an organization. Many organizations build applications with ledger-like functionality because they want to maintain an accurate history of their applications' data. QLDB offers built-in immutability, which makes it easy to maintain a complete and verifiable history of all changes to your application's data.",
+      "categoryId": "/aws/category/Blockchain"
     }
   ]
 }

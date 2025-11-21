@@ -33,6 +33,14 @@
       "categoryId": "/aws/category/Business"
     },
     {
+      "id": "/aws/service/EndUserMessaging",
+      "fullName": "AWS End User Messaging",
+      "shortName": "End User Messaging",
+      "iconPath": "AWS-Icons_07312025/Business-Applications/AWS-End-User-Messaging/Service_AWS-End-User-Messaging.svg",
+      "description": "AWS End User Messaging is a service that enables you to send messages to end users across multiple channels including SMS, push notifications, and email. The service provides a unified API to send messages through different channels, making it easier to reach customers on their preferred communication platforms. With End User Messaging, you can send transactional messages such as order confirmations, authentication codes, and account notifications, as well as promotional campaigns. The service handles the complexity of managing multiple messaging providers, optimizing delivery routes, and ensuring compliance with regulations across different regions and channels.",
+      "categoryId": "/aws/category/Business"
+    },
+    {
       "id": "/aws/service/Pinpoint",
       "fullName": "Amazon Pinpoint",
       "shortName": "Pinpoint",
@@ -46,6 +54,22 @@
       "shortName": "SES (Simple Email Service)",
       "iconPath": "AWS-Icons_07312025/Business-Applications/Amazon-Simple-Email-Service/Service_Amazon-Simple-Email-Service.svg",
       "description": "Amazon Simple Email Service (Amazon SES) is a cost-effective, flexible, and scalable email service that enables developers to send mail from within any application. You can configure Amazon SES quickly to support several email use cases, including transactional, marketing, or mass email communications. The Amazon SES flexible IP deployment and email authentication options help drive higher deliverability and protect sender reputation, while sending analytics measure the impact of each email. With Amazon SES, you can send email securely, globally, and at scale.",
+      "categoryId": "/aws/category/Business"
+    },
+    {
+      "id": "/aws/service/SupplyChain",
+      "fullName": "AWS Supply Chain",
+      "shortName": "Supply Chain",
+      "iconPath": "AWS-Icons_07312025/Business-Applications/AWS-Supply-Chain/Service_AWS-Supply-Chain.svg",
+      "description": "AWS Supply Chain is a cloud-based application that unifies data from existing supply chain systems to provide improved visibility and insights. The service uses machine learning to generate actionable recommendations that help mitigate risks and lower costs. AWS Supply Chain automatically combines and analyzes supply chain data from disparate systems to provide a unified view of your supply chain, offering real-time visibility into inventory levels, demand forecasts, and potential disruptions. With built-in collaboration tools, AWS Supply Chain enables different stakeholders across your organization to work together more effectively to address supply chain challenges and optimize operations.",
+      "categoryId": "/aws/category/Business"
+    },
+    {
+      "id": "/aws/service/Wickr",
+      "fullName": "AWS Wickr",
+      "shortName": "Wickr",
+      "iconPath": "AWS-Icons_07312025/Business-Applications/AWS-Wickr/Service_AWS-Wickr.svg",
+      "description": "AWS Wickr is an end-to-end encrypted communication service that provides secure messaging, voice and video calling, file sharing, and screen sharing for businesses and organizations. Built with a zero-trust security model, Wickr ensures that only intended recipients can access communications, with no access by AWS or any third parties. The service offers features including message expiration, screenshot detection, and detailed administrative controls. AWS Wickr is designed for organizations that require the highest levels of security and privacy for their communications, including those in government, healthcare, financial services, and other regulated industries where protecting sensitive information is critical.",
       "categoryId": "/aws/category/Business"
     },
     {

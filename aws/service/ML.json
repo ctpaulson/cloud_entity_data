@@ -113,6 +113,22 @@
       "categoryId": "/aws/category/ML"
     },
     {
+      "id": "/aws/service/Neuron",
+      "fullName": "AWS Neuron",
+      "shortName": "Neuron",
+      "iconPath": "AWS-Icons_07312025/Artificial-Intelligence/AWS-Neuron/Service_AWS-Neuron.svg",
+      "description": "AWS Neuron is a software development kit (SDK) that enables high-performance deep learning inference using AWS Inferentia and AWS Trainium chips. Neuron includes a compiler, runtime, and profiling tools that optimize the performance of machine learning models for deployment on AWS machine learning accelerators. The Neuron SDK is pre-integrated with popular machine learning frameworks such as PyTorch and TensorFlow, making it easy to get started. With Neuron, you can deploy models with up to 50% better price-performance compared to GPU-based instances, while maintaining compatibility with your existing ML workflows and code.",
+      "categoryId": "/aws/category/ML"
+    },
+    {
+      "id": "/aws/service/Nova",
+      "fullName": "Amazon Nova",
+      "shortName": "Nova",
+      "iconPath": "AWS-Icons_07312025/Artificial-Intelligence/Amazon-Nova/Service_Amazon-Nova.svg",
+      "description": "Amazon Nova is a new generation of foundation models developed by AWS that deliver frontier intelligence and industry-leading price performance. The Amazon Nova family includes models for understanding images, videos, and text, as well as generating text, images, and videos. These models are designed to help developers and enterprises build generative AI applications with state-of-the-art capabilities. Amazon Nova models are available exclusively through Amazon Bedrock, providing seamless integration with AWS services and tools. The Nova family enables advanced use cases including multimodal understanding, content generation, and complex reasoning tasks.",
+      "categoryId": "/aws/category/ML"
+    },
+    {
       "id": "/aws/service/PartyRock",
       "fullName": "Amazon PartyRock",
       "shortName": "PartyRock",
@@ -200,11 +216,35 @@
       "categoryId": "/aws/category/ML"
     },
     {
+      "id": "/aws/service/ElasticInference",
+      "fullName": "Amazon Elastic Inference",
+      "shortName": "Elastic Inference",
+      "iconPath": "AWS-Icons_07312025/Artificial-Intelligence/Amazon-Elastic-Inference/Service_Amazon-Elastic-Inference.svg",
+      "description": "Amazon Elastic Inference allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker instances to reduce the cost of running deep learning inference by up to 75%. Elastic Inference reduces inference costs by allowing you to choose the instance type that is best suited to the overall CPU and memory needs of your application, and then separately configure the amount of inference acceleration that you need. With Amazon Elastic Inference, you no longer need to over-provision GPU compute instances for inference or under-utilize expensive GPU instances just to have access to the machine learning acceleration.",
+      "categoryId": "/aws/category/ML"
+    },
+    {
+      "id": "/aws/service/HealthImaging",
+      "fullName": "AWS HealthImaging",
+      "shortName": "HealthImaging",
+      "iconPath": "AWS-Icons_07312025/Artificial-Intelligence/AWS-HealthImaging/Service_AWS-HealthImaging.svg",
+      "description": "AWS HealthImaging is a HIPAA-eligible service that enables healthcare providers and their medical imaging ISV partners to store, analyze, and share medical images at petabyte scale. Medical imaging data is often stored in on-premises systems that are costly to maintain, require specialized expertise to manage, and don't scale easily. HealthImaging addresses these challenges by providing a scalable, reliable, and cost-effective solution for managing medical imaging data in the cloud. With HealthImaging, you can store imaging data from DICOM files in the cloud and make it accessible for analysis, while maintaining consistency with the original DICOM metadata.",
+      "categoryId": "/aws/category/ML"
+    },
+    {
       "id": "/aws/service/HealthLake",
       "fullName": "AWS HealthLake",
       "shortName": "HealthLake",
       "iconPath": "AWS-Icons_07312025/Artificial-Intelligence/AWS-HealthLake/Service_AWS-HealthLake.svg",
       "description": "AWS HealthLake is a HIPAA-eligible service that healthcare providers, health insurance companies, and pharmaceutical companies can use to store, transform, query, and analyze large-scale health data.",
+      "categoryId": "/aws/category/ML"
+    },
+    {
+      "id": "/aws/service/HealthOmics",
+      "fullName": "AWS HealthOmics",
+      "shortName": "HealthOmics",
+      "iconPath": "AWS-Icons_07312025/Artificial-Intelligence/AWS-HealthOmics/Service_AWS-HealthOmics.svg",
+      "description": "AWS HealthOmics is a purpose-built service that helps healthcare and life science organizations store, query, and analyze genomic, transcriptomic, and other omics data. HealthOmics provides built-in workflows for processing raw omics data, reference genome storage and retrieval, and variant store capabilities for querying across millions of samples. The service removes the undifferentiated heavy lifting involved in managing omics data at scale, allowing researchers to focus on deriving insights that can advance precision medicine, drug discovery, and population health initiatives. With HealthOmics, you can streamline your omics workflows and reduce the time from sequencing to insights.",
       "categoryId": "/aws/category/ML"
     },
     {

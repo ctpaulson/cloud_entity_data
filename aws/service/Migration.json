@@ -62,6 +62,14 @@
       "iconPath": "AWS-Icons_07312025/Migration-Modernization/AWS-Transfer-Family/Service_AWS-Transfer-Family.svg",
       "description": "AWS Transfer Family provides fully managed support for file transfers directly into and out of Amazon S3 or Amazon EFS. With support for Secure File Transfer Protocol (SFTP), File Transfer Protocol over SSL (FTPS), and File Transfer Protocol (FTP), the AWS Transfer Family helps you seamlessly migrate your file transfer workflows to AWS by integrating with existing authentication systems, and providing DNS routing with Amazon Route 53 so nothing changes for your customers and partners, or their applications. With your data in Amazon S3 or Amazon EFS, you can use it with AWS services for processing, analytics, ML, archiving, as well as home directories and developer tools. Getting started with the AWS Transfer Family is easy; there is no infrastructure to buy and set up.",
       "categoryId": "/aws/category/Migration"
+    },
+    {
+      "id": "/aws/service/Transform",
+      "fullName": "AWS Transform",
+      "shortName": "Transform",
+      "iconPath": "AWS-Icons_07312025/Migration-Modernization/AWS-Transform/Service_AWS-Transform.svg",
+      "description": "AWS Transform is a service that helps you accelerate the modernization of your applications by automating the transformation of legacy application code to modern languages and frameworks. Transform uses advanced automation and generative AI to analyze your existing applications and convert them to cloud-native architectures, reducing the time and effort required for application modernization projects. The service can help transform applications from older languages like COBOL or older versions of Java to modern languages and frameworks, making it easier to maintain applications, improve performance, and take advantage of cloud capabilities. AWS Transform reduces the risk and accelerates the timeline of modernization initiatives by automating repetitive and error-prone manual transformation tasks.",
+      "categoryId": "/aws/category/Migration"
     }
   ]
 }

@@ -57,6 +57,14 @@
       "categoryId": "/aws/category/Analytics"
     },
     {
+      "id": "/aws/service/Kinesis",
+      "fullName": "Amazon Kinesis",
+      "shortName": "Kinesis",
+      "iconPath": "AWS-Icons_07312025/Analytics/Amazon-Kinesis/Service_Amazon-Kinesis.svg",
+      "description": "Amazon Kinesis is a platform for streaming data on AWS, making it easy to collect, process, and analyze real-time streaming data. Kinesis offers capabilities to cost-effectively process streaming data at any scale, along with the flexibility to choose the tools that best suit the requirements of your application. With Amazon Kinesis, you can ingest real-time data such as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning, analytics, and other applications. The Kinesis family includes Kinesis Data Streams for custom stream processing, Kinesis Data Firehose for loading streaming data into data stores, Kinesis Data Analytics for analyzing streams with SQL, and Kinesis Video Streams for working with video data.",
+      "categoryId": "/aws/category/Analytics"
+    },
+    {
       "id": "/aws/service/KinesisDataStreams",
       "fullName": "Amazon Kinesis Data Streams",
       "shortName": "Kinesis Data Streams",
@@ -104,6 +112,14 @@
       "categoryId": "/aws/category/Analytics"
     },
     {
+      "id": "/aws/service/SageMaker",
+      "fullName": "Amazon SageMaker",
+      "shortName": "SageMaker",
+      "iconPath": "AWS-Icons_07312025/Analytics/Amazon-SageMaker/Service_Amazon-SageMaker.svg",
+      "description": "Amazon SageMaker is a fully managed machine learning platform that enables developers and data scientists to quickly build, train, and deploy machine learning models at scale. SageMaker provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly by bringing together a broad set of capabilities purpose-built for ML. SageMaker removes the heavy lifting from each step of the ML workflow to make it easier to develop high-quality models, and supports governance requirements with simplified access control and transparency over your ML projects. The platform accelerates innovation across your organization by providing all the tools needed for machine learning in a single unified experience.",
+      "categoryId": "/aws/category/Analytics"
+    },
+    {
       "id": "/aws/service/QuickSight",
       "fullName": "Amazon QuickSight",
       "shortName": "QuickSight",
@@ -148,6 +164,14 @@
       "shortName": "Glue",
       "iconPath": "AWS-Icons_07312025/Analytics/AWS-Glue/Service_AWS-Glue.svg",
       "description": "AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics. You can create and run an ETL job with a few clicks in the AWS Management Console. You simply point AWS Glue to your data stored in AWS, and AWS Glue discovers your data and stores the associated metadata (such as table definition and schema) in the AWS Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for ETL.\nAWS Glue Data Integration Engines provide access to data using Apache Spark, PySpark, and Python. With the addition of AWS Glue for Ray, you can further scale your workloads using Ray, an open-source unified compute framework.\nAWS Glue Data Quality can measure and monitor the data quality of Amazon S3 based data lakes, data warehouses, and other data repositories. It automatically computes statistics, recommends quality rules, and can monitor and alert you when it detects missing, stale, or bad data. You can access it in the AWS Glue Data Catalog and in AWS Glue Data Catalog ETL jobs.",
+      "categoryId": "/aws/category/Analytics"
+    },
+    {
+      "id": "/aws/service/GlueDataBrew",
+      "fullName": "AWS Glue DataBrew",
+      "shortName": "Glue DataBrew",
+      "iconPath": "AWS-Icons_07312025/Analytics/AWS-Glue-DataBrew/Service_AWS-Glue-DataBrew.svg",
+      "description": "AWS Glue DataBrew is a visual data preparation tool that makes it easy for data analysts and data scientists to clean and normalize data to prepare it for analytics and machine learning. DataBrew reduces the time it takes to prepare data for analytics and ML by providing a visual interface where you can perform data preparation tasks without writing code. With over 250 pre-built transformations, DataBrew automates data preparation tasks such as filtering anomalies, converting data to standard formats, and correcting invalid values. You can choose from over 250 ready-made transformations to automate data preparation tasks, all without the need to write any code. Once your data is ready, you can immediately use it for analytics and ML projects.",
       "categoryId": "/aws/category/Analytics"
     },
     {
