@@ -46,7 +46,7 @@
             "id": "aws/resourcetype/AWSAlexaASKSkill",
             "cfnIdentifier": "AWS::Alexa::ASK::Skill",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/IoTCore",
+            "serviceId": null,
             "isMapped": false
         },
         {
@@ -431,21 +431,21 @@
             "id": "aws/resourcetype/AppIntegrationsApplication",
             "cfnIdentifier": "AWS::AppIntegrations::Application",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EventBridge",
+            "serviceId": "/aws/service/Connect",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AppIntegrationsDataIntegration",
             "cfnIdentifier": "AWS::AppIntegrations::DataIntegration",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EventBridge",
+            "serviceId": "/aws/service/Connect",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/AppIntegrationsEventIntegration",
             "cfnIdentifier": "AWS::AppIntegrations::EventIntegration",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EventBridge",
+            "serviceId": "/aws/service/Connect",
             "isMapped": false
         },
         {
@@ -2895,28 +2895,28 @@
             "id": "aws/resourcetype/EC2ClientVpnAuthorizationRule",
             "cfnIdentifier": "AWS::EC2::ClientVpnAuthorizationRule",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPN",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2ClientVpnEndpoint",
             "cfnIdentifier": "AWS::EC2::ClientVpnEndpoint",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPN",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2ClientVpnRoute",
             "cfnIdentifier": "AWS::EC2::ClientVpnRoute",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPN",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2ClientVpnTargetNetworkAssociation",
             "cfnIdentifier": "AWS::EC2::ClientVpnTargetNetworkAssociation",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPN",
             "isMapped": false
         },
         {
@@ -2958,14 +2958,14 @@
             "id": "aws/resourcetype/EC2EnclaveCertificateIamRoleAssociation",
             "cfnIdentifier": "AWS::EC2::EnclaveCertificateIamRoleAssociation",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/NitroEnclaves",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2FlowLog",
             "cfnIdentifier": "AWS::EC2::FlowLog",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
@@ -2993,49 +2993,49 @@
             "id": "aws/resourcetype/EC2IPAM",
             "cfnIdentifier": "AWS::EC2::IPAM",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2IPAMAllocation",
             "cfnIdentifier": "AWS::EC2::IPAMAllocation",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2IPAMPool",
             "cfnIdentifier": "AWS::EC2::IPAMPool",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2IPAMPoolCidr",
             "cfnIdentifier": "AWS::EC2::IPAMPoolCidr",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2IPAMResourceDiscovery",
             "cfnIdentifier": "AWS::EC2::IPAMResourceDiscovery",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2IPAMResourceDiscoveryAssociation",
             "cfnIdentifier": "AWS::EC2::IPAMResourceDiscoveryAssociation",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2IPAMScope",
             "cfnIdentifier": "AWS::EC2::IPAMScope",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
@@ -3112,28 +3112,28 @@
             "id": "aws/resourcetype/EC2NetworkInsightsAccessScope",
             "cfnIdentifier": "AWS::EC2::NetworkInsightsAccessScope",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2NetworkInsightsAccessScopeAnalysis",
             "cfnIdentifier": "AWS::EC2::NetworkInsightsAccessScopeAnalysis",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2NetworkInsightsAnalysis",
             "cfnIdentifier": "AWS::EC2::NetworkInsightsAnalysis",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2NetworkInsightsPath",
             "cfnIdentifier": "AWS::EC2::NetworkInsightsPath",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
@@ -3168,14 +3168,14 @@
             "id": "aws/resourcetype/EC2PrefixList",
             "cfnIdentifier": "AWS::EC2::PrefixList",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2Route",
             "cfnIdentifier": "AWS::EC2::Route",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
@@ -3273,28 +3273,28 @@
             "id": "aws/resourcetype/EC2TrafficMirrorFilter",
             "cfnIdentifier": "AWS::EC2::TrafficMirrorFilter",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2TrafficMirrorFilterRule",
             "cfnIdentifier": "AWS::EC2::TrafficMirrorFilterRule",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2TrafficMirrorSession",
             "cfnIdentifier": "AWS::EC2::TrafficMirrorSession",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2TrafficMirrorTarget",
             "cfnIdentifier": "AWS::EC2::TrafficMirrorTarget",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VPC",
             "isMapped": false
         },
         {
@@ -3392,28 +3392,28 @@
             "id": "aws/resourcetype/EC2VerifiedAccessEndpoint",
             "cfnIdentifier": "AWS::EC2::VerifiedAccessEndpoint",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VerifiedAccess",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2VerifiedAccessGroup",
             "cfnIdentifier": "AWS::EC2::VerifiedAccessGroup",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VerifiedAccess",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2VerifiedAccessInstance",
             "cfnIdentifier": "AWS::EC2::VerifiedAccessInstance",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VerifiedAccess",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/EC2VerifiedAccessTrustProvider",
             "cfnIdentifier": "AWS::EC2::VerifiedAccessTrustProvider",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/EC2",
+            "serviceId": "/aws/service/VerifiedAccess",
             "isMapped": false
         },
         {
@@ -7809,42 +7809,42 @@
             "id": "aws/resourcetype/RoboMakerFleet",
             "cfnIdentifier": "AWS::RoboMaker::Fleet",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/DeepRacer",
+            "serviceId": "/aws/service/RoboMaker",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/RoboMakerRobot",
             "cfnIdentifier": "AWS::RoboMaker::Robot",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/DeepRacer",
+            "serviceId": "/aws/service/RoboMaker",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/RoboMakerRobotApplication",
             "cfnIdentifier": "AWS::RoboMaker::RobotApplication",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/DeepRacer",
+            "serviceId": "/aws/service/RoboMaker",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/RoboMakerRobotApplicationVersion",
             "cfnIdentifier": "AWS::RoboMaker::RobotApplicationVersion",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/DeepRacer",
+            "serviceId": "/aws/service/RoboMaker",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/RoboMakerSimulationApplication",
             "cfnIdentifier": "AWS::RoboMaker::SimulationApplication",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/DeepRacer",
+            "serviceId": "/aws/service/RoboMaker",
             "isMapped": false
         },
         {
             "id": "aws/resourcetype/RoboMakerSimulationApplicationVersion",
             "cfnIdentifier": "AWS::RoboMaker::SimulationApplicationVersion",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/DeepRacer",
+            "serviceId": "/aws/service/RoboMaker",
             "isMapped": false
         },
         {
@@ -8509,7 +8509,7 @@
             "id": "aws/resourcetype/SDBDomain",
             "cfnIdentifier": "AWS::SDB::Domain",
             "typeIdentifier": null,
-            "serviceId": "/aws/service/DynamoDB",
+            "serviceId": "/aws/service/SimpleDB",
             "isMapped": false
         },
         {

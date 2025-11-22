@@ -95,6 +95,13 @@
       "iconPath": "AWS-Icons_07312025/Compute/Amazon-Lightsail/Service_Amazon-Lightsail.svg",
       "description": "Amazon Lightsail managed databases are separate from compute workloads, so you can build applications and websites on Lightsail instances without interruption. Lightsail supports MySQL and PostgreSQL databases, and you can configure them for standard availability for regular workloads or high availability for critical workloads. Lightsail-managed databases bundle the underlying compute, SSD-based storage, and data transfer bandwidth into a fixed monthly price. You can manage your Lightsail-managed database by using the Lightsail console, the AWS Command Line Interface (AWS CLI), the Lightsail API, or an AWS SDK.",
       "categoryId": "/aws/category/Databases"
+    },
+    {
+      "id": "/aws/service/SimpleDB",
+      "fullName": "Amazon SimpleDB",
+      "shortName": "SimpleDB",
+      "description": "Amazon SimpleDB is a highly available NoSQL data store that offloads the work of database administration. SimpleDB is a legacy service that provides a simple web services interface to create and store multiple data sets, query data easily, and return results. As a managed service, SimpleDB automatically handles infrastructure provisioning, hardware and software maintenance, replication and indexing of data items, and performance tuning. While Amazon DynamoDB is recommended for new applications requiring a NoSQL database, SimpleDB continues to be available for existing applications and workloads.",
+      "categoryId": "/aws/category/Databases"
     }
   ]
 }

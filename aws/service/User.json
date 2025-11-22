@@ -34,6 +34,7 @@
       "id": "/aws/service/WorkSpacesWeb",
       "fullName": "Amazon Workspaces Web",
       "shortName": "WorkSpaces Web",
+      "iconPath": "AWS-Icons_07312025/End-User-Computing/Amazon-WorkSpaces-Family/Service_Amazon-WorkSpaces-Family.svg",
       "description": "Amazon WorkSpaces Web is a low-cost, fully managed workspace built specifically to facilitate secure access to internal websites and software-as-a-service (SaaS) applications from existing web browsers, without the administrative burden of appliances or specialized client software. Protect internal content with enterprise controls, while providing access to all the web-based productivity tools users need from any browser. WorkSpaces Web makes it easy for customers to safely provide their employees with access to internal websites and SaaS web applications without the administrative burden of appliances or specialized client software. WorkSpaces Web provides simple policy tools tailored for user interactions, while offloading common tasks like capacity management, scaling, and maintaining browser images.",
       "categoryId": "/aws/category/User"
     }

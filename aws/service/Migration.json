@@ -44,6 +44,7 @@
       "id": "/aws/service/SnowFamily",
       "fullName": "AWS Snow Family",
       "shortName": "Snow Family",
+      "iconPath": "AWS-Icons_07312025/Storage/AWS-Snowball/Service_AWS-Snowball.svg",
       "description": "The AWS Snow Family helps customers that need to run operations in austere, non-data center environments, and in locations where there's lack of consistent network connectivity. The Snow Family comprises AWS Snowball and AWS Snowball Edge, and offers a number of physical devices and capacity points, most with built-in computing capabilities. These services help physically transport up to exabytes of data into and out of AWS. Snow Family devices are owned and managed by AWS and integrate with AWS security, monitoring, storage management, and computing capabilities.",
       "categoryId": "/aws/category/Migration"
     },
