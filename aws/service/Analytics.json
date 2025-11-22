@@ -92,6 +92,7 @@
       "id": "/aws/service/OpenSearchServerless",
       "fullName": "Amazon OpenSearch Serverless",
       "shortName": "OpenSearch Serverless",
+      "iconPath": "AWS-Icons_07312025/Analytics/Amazon-OpenSearch-Service/Service_Amazon-OpenSearch-Service.svg",
       "description": "Amazon OpenSearch Serverless is a serverless option in Amazon OpenSearch Service. As a developer, you can use OpenSearch Serverless to run petabyte-scale workloads without configuring, managing, and scaling OpenSearch clusters. You get the same interactive millisecond response times as OpenSearch Service with the simplicity of a serverless environment.\nThe vector engine for Amazon OpenSearch Serverless, adds a simple, scalable, and high-performing vector storage and search capability to help developers build ML-augmented search experiences and generative Al applications without having to manage vector database infrastructure. Use cases for vector search collections include image search, document search, music retrieval, product recommendation, video search, location-based search, fraud detection, and anomaly detection.",
       "categoryId": "/aws/category/Analytics"
     },

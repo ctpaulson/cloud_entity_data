@@ -216,6 +216,13 @@
       "categoryId": "/aws/category/ML"
     },
     {
+      "id": "/aws/service/RoboMaker",
+      "fullName": "AWS RoboMaker",
+      "shortName": "RoboMaker",
+      "description": "AWS RoboMaker is a service that makes it easy to develop, test, and deploy intelligent robotics applications at scale. RoboMaker extends the Robot Operating System (ROS) framework with cloud services including AWS machine learning services, monitoring services, and analytics services. RoboMaker provides a robotics development environment for application development, a robotics simulation service to accelerate application testing, and a robotics fleet management service for remote application deployment, update, and management. With RoboMaker, you can build intelligent robotics applications that leverage cloud services such as Amazon Rekognition for computer vision, Amazon Lex for natural language understanding, and Amazon Polly for speech generation. RoboMaker simulations enable you to run and scale simulation jobs without provisioning or managing any infrastructure, allowing you to rapidly test variations and validate robotics applications in realistic virtual environments.",
+      "categoryId": "/aws/category/ML"
+    },
+    {
       "id": "/aws/service/ElasticInference",
       "fullName": "Amazon Elastic Inference",
       "shortName": "Elastic Inference",
